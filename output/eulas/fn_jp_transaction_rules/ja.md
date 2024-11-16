@@ -1,6 +1,6 @@
 # 特定商取引に基づく表示
 
-[JP] Payment Services Act
+> [JP] Payment Services Act
 
 | Key | Value |
 | --- | ----- |

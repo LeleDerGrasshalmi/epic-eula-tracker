@@ -1,6 +1,6 @@
 # 포트나이트® 최종이용자 라이선스계약
 
-PC EULA for the time being until proper PS4 EULA is delivered
+> PC EULA for the time being until proper PS4 EULA is delivered
 
 | Key | Value |
 | --- | ----- |

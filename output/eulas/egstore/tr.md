@@ -1,6 +1,6 @@
 # <EULA.Header>EPIC GAMES MAĞAZASI SON KULLANICI LİSANS ANLAŞMASI</>
 
-Store EULA
+> Store EULA
 
 | Key | Value |
 | --- | ----- |

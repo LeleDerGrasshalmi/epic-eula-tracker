@@ -1,6 +1,6 @@
 # Fortnite® End User License Agreement
 
-Should have already been replaced by "mfnlaunch". Waiting for confirmation before deactivating.
+> Should have already been replaced by "mfnlaunch". Waiting for confirmation before deactivating.
 
 | Key | Value |
 | --- | ----- |

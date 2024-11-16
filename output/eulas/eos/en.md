@@ -1,6 +1,6 @@
 # <EULA.Header>Epic Games Online Services End User License Agreement</>
 
-<EULA.Header>Agreement for the Epic Games Online Services</>
+> <EULA.Header>Agreement for the Epic Games Online Services</>
 
 | Key | Value |
 | --- | ----- |

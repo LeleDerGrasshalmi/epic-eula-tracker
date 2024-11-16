@@ -1,6 +1,6 @@
 # RealityScan End User License Agreement (iOS)
 
-RealityScan End User License Agreement (iOS)
+> RealityScan End User License Agreement (iOS)
 
 | Key | Value |
 | --- | ----- |

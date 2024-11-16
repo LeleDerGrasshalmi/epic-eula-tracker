@@ -1,6 +1,6 @@
 # Agree to receive promotional notification emails
 
-Agree to receive promotional notification emails
+> Agree to receive promotional notification emails
 
 | Key | Value |
 | --- | ----- |

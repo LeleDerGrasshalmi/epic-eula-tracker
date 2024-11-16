@@ -1,6 +1,6 @@
 # <EULA.Header>Unreal Editor for Fortnite Supplemental Terms to the EULA</>
 
-EULA for Unreal Editor for Fortnite
+> EULA for Unreal Editor for Fortnite
 
 | Key | Value |
 | --- | ----- |

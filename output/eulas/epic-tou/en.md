@@ -1,6 +1,6 @@
 # TOU agreement
 
-TOU agreement
+> TOU agreement
 
 | Key | Value |
 | --- | ----- |

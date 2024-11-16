@@ -1,6 +1,6 @@
 # Fab End User License Agreement_en
 
-Fab's general EULA - seperate from distribution agreement, seen during Onboarding (please see fab-marketplace for that).
+> Fab's general EULA - seperate from distribution agreement, seen during Onboarding (please see fab-marketplace for that).
 
 | Key | Value |
 | --- | ----- |

@@ -1,6 +1,6 @@
 # <EULA.Header>Affiliate Code of Conduct</>
 
-<EULA.Header>Affiliate Code of Conduct</>
+> <EULA.Header>Affiliate Code of Conduct</>
 
 | Key | Value |
 | --- | ----- |

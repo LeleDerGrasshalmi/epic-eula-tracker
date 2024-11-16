@@ -1,6 +1,6 @@
 # The consent for the collection and use of personal information
 
-The consent for the collection and use of personal information
+> The consent for the collection and use of personal information
 
 | Key | Value |
 | --- | ----- |

@@ -1,6 +1,6 @@
 # [JP] Payment Services Act
 
-[JP] Payment Services Act
+> [JP] Payment Services Act
 
 | Key | Value |
 | --- | ----- |

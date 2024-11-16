@@ -1,6 +1,6 @@
 # [JP] Payment Services Act
 
-[JP] Transaction Rules
+> [JP] Transaction Rules
 
 | Key | Value |
 | --- | ----- |

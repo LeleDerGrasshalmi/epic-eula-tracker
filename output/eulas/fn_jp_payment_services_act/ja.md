@@ -1,6 +1,6 @@
 # 資金決済法に基づく表示
 
-[JP] Transaction Rules
+> [JP] Transaction Rules
 
 | Key | Value |
 | --- | ----- |

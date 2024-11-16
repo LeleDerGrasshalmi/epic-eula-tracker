@@ -1,6 +1,6 @@
 # <EULA.Header>CONTRATTO DI LICENZA PER L’UTENTE FINALE EPIC GAMES STORE</>
 
-Store EULA
+> Store EULA
 
 | Key | Value |
 | --- | ----- |

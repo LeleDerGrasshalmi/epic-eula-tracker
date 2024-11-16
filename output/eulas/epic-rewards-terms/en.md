@@ -1,6 +1,6 @@
 # EPIC REWARDS TERMS AND CONDITIONS
 
-Epic Rewards Terms and Conditions
+> Epic Rewards Terms and Conditions
 
 | Key | Value |
 | --- | ----- |
