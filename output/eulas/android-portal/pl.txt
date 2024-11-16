@@ -1,0 +1,215 @@
+Niniejszą Umowę należy uważnie przeczytać. Jest to dokument prawny wyjaśniający prawa i obowiązki użytkownika związane z korzystaniem z Oprogramowania, w tym wszelkich Usług, do których użytkownik uzyskuje dostęp za pośrednictwem Oprogramowania. Pobierając Oprogramowanie lub korzystając z niego bądź wyrażając akceptację niniejszej Umowy w inny sposób, użytkownik zobowiązuje się przestrzegać jej warunków. W przypadku niewyrażania lub niemożności wyrażenia zgody na warunki niniejszej Umowy prosimy o niepobieranie lub niewykorzystywanie tego Oprogramowania.
+
+Chcemy w szczególności zwrócić uwagę na niektóre ważne pojęcia, polityki i procedury zawarte w niniejszej Umowie. Akceptując niniejszą Umowę:
+
+1.	Użytkownik zgadza się również na inne zasady i polityki Epic, które są wyraźnie włączane do tej Umowy. Prosimy o ich uważne przeczytanie:
+
+Nasza <a id="url" href="https://www.epicgames.com/site/en-US/privacypolicy" style="EULA.Hyperlink">Polityka prywatności</> opisuje, jakie informacje gromadzimy od użytkownika i w jaki sposób je chronimy.
+
+Nasze <a id="url" href="https://www.epicgames.com/site/en-US/tos" style="EULA.Hyperlink">Warunki świadczenia usług</> zawierają zasady dotyczące naszych witryn.
+
+
+2.	Użytkownik i Epic zobowiązują się rozwiązywać występujące pomiędzy nimi spory w drodze arbitrażu indywidualnego (a nie przed sądem). Uważamy, że alternatywny proces rozwiązywania sporów w drodze arbitrażu pozwoli sprawiedliwie rozwiązywać wszelkie spory w sposób szybszy i wydajniejszy niż formalne postępowanie sądowe. Proces ten został dokładniej opisany w Punkcie 10, jednak informację na jego temat przedstawiamy na początku (drukowanymi literami), ponieważ jest on bardzo ważny:
+
+
+<EULA.Highlight>NINIEJSZA UMOWA ZAWIERA POSTANOWIENIE DOTYCZĄCE WIĄŻĄCEGO ARBITRAŻU INDYWIDUALNEGO I ZRZECZENIA SIĘ PRAWA DO WNIESIENIA POZWU ZBIOROWEGO. W PRZYPADKU PRZYJĘCIA NINIEJSZJ UMOWY UŻYTKOWNIK I EPIC ZOBOWIĄZUJĄ SIĘ ROZWIĄZYWAĆ SPORY W DRODZE WIĄŻĄCEGO ARBITRAŻU INDYWIDUALNEGO I ZRZEC SIĘ PRAWA DO WSTĄPIENIA NA DROGĘ SĄDOWĄ INDYWIDUALNIE ALBO W RAMACH POZWU ZBIOROWEGO, A EPIC ZOBOWIĄZUJE SIĘ OPŁACIĆ KOSZTY UCZESTNICTWA UŻYTKOWNIKA W POSTĘPOWANIU ARBITRAŻOWYM W PRZYPADKU WSZYSTKICH PROWADZONYCH W DOBREJ WIERZE SPORÓW O MAKSYMALNEJ WARTOŚCI PRZEDMIOTU SPORU WYNOSZĄCEJ 10 000 USD (PATRZ PUNKT 10). </>
+
+ABY ZAWRZEĆ NINIEJSZĄ UMOWĘ LICENCYJNĄ, UŻYTKOWNIK MUSI BYĆ OSOBĄ PEŁNOLETNIĄ W MYŚL PRAWA OBOWIĄZUJĄCEGO W JEGO KRAJU ZAMIESZKANIA. UŻYTKOWNIK PONOSI ODPOWIEDZIALNOŚĆ PRAWNĄ I FINANSOWĄ ZA WSZYSTKIE DZIAŁANIA ZWIĄZANE Z KORZYSTANIEM Z NASZEGO OPROGRAMOWANIA ALBO UZYSKIWANIEM DO NIEGO DOSTĘPU, W TYM ZA DZIAŁANIA WSZYSTKICH OSÓB, KTÓRYM UMOŻLIWIA DOSTĘP DO SWOJEGO KONTA. UŻYTKOWNIK POTWIERDZA, ŻE JEST PEŁNOLETNI ORAZ ŻE ROZUMIE I PRZYJMUJE POSTANOWIENIA NINIEJSZEJ UMOWY (W TYM POSTANOWIENIA DOTYCZĄCE ROZWIĄZYWANIA SPORÓW). JEŻELI UŻYTKOWNIK JEST NIEPEŁNOLETNI, JEGO RODZIC ALBO OPIEKUN PRAWNY MUSI WYRAZIĆ ZGODĘ NA POSTANOWIENIA NINIEJSZEJ UMOWY.
+
+Pewne słowa lub wyrażenia używane w niniejszej Umowie mają określone zdefiniowane znaczenie. Te słowa i wyrażenia zostały zdefiniowane poniżej w Punkcie 14.
+
+Jeżeli główne miejsce zamieszkania użytkownika znajduje się w Stanach Zjednoczonych, to użytkownik zawiera umowę ze spółką Epic Games, Inc. Jeżeli miejsce zamieszkania użytkownika nie znajduje się w Stanach Zjednoczonych, użytkownik zawiera umowę z Epic Games International S.à r.l. działającą za pośrednictwem swojego szwajcarskiego oddziału.
+
+<EULA.Header>1.	Udzielenie Licencji </>
+
+Epic udziela użytkownikowi osobistego, niewyłącznego, niezbywalnego oraz nieobejmującego prawa do sublicencji ograniczonego prawa i licencji na zainstalowanie jednego egzemplarza Oprogramowania na Urządzeniach Dozwolonych oraz na korzystanie z tego egzemplarza na Urządzeniach Dozwolonych wyłącznie w celu pobrania, zainstalowania i uruchamiania Aplikacji do osobistego użytku o charakterze rozrywkowym („Licencja”). Prawa, których firma Epic udziela użytkownikowi na mocy Licencji, podlegają warunkom niniejszej Umowy, a użytkownik może korzystać z Licencji tylko wtedy, gdy przestrzega wszystkich obowiązujących warunków.
+Licencja wchodzi w życie z dniem zaakceptowania niniejszej Umowy przez użytkownika. Oprogramowanie jest licencjonowane, a nie sprzedawane użytkownikowi na podstawie Licencji. Licencja nie przyznaje użytkownikowi żadnego tytułu ani prawa własności do Oprogramowania.
+
+
+<EULA.Header>2. Warunki Licencji</>
+
+Użytkownik nie może wykonywać następujących czynności w odniesieniu do Oprogramowania ani jakiejkolwiek jego części: (a) używać go w celach komercyjnych lub promocyjnych; (b) kopiować, powielać, rozpowszechniać (w tym przez serwer sieciowy), wyświetlać lub używać w sposób, który nie jest wyraźnie dozwolony w niniejszej Umowie; (c) sprzedawać, wynajmować, dzierżawić, licencjonować, rozpowszechniać lub w inny sposób przekazywać; (d) odtwarzać, pozyskiwać kodu źródłowego, modyfikować, adaptować, tłumaczyć, dekompilować ani demontować go ani tworzyć opartych na nim utworów zależnych; (e) usuwać, dezaktywować, omijać ani modyfikować żadnych informacji lub etykiet o prawach własności intelektualnej bądź zawartych w nich technologii bezpieczeństwa; (f) tworzyć, rozwijać, rozpowszechniać ani używać żadnych niedozwolonych programów komputerowych, aby uzyskać przewagę w dowolnym trybie online lub w innych trybach gry; (g) używać go w celu naruszenia praw jakiejkolwiek osoby trzeciej, w tym między innymi praw własności intelektualnej, praw do ochrony wizerunku lub praw do prywatności; (h) używać, eksportować lub reeksportować go z naruszeniem jakiegokolwiek obowiązującego prawa lub regulacji; (i) używać go na maszynie wirtualnej lub innym emulatorze lub w systemie operacyjnym innym niż Android; (j) używać go na urządzeniu innym niż Urządzenie Dozwolone; lub (k) zachowywać się w sposób, który utrudnia innym użytkownikom czerpanie satysfakcji z Oprogramowania lub jakiejkolwiek Aplikacji w sposób zamierzony przez Epic, zgodnie z dyskrecjonalną oceną Epic, w tym między innymi: nękać, używać obelżywego lub obraźliwego języka, porzucać grę, sabotować grę, spamować, używać technik socjotechnicznych lub oszukiwać, stosować metod, które nie zostały dopuszczone przez Epic i które zakłócają wyniki i/lub działanie Oprogramowania (w tym cheatów, botów, skryptów lub modów, na których używanie firma Epic nie udzieliła wyraźnie zezwolenia), dając użytkownikowi i/lub innemu użytkownikowi przewagę nad innymi graczami, którzy nie stosują takich metod, lub tworzyć bądź w inny sposób przyczyniać się do powstania takiego nieupoważnionego oprogramowania.
+
+Oprogramowanie może zawierać program lub funkcje Wykrywania Cheatów lub użytkownik może zostać poproszony o zainstalowanie programu do wykrywania oszustw podczas instalacji Oprogramowania. Jeśli użytkownik nie zgodzi się na instalację programu do Wykrywania Cheatów lub w dowolnej chwili usunie lub wyłączy program lub funkcje do Wykrywania Cheatów, udzielona mu Licencja automatycznie wygaśnie, a użytkownik nie będzie mógł korzystać z Oprogramowania. Oprogramowanie lub program do Wykrywania Cheatów może gromadzić i przesyłać informacje o koncie i rozgrywce użytkownika oraz potencjalnie nieautoryzowanych programach lub procesach w związku z Wykrywaniem Cheatów, z zastrzeżeniem Polityki prywatności Epic. W przypadku wykrycia Cheatów użytkownik zgadza się, że firma Epic może skorzystać z dowolnych z praw przysługujących jej na mocy niniejszej Umowy.
+
+Licencja nie obejmuje prawa do używania Aplikacji pobranych lub zainstalowanych przy pomocy Oprogramowania. Prawo użytkownika do używania Aplikacji podlega jej umowie licencyjnej użytkownika końcowego.
+
+
+<EULA.Header>3.	Aktualizacje i poprawki</>
+
+Epic może dostarczać poprawki, aktualizacje lub ulepszenia do Oprogramowania, które należy instalować w celu dalszego korzystania z Oprogramowania lub Usług. Epic może zdalnie aktualizować Oprogramowanie bez powiadomienia o tym użytkownika, a użytkownik niniejszym wyraża zgodę na wprowadzanie przez Epic poprawek, aktualizacji i ulepszeń. Epic może w każdym czasie zmodyfikować, zawiesić, przerwać, zamienić, zastąpić lub ograniczyć dostęp użytkownika do dowolnego aspektu Oprogramowania lub Usług. Użytkownik przyjmuje do wiadomości, że korzystanie z Oprogramowania lub Usług nie wiąże się z żadnymi prawami, majątkowymi ani innymi, do żadnego aspektu czy funkcji Oprogramowania lub Aplikacji. Epic nie ma żadnych zobowiązań dotyczących konserwacji ani wsparcia w odniesieniu do Oprogramowania lub Usług.
+
+
+<EULA.Header>4.	Opinie</>
+
+Jeżeli użytkownik przekazuje Epic jakiekolwiek Opinie, niniejszym udziela Epic niewyłącznej, w pełni opłaconej, wolnej od tantiem, światowej, nieodwołalnej, bezterminowej, przenoszalnej, podlegającej sublicencjonowaniu i cesji licencji na powielanie, rozpowszechnianie, modyfikowanie Opinii, przygotowywanie dzieł pochodnych opartych na Opiniach, publiczne wykonywanie, publiczne wyświetlanie, wytwarzanie, zlecanie wytwarzania, wykorzystywanie, sprzedawanie, proponowanie sprzedawania, importowanie i innego rodzaju wykorzystywanie tych Opinii w dowolnych celach, za pomocą wszystkich obecnych i przyszłych metod oraz form eksploatacji. „Opinie” oznaczają sugestie, komentarze, pomysły i inne rodzaje informacji, w tym oprogramowanie i kod, które użytkownik przekazuje, publikuje lub w inny sposób komunikuje bezpośrednio lub pośrednio (w tym poprzez pracowników, przedstawicieli, wykonawców lub przedstawicieli użytkownika) firmie Epic lub jej przedstawicielom, mające związek z Usługami, Oprogramowaniem lub Aplikacjami. Jeżeli którekolwiek z tych praw nie mogą być licencjonowane na mocy obowiązującego prawa (np. osobiste prawa autorskie lub inne prawa osobiste), użytkownik niniejszym zrzeka się wszystkich tych praw i zgadza się ich nie dochodzić. Użytkownik rozumie i zgadza się, że firma Epic nie jest zobowiązana do wykorzystywania jakichkolwiek dostarczanych przez niego Opinii. Użytkownik zgadza się, że jeśli Epic wykorzysta jego Opinię, nie będzie zobowiązana do uznania jego autorstwa ani przyznania wynagrodzenia za jego wkład. Użytkownik oświadcza i zapewnia, że posiada wystarczające prawa do wszelkich Opinii przekazywanych Epic w celu przyznania Epic oraz innym zainteresowanym stronom opisanych powyżej praw. Obejmuje to między innymi prawa własności intelektualnej i inne prawa własności lub prawa osobiste.
+
+<EULA.Header>5.	Prawo własności / licencje osób trzecich</> 
+
+Epic i jej licencjodawcy posiadają wszelkie prawa własności i wszelkie prawa własności intelektualnej do Oprogramowania oraz Usług. Epic, Epic Games, Unreal, Unreal Engine i Fortnite oraz ich odpowiednie logo są znakami towarowymi lub zastrzeżonymi znakami towarowymi Epic i jej podmiotów stowarzyszonych w Stanach Zjednoczonych Ameryki Północnej i innych krajach. Wszelkie prawa przyznane użytkownikowi na podstawie niniejszej Umowy są udzielane wyłącznie na podstawie wyraźnej licencji, a nie w drodze sprzedaży. Niniejsza Umowa nie rodzi żadnych licencji ani innych praw przez domniemanie, estoppel ani na innej podstawie.
+
+Oprogramowanie zawiera pewne elementy dostarczone przez licencjodawców Epic. Listę twórców i informacje dotyczące elementów osób trzecich można znaleźć w interfejsie Oprogramowania.
+
+
+<EULA.Header>6.	Zastrzeżenia i ograniczenie odpowiedzialności</> 
+
+<EULA.Highlight>Żadne postanowienia niniejszej Umowy nie naruszają praw ustawowych, jakie użytkownik może mieć jako konsument Oprogramowania lub Usług. Niektóre kraje, stany, prowincje lub inne jurysdykcje nie zezwalają na wyłączenie pewnych gwarancji lub ograniczenie odpowiedzialności zawarte w niniejszej sekcji, dlatego powyższe postanowienia mogą nie mieć zastosowania do użytkownika. W takim wypadku w tych jurysdykcjach poniższe wyłączenia i ograniczenia mają zastosowanie wyłącznie w zakresie dopuszczonym przez lokalnie obowiązujące prawo.</>
+
+<EULA.Highlight>Oprogramowanie i Usługi są dostarczane w stanie, w jakim się znajdują i w jakim są dostępne wraz ze wszystkimi błędami oraz bez jakiejkolwiek gwarancji. Epic, jej licencjodawcy oraz jej i ich podmioty stowarzyszone wykluczają wszelkie gwarancje, warunki, obowiązki wynikające z prawa zwyczajowego oraz oświadczenia (wyraźne, dorozumiane, ustne i pisemne) w odniesieniu do Oprogramowania i Usług, w tym między innymi wszystkie wyraźne, dorozumiane i ustawowe gwarancje i warunki wszelkiego rodzaju, takie jak gwarancje tytułu, niezakłóconej rozrywki, uprawnień, nienaruszalności praw, zbywalności, zdatności lub przydatności do określonego celu (bez względu na to, czy Epic wie o takim celu lub ma powody, aby o nim wiedzieć), możliwości integracji z określonym systemem, dokładności lub kompletności, wyników, rozsądnej dbałości, fachowego wykonania, braku zaniedbań i braku wirusów, bez względu na to, czy wynikają one z mocy prawa, zwyczaju, użytkowania w handlu czy przebiegu transakcji. Bez ograniczania ogólnego charakteru powyższych postanowień Epic, jej licencjodawcy oraz jej i ich podmioty stowarzyszone nie udzielają żadnej gwarancji, że (1) Oprogramowanie lub Usługi będą działać poprawnie, (2) Oprogramowanie lub Usługi spełnią wymagania użytkownika, (3) działanie Oprogramowania lub Usług będzie nieprzerwane lub wolne od usterek lub błędów w jakichkolwiek okolicznościach lub (4) wady Oprogramowania lub Usług mogą być lub będą poprawione. Wszelkie gwarancje służące przeciwdziałaniu naruszeniom, o których mowa w artykułach 2-312 Amerykańskiego Jednolitego Kodeksu Handlowego (ang. Uniform Commercial Code) lub w innych porównywalnych ustawach są wyraźnie wykluczone. Firma Epic, jej licencjodawcy oraz jej i ich podmioty stowarzyszone nie gwarantują stałego, bezbłędnego, wolnego od wirusów ani bezpiecznego działania Oprogramowania lub Usług ani dostępu do nich. Postanowienia niniejszego ustępu będą miały zastosowanie w maksymalnym zakresie dozwolonym przez obowiązujące prawo.</>
+
+<EULA.Highlight>W najszerszym zakresie dopuszczonym przez obowiązujące prawo ani Epic, jej licencjodawcy, jej i ich podmioty stowarzyszone, ani jacykolwiek usługodawcy Epic (zwani łącznie „Stronami Epic”) nie będą ponosić jakiejkolwiek odpowiedzialności z tytułu jakiejkolwiek utraty zysków ani z tytułu jakichkolwiek szkód pośrednich, ubocznych i wynikowych, odszkodowań sankcyjnych lub nawiązek odszkodowawczych wynikających bezpośrednio lub pośrednio z niniejszej Umowy lub Oprogramowana bądź Usług, z opóźnienia lub braku możliwości użytkowania lub braku funkcjonalności Oprogramowania lub Usług, nawet w przypadku błędu, czynu niedozwolonego (w tym zaniedbania), odpowiedzialności na zasadzie ryzyka, odpowiedzialności indemnifikacyjnej (ang. indemnity), odpowiedzialności za produkt, naruszenia umowy, naruszenia gwarancji przez Stronę Epic lub innych okoliczności, nawet jeśli Strona Epic została poinformowana o możliwości powstania takich szkód. Ponadto, w najszerszym zakresie dozwolonym przez obowiązujące prawo, łączna odpowiedzialność Stron Epic wynikająca bezpośrednio lub pośrednio z niniejszej Umowy lub Oprogramowania bądź Usług nie przekroczy wyższej z następujących kwot (a) całkowitej kwoty zapłaconej (o ile miało to miejsce) przez użytkownika na rzecz Epic za Oprogramowanie lub z poziomu Oprogramowania (ale, dla uniknięcia wątpliwości, nie obejmuje to kwot zapłaconych za Aplikację ani z poziomu Aplikacji) w ciągu dwunastu (12) miesięcy bezpośrednio poprzedzających zdarzenia powodujące powstanie takiej odpowiedzialności oraz (b) 5,00 USD. Te ograniczenia i wykluczenia dotyczące odszkodowania mają zastosowanie nawet wówczas, gdy jakiekolwiek środki naprawcze nie zapewnią odpowiedniej rekompensaty.</>
+
+
+<EULA.Header>7.	Zwolnienie z odpowiedzialności</> 
+
+Postanowienia niniejszego punktu będą miały zastosowanie w maksymalnym zakresie dozwolonym przez obowiązujące prawo. Jeśli prawo zabrania użytkownikowi zawarcia powyższego zobowiązania do zwolnienia z odpowiedzialności, użytkownik przyjmuje, w zakresie dozwolonym przez prawo, wszelką odpowiedzialność z tytułu wszystkich roszczeń, żądań, pozwów, strat, zobowiązań i wydatków (w tym koszty zastępstwa procesowego, koszty prawne i koszty biegłych), które są przedmiotem powyższego zobowiązania do zwolnienia z odpowiedzialności.
+Użytkownik zgadza się zwolnić z odpowiedzialności, ponosić koszty obrony i chronić firmę Epic, jej licencjodawców oraz jej i ich podmioty stowarzyszone, a także jej i ich odpowiednich pracowników, członków kierownictwa, dyrektorów, agentów, wykonawców i innych przedstawicieli przed wszystkimi roszczeniami, żądaniami, pozwami, stratami, zobowiązaniami i wydatkami (wliczając w to koszty zastępstwa procesowego, koszty prawne i koszty biegłych), jakie wynikną bezpośrednio lub pośrednio z (a) wszelkich roszczeń, które, jeśli są prawdziwe, stanowią naruszenie niniejszej Umowy przez użytkownika lub zaniedbanie ze strony użytkownika, (b) wszelkich działań lub zaniechań ze strony użytkownika dokonanych w drodze korzystania z Oprogramowania lub Usług lub (c) wszelkich roszczeń z tytułu naruszenia praw własności intelektualnej osoby trzeciej wynikających z wykorzystania przez firmę Epic Opinii użytkownika przekazanej na mocy Punktu 4 niniejszej Umowy. Na żądanie Epic użytkownik zgadza się zwrócić wszelkie koszty obrony poniesione przez Epic oraz wszelkie płatności dokonane lub straty poniesione przez Epic w wyniku orzeczenia sądowego lub ugody w związku z wszelkimi kwestiami, do których odnosi się niniejszy Punkt 7.
+
+
+<EULA.Header>8.	Rozwiązanie Umowy</> 
+
+Bez ograniczania jakichkolwiek innych praw Epic, niniejsza Umowa ulega automatycznemu rozwiązaniu bez wypowiedzenia, jeśli użytkownik nie zastosuje się do któregokolwiek z jej postanowień. Użytkownik może również rozwiązać niniejszą Umowę, usuwając Oprogramowanie ze wszystkich urządzeń, na których jest zainstalowane. W przypadku jakiegokolwiek rodzaju rozwiązania Umowy Licencja ulega automatycznemu wygaśnięciu, a użytkownik nie może już egzekwować żadnych praw przyznanych mu na mocy Licencji oraz musi zniszczyć wszystkie posiadane kopie Oprogramowania.
+
+<EULA.Highlight>Z wyjątkiem zakresu wymaganego przez prawo jakiekolwiek płatności i opłaty nie podlegają zwrotowi w żadnych okolicznościach, niezależnie od tego, czy Umowa została rozwiązana.</>
+
+Punkty 2, 6-11 oraz 13-15 pozostaną w mocy po rozwiązaniu niniejszej Umowy.
+
+<EULA.Header>9.	Prawo właściwe i jurysdykcja</> 
+
+Niniejsza Umowa jest zawierana w stanie Karolina Północna w Stanach Zjednoczonych, podlega prawu tego stanu i będzie interpretowana zgodnie z jego przepisami, z wyłączeniem przepisów prawa związanych z wyborem prawa właściwego. W przypadku Sporów niepodlegających wiążącemu arbitrażowi indywidualnemu, jak opisano w następnym punkcie, użytkownik i Epic zgadzają się poddać wyłącznej jurysdykcji sądu wyższej instancji hrabstwa Wake w stanie Karolina Północna lub, jeśli istnieje jurysdykcja sądu federalnego, sądowi Okręgu Wschodniego Karoliny Północnej. Użytkownik i Epic zrzekają się praw do zgłoszenia sprzeciwu co do jurysdykcji, lokalu lub właściwości takich sądów (bez wpływu na prawa strony do skierowania sprawy do sądu federalnego, jeśli jest to dopuszczalne), a także wszelkich praw do procesu z udziałem ławy przysięgłych. Konwencja o umowach międzynarodowej sprzedaży towarów nie będzie miała zastosowania. Niniejszy ustęp będzie interpretowany w najszerszym dozwolonym przez obowiązujące prawo zakresie.
+
+<EULA.Header>10.	Wiążący arbitraż indywidulany; zrzeczenie się prawa do wniesienia pozwu zbiorowego</>
+
+PROSIMY O UWAŻNE PRZECZYTANIE TEGO PUNKTU. DOTYCZY ON PRAW UŻYTKOWNIKA, W TYM PRAWA DO WNIESIENIA POZWU W SĄDZIE.
+
+Większość problemów można rozwiązać szybko i polubownie poprzez kontakt z działem pomocy Epic pod adresem <a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">https://www.epicgames.com/customer-service</>. Wiemy jednak, że czasami sporów nie można rozstrzygnąć łatwo w drodze kontaktu z działem pomocy. W niniejszym punkcie przedstawiono, jak użytkownik i Epic zgadzają się rozstrzygać takie spory, w tym (jeżeli dotyczy) w drodze wiążącego arbitrażu indywidualnego.
+
+Arbitraż jest alternatywną procedurą rozstrzygania sporów, która pozwala rozwiązać problemy bez konieczności wszczynania postępowania sądowego. Każdy spór między użytkownikiem a firmą Epic jest kierowany do neutralnego arbitra (nie sędziego ani ławy przysięgłych) w celu sprawiedliwego i szybkiego rozstrzygnięcia. Arbitraż jest skuteczniejszy zarówno dla użytkownika, jak i firmy Epic.
+
+<EULA.Header>10.1 Nieformalne rozstrzyganie sporu</>
+
+Jeśli użytkownik ma problem, którego nasz dział pomocy nie jest w stanie rozwiązać, przed rozpoczęciem arbitrażu użytkownik i Epic zgadzają się spróbować rozstrzygnąć spór w drodze nieformalnego postępowania, co ułatwi rozwiązanie problemu i pozwoli ograniczyć koszty dla obu stron. Użytkownik i firma Epic zgadzają się podjąć w dobrej wierze próbę rozstrzygnięcia każdego sporu między nimi w drodze rozmów trwających przez przynajmniej 30 dni („Nieformalne rozstrzyganie sporu”). Te nieformalne rozmowy rozpoczną się w dniu, w którym użytkownik lub firma Epic otrzyma pisemne Zawiadomienie o sporze zgodne z niniejszą Umową.
+
+Użytkownik wyśle Zawiadomienie o sporze na adres Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. W Zawiadomieniu należy podać swoje imię i nazwisko, nazwę konta używanego do gry w Fortnite, adres korespondencyjny, sposób, w jaki możemy się z nim skontaktować, opis problemu i działanie oczekiwane od firmy Epic. W razie sporu z użytkownikiem firma Epic wyśle Zawiadomienie o sporze na zarejestrowany adres e-mail użytkownika i ewentualny adres rozliczeniowy podany nam przez użytkownika.
+
+Rezydenci Unii Europejskiej („UE”) mogą również zgłosić skargę za pośrednictwem <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">platformy internetowego rozstrzygania sporów (ODR) Komisji Europejskiej</>. ODR umożliwia przebywającym w UE konsumentom pozasądowe rozstrzyganie sporów dotyczących towarów i usług zakupionych przez Internet.
+
+Jeśli spór nie zostanie rozstrzygnięty w drodze Nieformalnego rozstrzygnięcia sporu lub w sądzie ds. drobnych roszczeń (patrz poniżej), użytkownik lub firma Epic może wszcząć postępowanie arbitrażowe zgodnie z niniejszą Umową.
+
+<EULA.Header>10.2	 Sąd ds. drobnych roszczeń</>
+
+Użytkownik i firma Epic zgadzają się, że zamiast Nieformalnego rozstrzygania sporu użytkownik może pozwać Epic w sądzie ds. drobnych roszczeń w hrabstwie jego zamieszkania lub w hrabstwie Wake w Karolinie Północnej (jeśli użytkownik spełnia kryteria wniesienia pozwu w sądzie ds. drobnych roszczeń). Mamy nadzieję, że użytkownik spróbuje w pierwszej kolejności rozstrzygnąć spór w drodze Nieformalnego rozstrzygania sporu, jednak nie musi tego zrobić przed złożeniem pozwu w sądzie ds. drobnych roszczeń.
+
+<EULA.Header>10.3	 Wiążący arbitraż indywidualny </>
+
+OPISANE W NINIEJSZYM PUNKCIE POSTĘPOWANIE ARBITRAŻOWE BĘDZIE PROWADZONE WYŁĄCZNIE W TRYBIE INDYWIDUALNYM.
+
+Użytkownik i firma Epic zgadzają się, że Spory będą rozstrzygane w drodze wiążącego arbitrażu indywidualnego prowadzonego przez firmę <a id="url" href="https://www.jamsadr.com/" style="EULA.Hyperlink">Judicial Arbitration Mediation Services, Inc.</> („JAMS”) z zastrzeżeniem postanowień amerykańskiej ustawy Federal Arbitration Act i federalnych przepisów dotyczących arbitrażu oraz zgodnie z <a id="url" href="https://www.jamsadr.com/rules-comprehensive-arbitration/" style="EULA.Hyperlink">uproszczonymi zasadami i procedurami arbitrażu (JAMS Streamlined Arbitration Rules and Procedures)</> obowiązującymi na dzień 1 lipca 2014 r. („Zasady JAMS”) z uwzględnieniem zmian wprowadzonych w niniejszej Umowie.
+
+Oznacza to, że użytkownik i firma Epic zgadzają się na procedurę rozstrzygania sporów, w ramach której każdy Spór jest kierowany do neutralnego arbitra (nie sędziego ani ławy przysięgłej), który podejmuje ostateczną decyzję w sprawie Sporu. JAMS prowadzi arbitraż z wykorzystaniem doświadczonych specjalistów, co pomaga użytkownikowi i firmie Epic rozstrzygać wszelkie spory sprawiedliwie oraz szybciej i skuteczniej niż w przypadku postępowania sądowego. Arbiter może zarządzić takie same środki naprawcze na rzecz użytkownika co sąd, ale tylko w zakresie, w jakim zadowala to roszczenie użytkownika.
+
+Decyzja arbitra jest ostateczna, z wyjątkiem ograniczonej weryfikacji przez sądy na mocy amerykańskiej ustawy Federal Arbitration Act, i może zostać wyegzekwowana tak samo jak każde rozporządzenie lub każdy wyrok sądu.
+
+<EULA.Header>10.3.1 Spory, które zgadzamy się poddać arbitrażowi</>
+
+Użytkownik i firma Epic zgadzają się poddawać wszystkie Spory między nimi wiążącemu arbitrażowi indywidualnemu. „Spór” oznacza wszelkie spory, roszczenia i różnice zdań (z wyjątkiem tych wyłączonych wyraźnie poniżej) między użytkownikiem a firmą Epic odnoszące się do używania lub próby używania produktów lub usług Epic oraz ich samych, w tym między innymi do ważności, wykonalności lub zakresu niniejszego punktu dotyczącego wiążącego arbitrażu indywidualnego.
+
+Użytkownik i firma Epic zgadzają się poddawać wszelkie Spory arbitrażowi, bez względu na to, czy Spór jest oparty na postanowieniach umownych, ustawowych prawach, regulacjach, rozporządzeniach, prawie deliktowym (w tym dotyczącym oszustw, wprowadzenia w błąd, nakłaniania do oszustwa lub niedbałości) lub innych przepisach prawa bądź im równoważnych.
+Punkty dotyczące Nieformalnego rozstrzygania sporów i arbitrażu nie mają zastosowania do (1) indywidualnych pozwów w sądzie ds. drobnych roszczeń; (2) dążenia do wyegzekwowania praw poprzez organ rządowy, jeśli prawo na to zezwala; (3) skarg lub środków naprawczych na mocy Ogólnego rozporządzenia o ochronie danych UE; (4) postępowania mające na celu egzekwowanie lub potwierdzenie zasadności poprzedniej decyzji arbitrażowej; (5) prawa firmy Epic do dochodzenia zabezpieczenia roszczeń wobec użytkownika w drodze nakazu lub zakazu sądowego w celu utrzymania statusu quo podczas trwania postępowania arbitrażowego; (6) roszczeń dotyczących piractwa, tworzenia, rozpowszechniania lub promowania Cheatów oraz naruszeń praw własności intelektualnej i (7) wykonalności poniższej klauzuli dotyczącej zrzeczenia się prawa do wniesienia pozwu zbiorowego.
+
+Użytkownik i firma Epic zgadzają się, że arbiter, a nie sąd, zdecyduje, czy dany spór podlega arbitrażowi na mocy niniejszej Umowy.
+
+<EULA.Header>10.3.2 Postępowanie arbitrażowe </>
+
+Aby wszcząć postępowanie arbitrażowe, należy zapoznać się z Zasadami JAMS i postępować zgodnie z instrukcjami dotyczącymi wszczynania postępowania arbitrażowego zamieszczonymi w witrynie internetowej <a id="url" href="http://www.jamsadr.com/rules-streamlined-arbitration" style="EULA.Hyperlink">JAMS</>. Strona wszczynająca postępowanie arbitrażowe jest zobowiązana wysłać JAMS „Wniosek o wszczęcie postępowania arbitrażowego” (dostępny w witrynie JAMS), uiścić opłatę za jego wniesienie i przesłać egzemplarz Wniosku o wszczęcie postępowania arbitrażowego stronie przeciwnej. Użytkownik ma wysłać egzemplarz pod adres Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Epic prześle swój egzemplarz na zarejestrowany adres e-mail użytkownika i ewentualny adres rozliczeniowy podany nam przez użytkownika.
+
+Postępowanie arbitrażowe będzie prowadzone przez jednego arbitra JAMS, posiadającego istotne doświadczenie w rozwiązywaniu sporów w zakresie praw własności intelektualnej i umów handlowych. Zarówno użytkownik jak i Epic przyjmują, że arbitraż będzie prowadzony w języku angielskim i że arbitra będzie obowiązywała niniejsza Umowa.
+
+Jeśli wymagane będzie przeprowadzenie posiedzenia osobiście, odbędzie się ono albo w hrabstwie Wake w Karolinie Północnej, albo w miejscu zamieszkania użytkownika; <EULA.Highlight>wybór należy do użytkownika.</>
+
+Spór rozstrzygnie arbiter (nie zaś sędzia czy ława przysięgłych). O ile użytkownik i Epic nie postanowią inaczej, wszelkie decyzje czy orzeczenia będą obejmować pisemne wskazanie decyzji w poszczególnych sprawach i podstawy orzeczenia, w tym zasadnicze okoliczności faktyczne i prawne stwierdzone przez arbitra oraz wyciągnięte z nich wnioski.
+
+Arbiter może jedynie zasądzić środki ochrony prawnej i wynikające z zasad słuszności uwzględnione w żądaniu użytkownika albo Epic w celu zaspokojenia jednego z roszczeń indywidualnych (co do których arbiter stwierdzi, że są poparte stosownymi, wiarygodnymi dowodami). Arbiter nie może orzec nakazu ani zakazu na rzecz Epic w stosunku do żadnej innej osoby poza użytkownikiem.
+
+Wszelkie decyzje czy orzeczenia są wykonalne tak jak prawomocny wyrok dowolnego sądu właściwego albo w stosownych przypadkach możliwe jest wystąpienie do takiego sądu o zatwierdzenie przez sąd dowolnego orzeczenia i nadanie mu klauzuli wykonalności.
+
+<EULA.Header>10.3.3 Opłaty za postępowanie arbitrażowe i miejsce jego prowadzenia</>
+
+Jeśli użytkownik wszczyna postępowanie arbitrażowe, jest zobowiązany uiścić opłatę za wniesienie wniosku o wszczęcie postępowania przez JAMS wymaganą w przypadku arbitrażu konsumenckiego.
+
+W niektórych sytuacjach Epic może wspomóc użytkownika w pokryciu tych kosztów, licząc na osiągnięcie szybkiego i sprawiedliwego rozstrzygnięcia:
+
+Jeśli przedmiot Sporu ma wartość 10 000 USD albo niższą, Epic pokryje całość kosztów JAMS, w tym opłaty, których uiszczenie obciążałoby w przeciwnym razie użytkownika.
+
+Jeśli powyższe nie ma zastosowania wobec użytkownika, ale użytkownik wykaże, że koszty arbitrażu są niewspółmiernie wyższe niż koszty procesu, Epic pokryje taką część kosztów JAMS, jaką arbiter uzna za konieczną w celu zapobieżenia niewspółmiernej wysokości kosztów arbitrażu (w porównaniu z kosztem procesu).
+
+Nawet jeśli Epic wygra postępowanie arbitrażowe i obowiązujące prawo bądź Zasady JAMS będą umożliwiać Epic dochodzenie od użytkownika zwrotu naszego udziału w opłatach na rzecz JAMS, nie zrobimy tego.
+
+Określona powyżej pomoc w pokryciu opłat jest zależna od wniesienia przez użytkownika roszczenia arbitrażowego w „dobrej wierze”. Jeśli arbiter uzna, że użytkownik wniósł roszczenie arbitrażowe przeciw Epic w niewłaściwym celu, że jest ono błahe albo nie było poprzedzone wystarczającym zbadaniem faktów czy obowiązujących przepisów prawa, to uiszczanie wszelkich płatności będzie podlegać Zasadom JAMS.
+
+Koszty JAMS nie obejmują kosztów obsługi prawnej użytkownika, a koszty obsługi prawnej i koszty JAMS nie są wliczane do wartości sporu.
+
+<EULA.Highlight>Epic nie będzie dochodzić od użytkownika ponoszonych przez nas kosztów obsługi prawnej czy wydatków w ramach jakiegokolwiek postępowania arbitrażowego, nawet jeśli prawo czy Zasady JAMS będą nam to umożliwiać.</> Jeśli użytkownik zdecyduje się na bycie reprezentowanym przez adwokata, pokryje własne koszty obsługi prawnej i wydatki, chyba że obowiązujące prawo stanowi inaczej.
+
+<EULA.Header>10.3.4 Zawiadomienia i doręczenia</> Jeśli konieczne jest wszczęcie postępowania arbitrażowego w Sporze, użytkownik albo Epic muszą wszcząć postępowanie arbitrażowe w Sporze w ciągu 2 (dwóch) lat od pierwszego zaistnienia Sporu. Jeżeli obowiązujące prawo wymaga od użytkownika wniesienia roszczenia w Sporze wcześniej niż w ciągu dwóch lat od pierwszego zaistnienia Sporu, użytkownik musi wszcząć postępowanie arbitrażowe w takim wcześniejszym terminie. Epic zachęca użytkownika, aby poinformował nas o Sporze jak najszybciej, abyśmy mogli podjąć działania w celu jego rozwiązania. <EULA.Highlight>Nieterminowość składania zawiadomień wyklucza jakiekolwiek roszczenia.</>
+
+<EULA.Header>10.3.5 Pozostawanie postanowień w mocy </> Postanowienia niniejszego punktu dotyczącego wiążącego arbitrażu indywidualnego będą pozostawać w mocy po ewentualnym wypowiedzeniu niniejszej Umowy albo zaprzestaniu świadczenia przez Epic usług użytkownikowi.
+
+<EULA.Header>10.3.6 Wprowadzanie zmian dotyczących arbitrażu w przyszłości</> Pomimo tego, że Epic może zmieniać niniejszą Umowę wedle własnego uznania, Epic nie ma prawa zmieniać Umowy w zakresie arbitrażu ani określonych tu zasad dotyczących wszelkich Sporów po zaistnieniu Sporu.
+
+<EULA.Header>10.4 Zrzeczenie się prawa do wnoszenia pozwu zbiorowego</>
+
+W najszerszym zakresie dozwolonym przez prawo właściwe użytkownik i Epic zobowiązują się wnosić Spory wyłącznie w trybie indywidualnym oraz:
+nie dążyć do wniesienia, przystąpienia do czy udziału w żadnym pozwie zbiorowym czy pozwie indywidualnym w interesie publicznym, zbiorowym postępowaniu arbitrażowym czy żadnym innym pozwie, w przypadku którego inne osoba fizyczna czy podmiot występuje jako reprezentant (np. pozew wnoszony w imieniu innych osób); albo
+nie łączyć indywidualnych postępowań ani nie dopuszczać, aby arbiter łączył indywidualne postępowania bez wyraźnej zgody wszystkich stron niniejszej Umowy i wszystkich innych postępowań czy postępowań arbitrażowych.
+
+<EULA.Header>10.5 Rozdzielność postanowień</>
+
+ Jeśli wszystkie albo którekolwiek z postanowień niniejszej zgody na wiążący arbitraż indywidualny okażą się nieważne, niewykonalne albo niezgodne z prawem, użytkownik i Epic postanawiają, że postanowienie takie zostanie wyłączone z zakresu porozumienia, zaś reszta Umowy pozostanie w mocy i będzie interpretowana tak, jakby wyłączone postanowienie nie było nigdy w niej zawarte. Jedynym wyjątkiem jest sytuacja, w której jeżeli zrzeczenie się prawa do wnoszenia pozwu zbiorowego okaże się nieważne, niewykonalne czy niezgodne z prawem, użytkownik i Epic przyjmują, że postanowienie to nie będzie pozostawać w mocy jako postanowienie rozdzielne; wówczas cały niniejszy punkt dotyczący wiążącego arbitrażu indywidualnego będzie nieważny i niewykonalny, a wszelkie spory będą rozstrzygane przez sąd, z zastrzeżeniem określonych w niniejszej Umowie postanowień dotyczących właściwości miejscowej i wyboru prawa właściwego. W żadnym przypadku postępowanie arbitrażowe nie będzie prowadzone jako spór zbiorowy bez wyraźnej zgody Epic.
+
+<EULA.Header>11.	Sprawy rządu Stanów Zjednoczonych</>
+
+Oprogramowanie jest „przedmiotem komercyjnym” (zgodnie z definicją zawartą w rozdziale 48 CFR §2.101) składającym się z „Komercyjnego Oprogramowania Komputerowego” i „Dokumentacji Komercyjnego Oprogramowania Komputerowego” (w znaczeniu użytym w rozdziale 48 CFR §12.212 lub 48 CFR §227.7202, w zależności od przypadku). Oprogramowanie jest udzielane na licencji dla użytkowników końcowych rządu Stanów Zjednoczonych wyłącznie jako przedmioty komercyjne oraz wyłącznie z tymi prawami, które są udzielane innym licencjobiorcom na mocy niniejszej Umowy.
+Użytkownik zobowiązuje się przestrzegać wszystkich obowiązujących federalnych i zagranicznych przepisów, regulacji i zasad oraz wykonać wszystkie wymagane czynności. Użytkownik zobowiązuje się nie używać, wywozić, ponownie wywozić lub pobierać Oprogramowania lub Usług do kraju, na który rząd Stanów Zjednoczonych nałożył embargo na towary, lub na rzecz jego obywateli bądź rezydentów ani na rzecz osób figurujących na liście specjalnie wyznaczonych obywateli (Specially Designated Nationals) amerykańskiego Departamentu Skarbu lub w Tabeli Zakazu Zamówień amerykańskiego Departamentu Handlu. Użytkownik oświadcza i zapewnia Epic, że nie znajduje się w kraju, który figuruje na prowadzonym przez rząd Stanów Zjednoczonych wykazie krajów objętych zakazami lub ograniczeniami, nie jest jego rezydentem ani nie znajduje się pod jego kontrolą oraz nie figuruje w żadnym prowadzonym przez rząd Stanów Zjednoczonych wykazie stron zabronionych lub ograniczonych.
+
+<EULA.Header>12.	Zmiany niniejszej Umowy</>
+
+<EULA.Highlight>Epic może wydać zmienioną wersję Umowy, Warunków świadczenia usług lub Polityki prywatności w każdym czasie według własnego uznania, zamieszczając zmienioną wersję Umowy, Warunków świadczenia usług lub Polityki prywatności na swojej stronie internetowej lub udzielając użytkownikowi cyfrowego dostępu do zmienionej wersji tych dokumentów przy kolejnym korzystaniu z Oprogramowania. Jeśli jakakolwiek zmiana niniejszej Umowy, Warunków świadczenia usług lub Polityki prywatności jest dla użytkownika nie do przyjęcia, użytkownik może wypowiedzieć niniejszą Umowę oraz musi zaprzestać korzystania z Oprogramowania. Dalsze korzystanie z Oprogramowania oznacza akceptację zmienionej Umowy, Warunków świadczenia usług i Polityki prywatności.</>
+
+<EULA.Header>13.	Zakaz dokonywania cesji</>
+
+Użytkownik nie może, bez uzyskania uprzedniej pisemnej zgody Epic, dokonać cesji, przeniesienia, obciążenia lub podzlecenia całości ani części swoich praw bądź obowiązków wynikających z niniejszej Umowy, a wszelkie próby bez tej zgody będą nieważne. Jeśli ograniczenia dotyczące przeniesienia Oprogramowania zawarte w niniejszej Umowie nie są wykonalne na mocy prawa obowiązującego w kraju użytkownika, niniejsza Umowa będzie wiążąca dla każdego odbiorcy Oprogramowania. Epic może w dowolnym momencie dokonać cesji, przeniesienia, obciążenia lub podzlecenia całości lub części swoich praw bądź obowiązków wynikających z niniejszej Umowy.
+
+<EULA.Header>14.	Definicje</>
+
+W znaczeniu użytym w niniejszej Umowie poniższe słowa pisane wielką literą mają następujące znaczenie:
+
+<EULA.Highlight>„Aplikacja”</> oznacza aplikację, którą można pobrać, zainstalować i uruchomić z poziomu Oprogramowania.
+
+<EULA.Highlight>„Urządzenie Dozwolone”</> oznacza rodzaj urządzenia mobilnego z systemem Android, dla którego Epic zaprojektowała i przeznaczyła Oprogramowanie. Urządzenie Dozwolone nie obejmuje maszyny wirtualnej ani innej emulacji takiego urządzenia mobilnego.
+
+<EULA.Highlight>„Wykrywanie Cheatów”</> oznacza funkcje służące do wykrywania Cheatów.
+
+<EULA.Highlight>„Cheaty”</> oznaczają programy, metody lub inne procesy, które mogą dać graczom niesprawiedliwą przewagę w Oprogramowaniu.
+
+<EULA.Highlight>„Epic”</> oznacza, w zależności od lokalizacji głównego miejsca zamieszkania użytkownika:
+
+a.	Epic Games, Inc., spółkę założoną w stanie Maryland, której główna siedziba znajduje się pod adresem Box 254, 2474 Walnut Street, Cary, Karolina Północna, 27518, USA; lub
+b.	Epic Games International S.à r.l., Luxembourg Société à Responsibilité Limitée, spółkę, której siedziba znajduje się pod adresem Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Wielkie Księstwo Luksemburga, działającą przez swój szwajcarski oddział, z główną siedzibą pod adresem Platz 3, 6039 Root, Szwajcaria.
+
+<EULA.Highlight>„Opinie”</> oznaczają wszelkie opinie lub sugestie przekazywane przez użytkownika Epic, które dotyczą Oprogramowania, Usług, Aplikacji lub innych produktów i usług Epic.
+
+<EULA.Highlight>„Usługi”</> oznaczają wszelkie usługi udostępnione użytkownikowi za pośrednictwem Oprogramowania, w tym usługi potrzebne do zarządzania kontem Epic, łączenia się z usługami osób trzecich bądź zakupu, konfiguracji, aktualizacji i umożliwienia użytkowania Aplikacji.
+
+<EULA.Highlight>„Oprogramowanie”</> oznacza zastrzeżoną Aplikację na system Android znaną jako Epic Games App oraz wszelkie poprawki, aktualizacje oraz ulepszenia tej aplikacji. Oprogramowanie nie obejmuje Aplikacji.
+
+<EULA.Header>15.	Postanowienia różne</>
+
+Niniejsza Umowa oraz wszelkie dokumenty lub informacje, o których mowa w niniejszej Umowie, stanowią całość porozumienia między użytkownikiem a Epic w zakresie przedmiotu objętego niniejszą Umową. Wszelkie inne komunikaty, propozycje i oświadczenia dotyczące przedmiotu niniejszej Umowy są wyłączone.
+
+Oryginał niniejszej Umowy jest sporządzony w języku angielskim; wszelkie tłumaczenia są dostarczane wyłącznie w celach informacyjnych. Strony wyraźnie postanawiają, że niniejsze postanowienia i wszelkie powiązane dokumenty zostaną sporządzone w języku angielskim. Użytkownik zrzeka się wszelkich praw, jakie może mieć na mocy prawa obowiązującego w kraju użytkownika, do sporządzenia lub interpretowania niniejszej Umowy w języku dowolnego innego kraju.
+
+Niniejsza Umowa opisuje określone prawa. Użytkownikowi mogą przysługiwać inne prawa zgodnie z przepisami właściwej dla użytkownika jurysdykcji. Niniejsza Umowa nie zmienia uprawnień użytkownika wynikających z przepisów prawa obowiązujących w jego systemie prawnym, jeżeli prawo obowiązujące w jego systemie prawnym na to nie pozwala. Ograniczenia i wyłączenia gwarancji i środków ochrony prawnej w niniejszej Umowie mogą nie mieć zastosowania do użytkownika, ponieważ właściwa jurysdykcja może nie zezwalać na nie w określonych okolicznościach. W przypadku, gdy niektóre postanowienia niniejszej Umowy zostaną uznane przez właściwy sąd lub trybunał za niewykonalne, postanowienia te będą egzekwowane jedynie w najszerszym zakresie dopuszczalnym na mocy obowiązującego prawa, a pozostałe postanowienia niniejszej Umowy pozostaną w pełni obowiązujące.
+Żadne działania Epic mające na celu wykonanie lub też niewykonanie bądź opóźnienie w wykonaniu prawa wynikającego z niniejszej Umowy, z mocy prawa lub zasad słuszności, nie będą uznane za zrzeczenie się tych lub jakichkolwiek innych praw lub środków ochrony prawnej dostępnych z mocy umowy, prawa lub zasad słuszności.
+Użytkownik akceptuje fakt, że niniejsza Umowa nie przyznaje żadnych praw ani środków ochrony prawnej osobom, które nie są stronami niniejszej Umowy, z wyjątkiem przypadków wyraźnie w niej określonych.
+Zobowiązania Epic podlegają obowiązującym przepisom prawa i procedurom prawnym, a Epic może spełniać wymagania organów ścigania lub organów regulacyjnych pomimo sprzecznych postanowień niniejszej Umowy.

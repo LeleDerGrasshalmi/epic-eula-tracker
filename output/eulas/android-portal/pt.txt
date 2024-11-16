@@ -1,0 +1,215 @@
+Leia este contrato com atenção. Este é um documento legal que explica seus direitos e obrigações relacionados ao uso do Software, incluindo quaisquer Serviços que você acessar por meio do Software. Ao baixar ou usar o Software, ou ao indicar sua aceitação deste Contrato, você concorda em ficar vinculado aos termos deste Contrato. Se você não concorda ou não pode concordar com os termos deste Contrato, não baixe ou use este Software.
+
+Em particular, queremos destacar alguns termos, políticas e procedimentos importantes neste Contrato. Ao aceitar este Contrato
+
+1.	Você também concorda com outras regras e políticas da Epic expressamente incorporadas neste Contrato. Leia-as com atenção:
+
+Nosso <a id="url" href="https://www.epicgames.com/site/en-US/privacypolicy" style="EULA.Hyperlink">Política de Privacidade</> explica quais informações coletamos de você e como as protegemos.
+
+Nossos <a id="url" href="https://www.epicgames.com/site/en-US/tos" style="EULA.Hyperlink">Termos de Serviço</> explicam as regras para os nossos sites.
+
+
+2.	Você e a Epic concordam em resolver disputas entre nós por meio de arbitragem individual (não em tribunal). Acreditamos que o processo alternativo de arbitragem para resolução de disputas resolverá qualquer disputa de forma justa, mais rápida e eficiente do que o litígio judicial formal. A Seção 10 explica o processo em detalhes. Colocamos isso antes de tudo (e em letras maiúsculas) porque é importante:
+
+
+<EULA.Highlight>ESTE CONTRATO CONTÉM UMA CLÁUSULA VINCULANTE DE ARBITRAGEM INDIVIDUAL E CLÁUSULA DE RENÚNCIA DE AÇÃO COLETIVA. SE VOCÊ ACEITAR ESTE CONTRATO, VOCÊ E A EPIC CONCORDAM EM RESOLVER DISPUTAS EM ARBITRAGEM INDIVIDUAL VINCULANTE E ABANDONAR O DIREITO DE IR AO TRIBUNAL INDIVIDUALMENTE OU COMO PARTE DE UMA AÇÃO COLETIVA, E A EPIC CONCORDA EM PAGAR ATÉ O VALOR DE US$ 10.000 SEUS CUSTOS DE ARBITRAGEM PARA TODAS AS DISPUTAS QUE FOREM FEITAS DE BOA FÉ (VEJA A SEÇÃO 10). </>
+
+PARA CELEBRAR ESTE CONTRATO DE LICENÇA, VOCÊ DEVE SER LEGALMENTE MAIOR DE IDADE NO SEU PAÍS DE RESIDÊNCIA. VOCÊ É LEGAL E FINANCEIRAMENTE RESPONSÁVEL POR TODAS AS AÇÕES QUE ENVOLVAM O USO OU ACESSO DO NOSSO SOFTWARE, INCLUINDO AS AÇÕES DE QUALQUER PESSOA QUE VOCÊ PERMITA ACESSAR A SUA CONTA. VOCÊ AFIRMA QUE ATINGIU A MAIORIDADE LEGAL, ENTENDE E ACEITA ESTE CONTRATO (INCLUINDO SEUS TERMOS DE RESOLUÇÃO DE DISPUTAS). SE VOCÊ FOR MENOR DE IDADE, SEUS PAIS OU RESPONSÁVEIS LEGAIS DEVEM CONSENTIR COM ESTE CONTRATO.
+
+Algumas palavras ou frases são definidas para ter determinados significados quando usadas neste Contrato. Essas palavras e frases são elencadas abaixo na Seção 14.
+
+Se sua residência principal for nos Estados Unidos da América, seu acordo é com a Epic Games, Inc. Se não for nos Estados Unidos da América, seu contrato é com a Epic Games International S.à r.l., atuando por meio de sua filial suíça.
+
+<EULA.Header>1.	Concessão de Licença </>
+
+A Epic concede a você um direito limitado pessoal, não exclusivo, intransferível e não sublicenciável e uma licença para instalar o Software em Dispositivos Autorizados e usar essa cópia nos Dispositivos Autorizados exclusivamente para baixar, instalar e iniciar Aplicativos para o seu uso de entretenimento pessoal (a "Licença"). Os direitos que a Epic lhe concede sob a Licença estão sujeitos aos termos deste Contrato, e você só pode fazer uso da Licença se atender a todos os termos aplicáveis.
+A Licença entra em vigor na data em que você aceita este Contrato. O Software é licenciado, não vendido, para você sob a Licença. A Licença não lhe outorga nenhum título ou propriedade sobre o Software.
+
+
+<EULA.Header>2. Condições da Licença</>
+
+Você não pode realizar ou tentar realizar qualquer uma das seguintes ações com relação ao Software ou qualquer uma de suas partes: (a) usá-lo comercialmente ou para fins promocionais, exceto conforme expressamente autorizado pela Epic; (b) copiá-lo, reproduzi-lo, distribui-lo (inclusive por meio de um servidor de rede), exibi-lo ou usá-lo de forma não expressamente autorizada neste Contrato; (c) vendê-lo, alugá-lo, arrendá-lo, licenciá-lo, distribui-lo ou transferi-lo de outra forma; (d) fazer engenharia reversa, derivar o código-fonte, modificar, adaptá-lo, traduzi-lo, descompilá-lo ou desmontá-lo ou fazer trabalhos derivados com base nele; (e) remover, desabilitar, burlar ou modificar qualquer aviso de propriedade ou etiqueta ou tecnologia de segurança incluída nele; (f) criar, desenvolver, distribuir ou usar qualquer programa de software não autorizado para obter vantagem em qualquer modo de jogo online ou outros; (g) usá-lo para infringir ou violar os direitos de terceiros, incluindo, entre outros, propriedade intelectual, publicidade ou direitos de privacidade; (h) usá-lo, exportá-lo ou reexportá-lo em violação de qualquer lei ou regulamento aplicável; (i) usá-lo com uma máquina virtual ou outro emulador, ou em um sistema operacional diferente do Android; (j) usá-lo em um dispositivo que não seja um Dispositivo Autorizado; ou (k) comportar-se de maneira que prejudique o aproveitamento do Software ou de quaisquer Aplicativos por outros usuários conforme pretendido pela Epic, a critério exclusivo da Epic, incluindo, mas não se limitando ao seguinte — assédio, uso de linguagem abusiva ou ofensiva, abandono de jogo, sabotagem de jogo, spam, engenharia social ou fraude, execução ou uso de métodos não autorizados pela Epic e que interfiram no resultado e/ou no curso do Software (incluindo trapaças, bots, scripts ou mods que não sejam expressamente autorizado pela Epic) dando a você e/ou outro usuário uma vantagem sobre outros jogadores que não usam tais métodos, ou ainda criando ou contribuindo de outra forma para tal software não autorizado.
+
+O Software pode conter recursos ou o software de Detecção de Trapaça, ou você pode receber um aviso para instalar o software de Detecção de Trapaça durante a instalação do Software. Se você não concordar em instalar o software de Detecção de Trapaça ou, a qualquer momento, remover ou desativar o software ou recursos de Detecção de Trapaça, a licença concedida a você se encerrará automaticamente e você não poderá fazer uso do software. O Software ou o software de Detecção de Trapaça pode coletar e transmitir detalhes sobre sua conta, jogabilidade e programas ou processos potencialmente não autorizados relacionados a Detecção de Trapaça, sujeitos à Política de Privacidade da Epic. Caso Trapaças sejam identificadas, você concorda que a Epic pode exercer algum ou todos os seus direitos sob este Contrato.
+
+A Licença não inclui o direito de usar os Aplicativos baixados ou instalados por meio do Software. O seu direito de usar um Aplicativo está sujeito ao Contrato de Licença de Usuário Final para esse Aplicativo.
+
+
+<EULA.Header>3.	Atualizações e Patches</>
+
+A Epic pode fornecer correções, atualizações ou upgrades ao Software que devem ser instalados para que você possa continuar a usar o Software ou os Serviços. A Epic pode sem notificá-lo atualizar o Software remotamente, sendo que você consente com a aplicação, pela Epic, de correções, atualizações e upgrades. A Epic poderá a qualquer momento modificar, suspender, descontinuar, substituir, trocar ou limitar o seu acesso a qualquer aspecto do Software ou dos Serviços. Você reconhece que o seu uso do Software ou dos Serviços não lhe confere qualquer participação, monetária ou de outra forma, em qualquer aspecto ou recurso do Software ou de quaisquer Aplicativos. A Epic não possui nenhuma obrigação de manutenção ou suporte no que se refere ao Software ou aos Serviços.
+
+
+<EULA.Header>4.	Feedback</>
+
+Se você fornecer qualquer Feedback à Epic, você, por meio deste Contrato, concede à Epic, em relação a esse Feedback, uma licença não exclusiva, totalmente quitada, isenta de royalties, irrevogável, perpétua, transferível e sublicenciável para reproduzir, distribuir, modificar, elaborar obras derivadas, realizar a execução pública, exibir publicamente, fazer, solicitar a realização, usar, vender, oferecer para venda, importar e de outra forma explorar esse Feedback para quaisquer fins, para todos os métodos e formas de exploração atuais e futuros. "Feedback" significa sugestões, comentários, ideias e todos os outros tipos de informações, incluindo software e código, que você fornece, publica ou comunica direta ou indiretamente (incluindo seus funcionários, agentes, contratados ou representantes) à Epic ou a seus agentes relacionados aos Serviços, Software ou Aplicativos. Se tais direitos não puderem ser licenciados de acordo com a legislação aplicável (tais como direitos morais e outros direitos pessoais), você, por meio deste Acordo, renuncia a todos esses direitos e concorda em não reivindica-los. Você entende e concorda que a Epic não é obrigada a fazer qualquer uso de qualquer Feedback que você fornecer. Você concorda que, se a Epic utilizar o seu Feedback, a Epic não será obrigada a lhe dar crédito nem a remunerá-lo pela sua contribuição. Você declara e garante que detém, em relação a qualquer Feedback que fornecer à Epic, todos os direitos necessários para conceder à Epic e às outras partes afetadas os direitos descritos acima. Isso inclui, entre outros, direitos de propriedade intelectual e outros direitos de propriedade ou pessoais.
+
+<EULA.Header>5.	Propriedade/Licenças de terceiros</> 
+
+A Epic e seus licenciadores possuem todos os títulos, direitos de propriedade e direitos de propriedade intelectual do Software e dos Serviços. Epic, Epic Games, Unreal, Unreal Engine e Fortnite e seus respectivos logotipos são marcas comerciais ou marcas registradas da Epic e de suas afiliadas nos Estados Unidos da América e em outros lugares. Todos os direitos concedidos a você nos termos deste Contrato são concedidos somente por meio de uma licença expressa e não por venda. Nenhuma licença ou outros direitos devem ser criados por implicação, preclusão ou de outra forma.
+
+O Software inclui certos componentes fornecidos pelos licenciadores da Epic. Uma lista de créditos e avisos para componentes de terceiros pode ser encontrada na interface do Software.
+
+
+<EULA.Header>6.	Isenção de responsabilidade e limitação de responsabilidade</> 
+
+<EULA.Highlight>Nada neste Contrato prejudicará os direitos estatutários que você possa ter como consumidor do Software ou Serviços. Alguns países, estados, províncias ou outras jurisdições não permitem a exclusão de certas garantias ou a limitação de responsabilidade conforme declarado nesta seção, portanto, os termos abaixo podem não se aplicar totalmente a você. Em vez disso, em tais jurisdições, as exclusões e limitações abaixo serão aplicadas somente na medida permitida pelas leis de tais jurisdições.</>
+
+<EULA.Highlight>O Software e os Serviços são fornecidos "no seu estado atual" e "conforme disponíveis", "com todas as falhas" e sem garantia de qualquer tipo. A Epic, seus licenciantes e seus afiliados se isentam de todas as garantias, condições, deveres de direito comum e representações (expressas, implícitas, orais e escritas) com relação ao Software e aos Serviços, incluindo, sem limitação, todas as garantias expressas, implícitas e estatutárias e condições de qualquer tipo, como título, não interferência com sua diversão, autoridade, não violação, comercialização, aptidão ou adequação para qualquer finalidade (independentemente de a Epic saber ou ter motivos para saber de tal finalidade), sistema integração, exatidão ou integridade, resultados, cuidado razoável, esforço de trabalho, ausência de negligência e ausência de vírus, tenha todos esses decorrido do disposto na lei, por motivo de costume ou uso no comércio, ou por meio de negociação. Sem limitar a generalidade do disposto acima, a Epic, seus licenciantes, as afiliadas da Epic e de seus licenciantes não garantem que (1) o Software ou os Serviços funcionarão adequadamente, (2) que o Software ou os Serviços atenderão aos seus requisitos, (3) que a operação do Software ou dos Serviços será ininterrupta, livre de bugs ou livre de erros em toda ou em qualquer circunstância, ou (4) que quaisquer defeitos no Software ou nos Serviços podem ser ou serão corrigidos. Qualquer garantia contra violação que possa ser fornecida na Seção 2-312 do Código Comercial Uniforme ou em qualquer outro estatuto comparável é expressamente renunciada. A Epic, seus licenciantes e as respectivas afiliadas não garantem a operação ou o acesso contínuo, seguro, livre de erros ou de vírus ao Software ou aos Serviços. Este parágrafo será aplicável na extensão máxima permitida pela legislação aplicável.</>
+
+<EULA.Highlight>Na extensão máxima permitida pela lei aplicável, a Epic os seus licenciantes, afiliadas e quaisquer prestadores de serviços da Epic (coletivamente chamadas de "Partes da Epic") não serão responsáveis de qualquer forma por qualquer perda de lucros ou quaisquer danos indiretos, incidentais, consequenciais, especiais, punitivos ou exemplares, decorrentes de ou em conexão com este Contrato, com o Software ou com os Serviços. Adicionalmente, as Partes da Epic não serão responsáveis pelo atraso ou incapacidade de uso ou falta de funcionalidade do Software ou dos Serviços, mesmo em caso de culpa ou existência de responsabilidade civil de uma Parte da Epic (incluindo negligência), bem como de responsabilidade estrita, indenização, responsabilidade pelo produto, quebra de contrato, violação de garantia ou de qualquer outra forma. O disposto será aplicável mesmo se uma Parte da Epic tiver sido avisada da possibilidade de tais danos ocorrerem. Além disso, na extensão máxima permitida pela lei aplicável, a responsabilidade agregada das Partes Epic decorrente ou em conexão com este Contrato, com o Software ou com os Serviços não excederá o que for maior dentre o seguinte (a) os valores totais que você pagou (se houver) à Epic pelo Software ou dentro do Software (no entanto, para maior clareza, nenhum valor pago pelo Aplicativo ou dentro dele) durante os 12 (doze) meses imediatamente anteriores aos eventos que deram origem a tal responsabilidade e (b) US$ 5,00. Essas limitações e exclusões relacionadas a danos se aplicam mesmo que qualquer solução não consiga fornecer uma compensação adequada.</>
+
+
+<EULA.Header>7.	Indenização</> 
+
+Esta seção se aplica apenas na extensão permitida pela legislação aplicável. Se você estiver proibido por lei de assumir a obrigação de indenização abaixo, você será então totalmente responsável, na extensão permitida pela legislação, por quaisquer reivindicações, demandas, ações, perdas, responsabilidades e despesas (inclusive honorários advocatícios, custos legais e honorários periciais) que sejam o objeto declarado da obrigação de indenização abaixo.
+Você concorda em indenizar, pagar os custos de defesa e isentar a Epic, seus licenciadores, suas afiliadas e seus funcionários, executivos, diretores, agentes, contratados e outros representantes de todas as reivindicações, demandas, ações, perdas, responsabilidades e despesas (incluindo honorários advocatícios, custos e honorários de testemunhas especializadas) decorrentes ou relacionados a (a) qualquer reclamação que, se verdadeira, constituiria uma violação por você deste Contrato ou negligência de sua parte, (b) qualquer ato ou omissão de sua parte ao usar o Software ou Serviços, ou (c) qualquer alegação de infração ou violação de quaisquer direitos de propriedade intelectual de terceiros decorrente do uso de seu Feedback pela Epic, conforme previsto nas Seções 4 deste Contrato. Você concorda em reembolsar a Epic, sob demanda, por qualquer custo de defesa incorrido pela Epic e quaisquer pagamentos realizados ou perdas incorridas pela Epic, seja decorrente de sentença ou acordo judicial, com base em qualquer tema coberto por esta Cláusula 7.
+
+
+<EULA.Header>8.	Rescisão</> 
+
+Sem limitar quaisquer outros direitos da Epic, este Contrato será rescindido automaticamente sem aviso prévio se você deixar de cumprir qualquer um dos seus termos e condições. Você também pode rescindir este Contrato excluindo o Software de todos os dispositivos nos quais o tenha instalado. No caso de rescisão por qualquer motivo, a Licença será automaticamente rescindida, você não poderá mais exercer quaisquer dos direitos concedidos a você pela Licença e você deverá destruir todas as cópias do Software em sua posse.
+
+<EULA.Highlight>Exceto na extensão exigida por lei, nenhum pagamento ou taxa é reembolsável em qualquer uma das circunstâncias, independentemente de este Contrato ter sido rescindido ou não.</>
+
+As Cláusulas 2, 6 até 11 e 13 até 15 subsistirão a qualquer forma de rescisão deste Contrato.
+
+<EULA.Header>9.	Legislação aplicável e jurisdição</> 
+
+Este Contrato é celebrado no Estado da Carolina do Norte, EUA, e será regido e interpretado de acordo com as leis do Estado da Carolina do Norte, excluindo sua escolha de regras legais. Para quaisquer Disputas consideradas não sujeitas a arbitragem individual vinculante, conforme disposto na seção imediatamente abaixo, você e a Epic concordam em submeter-se à jurisdição exclusiva da Corte Superior do Condado de Wake, Estado da Carolina do Norte ou, se houver jurisdição de corte federal, a Corte Distrital dos Estados Unidos para o Distrito Leste da Carolina do Norte. Você e a Epic concordam em renunciar a quaisquer objeções jurisdicionais, locais ou fóruns inconvenientes a tais cortes (sem afetar os direitos de qualquer uma das partes de remover um caso para uma corte federal, se permitido), bem como qualquer direito a um julgamento por júri. A Convenção sobre Contratos de Compra e Venda Internacional de Mercadorias não se aplicará. Este parágrafo será interpretado à extensão máxima permitida pela legislação aplicável.
+
+<EULA.Header>10.	Arbitragem individual vinculante; renúncia de ação coletiva</>
+
+LEIA ESTA SEÇÃO ATENTAMENTE. ELA AFETA SEUS DIREITOS, INCLUINDO SEU DIREITO DE MOVER PROCESSO JUDICIAL NO TRIBUNAL.
+
+A maioria dos problemas pode ser resolvida de forma rápida e amigável entrando em contato com o suporte ao cliente da Epic em <a id="url" href="https://www.epicgames.com/customer-service" style="EULA.Hyperlink">https://www.epicgames.com/customer-service</>. Mas entendemos que, às vezes, as disputas não podem ser facilmente resolvidas pelo suporte ao cliente. Esta Seção explica como Você e a Epic concordam em resolver essas disputas, incluindo (quando aplicável) por meio de arbitragem individual vinculante.
+
+A arbitragem é um procedimento alternativo de resolução de litígios que nos permite resolver questões sem a formalidade de recorrer aos tribunais. Qualquer disputa entre Você e a Epic é submetida a um árbitro neutro (não a um juiz ou júri) para resolução justa e rápida. A arbitragem é mais eficiente para você e para a Epic.
+
+<EULA.Header>10.1 Resolução informal</>
+
+Se você tiver um problema que nosso suporte ao cliente não possa resolver, antes de iniciar a arbitragem, você e a Epic concordam em tentar resolver a disputa informalmente para nos ajudar a chegar a uma resolução e controlar os custos para ambas as partes. Você e a Epic concordam em fazer um esforço de boa fé para negociar qualquer disputa entre nós por pelo menos 30 dias ("Resolução informal"). Essas negociações informais começarão no dia em que Você ou a Epic receberem uma Notificação por escrito de uma Disputa de acordo com este Contrato.
+
+Você enviará seu Aviso de Disputa para a Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. Inclua seu nome, nome da conta que você usa ao jogar Fortnite, endereço, como entrar em contato com você, qual é o problema e o que você deseja que a Epic faça. Se a Epic tiver uma disputa com Você, a Epic enviará nosso Aviso de Disputa para o seu endereço de e-mail registrado e qualquer endereço de cobrança que Você tenha nos fornecido.
+
+Se você reside na União Europeia ("UE"), você também pode ter o direito de enviar sua reclamação à <a id="url" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN" style="EULA.Hyperlink">Plataforma de Resolução de Disputas Online (ODR)</> da Comissão Europeia. A ODR permite que os consumidores da UE resolvam disputas relacionadas a compras online de bens e serviços sem recorrer aos tribunais.
+
+Se a disputa não for resolvida por Resolução informal ou tribunal de pequenas causas (abaixo), Você ou a Epic podem iniciar uma arbitragem de acordo com este Contrato.
+
+<EULA.Header>10.2	 Tribunal de Pequenas Causas</>
+
+Em vez de usar a Resolução informal, Você e a Epic concordam que Você pode nos processar em um tribunal de pequenas causas de sua escolha no condado onde você mora ou no condado de Wake, Carolina do Norte, EUA, (se você atender aos requisitos do tribunal de pequenas causas). Esperamos que você tente primeiro a Resolução informal, mas não precisa fazer isso antes de recorrer ao tribunal de pequenas causas.
+
+<EULA.Header>10.3	 Arbitragem individual vinculante </>
+
+OS PROCESSOS DE ARBITRAGEM NESTA SEÇÃO SERÃO CONDUZIDOS APENAS DE FORMA INDIVIDUAL.
+
+Você e a Epic concordam que as Disputas serão resolvidas por arbitragem individual vinculante conduzida pelo <a id="url" href="https://www.jamsadr.com/" style="EULA.Hyperlink">Judicial Arbitration Mediation Services, Inc.</> ("JAMS", sigla em inglês para Serviço de Mediação de Arbitragem Judicial) sujeito à Lei de Arbitragem Federal dos EUA e à lei de arbitragem federal e de acordo com as <a id="url" href="https://www.jamsadr.com/rules-comprehensive-arbitration/" style="EULA.Hyperlink">Regras de Arbitragem Simplificadas e Procedimentos do JAMS</>, em vigor desde 1º de julho de 2014, (as "Regras do JAMS") conforme modificado por este Acordo.
+
+Isso significa que você e a Epic concordam com um processo de resolução de disputa em que submetemos qualquer Disputa a um árbitro neutro (não um juiz ou júri) que toma a decisão final para resolver a Disputa. O JAMS usa profissionais experientes para arbitrar disputas, o que ajuda Você e a Epic a resolver quaisquer disputas de maneira justa, mas com mais rapidez e eficiência do que recorrer a tribunal. O árbitro pode lhe conceder os mesmos recursos individualmente que um tribunal poderia, mas apenas na medida necessária para satisfazer sua reivindicação individual.
+
+A decisão do árbitro é definitiva, exceto por uma revisão limitada pelos tribunais de acordo com a Lei Federal de Arbitragem dos Estados Unidos, e pode ser aplicada como qualquer outra ordem judicial ou julgamento.
+
+<EULA.Header>10.3.1 Disputas que concordamos em arbitrar</>
+
+Você e a Epic concordam em submeter todas as Disputas entre Você e a Epic à arbitragem individual vinculante. "Disputa" significa qualquer disputa, reclamação ou controvérsia (exceto aquelas especificamente isentas abaixo) entre Você e a Epic relacionada ao seu uso ou tentativa de uso dos produtos ou serviços da Epic e dos produtos e serviços da Epic em geral, incluindo, sem limitação, a validade, aplicabilidade ou escopo desta seção de Arbitragem Individual Vinculante.
+
+Você e a Epic concordam em arbitrar todas as Disputas, independentemente de a Disputa ser baseada em contrato, estatuto, regulamento, portaria, ato ilícito (incluindo fraude, deturpação, persuasão fraudulenta ou negligência) ou qualquer outra teoria legal ou equitativa.
+As seções de Resolução informal e arbitragem não se aplicam a (1) ações individuais em tribunais de pequenas causas; (2) busca de ações de fiscalização por meio de uma agência governamental, se a legislação permitir; (3) uma reclamação ou solução sob o Regulamento Geral de Proteção de Dados da UE; (4) uma ação para obrigar ou manter qualquer decisão de arbitragem anterior; (5) O direito da Epic de buscar medida cautelar contra Você em um tribunal para preservar o status quo enquanto uma arbitragem prossegue; (6) alegações de pirataria, criação, distribuição ou promoção de Trapaças e violação de propriedade intelectual e (7) a aplicabilidade da cláusula de renúncia de ação coletiva abaixo.
+
+Você e a Epic concordam que, se uma disputa estiver sujeita a arbitragem sob este Contrato, ela será determinada pelo árbitro e não por um tribunal.
+
+<EULA.Header>10.3.2 Procedimento de Arbitragem </>
+
+Para iniciar uma arbitragem, revise as Regras do JAMS e siga as instruções para iniciar uma arbitragem na página do <a id="url" href="http://www.jamsadr.com/rules-streamlined-arbitration" style="EULA.Hyperlink">JAMS</> na internet. A parte que inicia uma arbitragem deve enviar ao JAMS uma "Demanda de Arbitragem" (disponível em sua página na internet), pagar uma taxa de depósito e enviar uma cópia da Demanda de Arbitragem à parte contrária. Você enviará uma cópia para Epic Games, Inc., Legal Department, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A. A Epic enviará nossa cópia para o seu endereço de e-mail registrado e qualquer endereço de cobrança que Você tenha nos forneceu.
+
+A arbitragem será conduzida por um único árbitro do JAMS selecionado com experiência substancial na resolução de propriedade intelectual e disputas de contratos comerciais. Você e a Epic concordam que a arbitragem será conduzida no idioma inglês e que o árbitro estará vinculado a este Contrato.
+
+Se for necessária uma audiência presencial, ela será realizada no Condado de Wake, Carolina do Norte, ou onde Você reside; <EULA.Highlight>a escolha é sua.</>
+
+O árbitro (não um juiz ou júri) resolverá a Disputa. A menos que você e a Epic concordem de outra forma, qualquer decisão ou sentença incluirá uma declaração por escrito informando a decisão de cada reivindicação e a base para a sentença, incluindo as constatações e conclusões factuais e legais essenciais do árbitro.
+
+O árbitro só pode conceder recursos legais ou equitativos que sejam solicitados por Você ou pela Epic para satisfazer uma de nossas reivindicações individuais (que o árbitro determinar que são apoiadas por evidências relevantes confiáveis). O árbitro não pode conceder tutela contra a Epic respeitando qualquer pessoa que não seja Você.
+
+Qualquer decisão ou sentença pode ser executada como um julgamento final por qualquer tribunal de jurisdição competente ou, se aplicável, pode ser feita uma solicitação a tal tribunal para aceitação judicial de qualquer sentença e uma ordem de execução.
+
+<EULA.Header>10.3.3 Taxas de arbitragem e local</>
+
+Se Você iniciar a arbitragem, deverá pagar a taxa de registro do JAMS exigida para arbitragens de consumidores.
+
+Em algumas situações, a Epic ajudará com seus honorários para (preferencialmente) nos levar a uma resolução rápida e justa:
+
+Se a Disputa envolver US$ 10.000 ou menos, a Epic pagará todos os custos do JAMS, incluindo as taxas que você teria que pagar.
+
+Se o caso acima não se aplicar a Você, mas Você demonstrar que os custos de arbitragem serão proibitivos em comparação com os custos de litígio, a Epic pagará a proporção dos seus custos do JAMS que o árbitro julgar necessário para evitar que a arbitragem tenha custos proibitivos (em comparação com o custo de litígio).
+
+Mesmo que a Epic vença a arbitragem e a legislação aplicável ou as Regras do JAMS permitam que a Epic exija de você nossa parte das taxas do JAMS, nós não a cobraremos.
+
+A taxa de assistência oferecida acima depende de Você apresentar a reivindicação de arbitragem de "boa fé". Se o árbitro descobrir que Você apresentou uma reivindicação de arbitragem contra a Epic com um propósito impróprio, levianamente ou sem uma investigação pré-reivindicação suficiente sobre os fatos ou a legislação aplicável, o pagamento de todas as taxas será regido pelas regras do JAMS.
+
+Os custos do JAMS não incluem os custos e honorários do seu advogado, e os honorários advocatícios e custos do JAMS não são considerados ao determinar o valor que uma disputa envolve.
+
+<EULA.Highlight>A Epic não exigirá de você honorários advocatícios ou despesas em nenhuma arbitragem, mesmo que a legislação ou as regras do JAMS nos autorizem a fazê-lo.</> Se você optar contratar um advogado, você pagará os honorários e as custas de seus próprios advogados, a menos que a lei aplicável estabeleça o contrário.
+
+<EULA.Header>10.3.4 Notificação e arquivamento</> Se uma Disputa precisar ser arbitrada, Você ou a Epic deverão iniciar a arbitragem da Disputa dentro de dois (2) anos a partir do início da Disputa. Se a legislação aplicável exigir que você apresente uma reclamação para uma Disputa em menos de dois anos após o surgimento da Disputa, você deve iniciar a arbitragem nesse período anterior. A Epic incentiva Você a nos informar sobre uma Disputa o mais rápido possível para que possamos trabalhar para resolvê-la. <EULA.Highlight>Não fornecer notificação em tempo hábil impedirá quaisquer reivindicações.</>
+
+<EULA.Header>10.3.5 Continuação em vigor </> Esta seção de Arbitragem Individual Vinculante subsiste a qualquer rescisão deste Contrato ou da prestação de serviços da Epic para Você.
+
+<EULA.Header>10.3.6 Futuras alterações de arbitragem</> Embora a Epic possa revisar este Acordo a seu critério, a Epic não tem o direito de alterar este Contrato para arbitrar ou as regras aqui especificadas com relação a qualquer Disputa assim que essa Disputa surgir.
+
+<EULA.Header>10.4 Renúncia à ação coletiva</>
+
+Na extensão máxima permitida pela legislação aplicável, Você e a Epic concordam em realizar Disputas apenas em caráter individual e não devem:
+buscar instaurar, associar-se ou participar de qualquer ação coletiva ou representativa, arbitragem coletiva ou de classe ou qualquer outra ação em que outro indivíduo ou entidade aja em caráter representativo (por exemplo, ações de procurador-geral privado); ou
+consolidar ou combinar procedimentos individuais ou permitir que um árbitro o faça sem o consentimento expresso de todas as partes deste Contrato e de todas as outras ações ou arbitragens.
+
+<EULA.Header>10.5 Dissociabilidade</>
+
+ Se toda ou qualquer disposição deste contrato de Arbitragem individual vinculante for considerada inválida, inexequível ou ilegal, você e a Epic concordam que a disposição será eliminada e o restante do contrato permanecerá em vigor e será interpretado como se qualquer disposição dissociada não houvesse sido incluída. A única exceção é que, se a Renúncia à ação coletiva for considerada inválida, inexequível ou ilegal, Você e a Epic concordam que ela não será dissociável; toda esta seção de Arbitragem individual vinculante será nula e inexequível e qualquer disputa será resolvida em tribunal, sujeita ao foro e à escolha das cláusulas especificadas neste Contrato. Sob nenhuma circunstância a arbitragem será conduzida com base em classe sem o consentimento expresso da Epic.
+
+<EULA.Header>11.	Assuntos do governo dos EUA</>
+
+O Software é um "Item Comercial" (conforme definido na seção 2.101, título 48, do Code of Federal Regulations — CFR), e consiste em "Software de Computador Comercial" e "Documentação de Software de Computador Comercial" (conforme usados nas seções 12.212 ou 227.7202, título 48, do CFR, conforme aplicável). O Software está sendo licenciado para usuários finais sob o Governo dos EUA apenas como Itens Comerciais e apenas com os direitos concedidos a outros licenciados sob este Contrato.
+Você concorda em cumprir todas as legislações, regulações e regras federais e estrangeiras aplicáveis e concluir quaisquer compromissos necessários. Você concorda em não usar, exportar, reexportar ou baixar o Software ou Serviços para (ou para um cidadão ou residente de) qualquer país para o qual os EUA tenham imposto embargo de produtos, ou para qualquer pessoa na lista do Departamento do Tesouro dos EUA de Cidadãos Especialmente Designados ou Tabela de Pedidos Negados do Departamento de Comércio dos EUA. Você declara e garante que não está localizado em, sob o controle de, ou é cidadão ou residente de qualquer país restrito ou vetado pelos EUA ou em qualquer lista restrita ou vetada pelos EUA.
+
+<EULA.Header>12.	Alterações deste Contrato</>
+
+<EULA.Highlight>A Epic pode, ao seu critério, emitir um Contrato, Termos de Serviço ou Política de Privacidade alterados a qualquer momento, por meio da publicação do Contrato, Termos de Serviço ou Política de Privacidade alterados em seu site ou ao conceder-lhe acesso digital a versões alteradas de qualquer desses documentos quando do seu próximo acesso ao Software. Se qualquer alteração a este Contrato, aos Termos de Serviço ou à Política de Privacidade não for aceitável para você, você poderá rescindir este Contrato e deverá deixar de usar o Software. Ao continuar usando o Software, você demonstrará que aceitou o Contrato, Termos de Serviço e Política de Privacidade alterados.</>
+
+<EULA.Header>13.	Não atribuição</>
+
+Você não poderá, sem consentimento prévio por escrito da Epic, ceder, transferir, cobrar ou subcontratar todos ou quaisquer dos direitos ou obrigações previstos neste Contrato, e qualquer tentativa não autorizada de fazê-lo será considerada nula e sem efeito. Se as restrições à transferência do Software neste Contrato não forem exequíveis de acordo com as leis do seu país, este Contrato será vinculativo para qualquer destinatário do Software. A Epic poderá a qualquer momento ceder, transferir, cobrar ou subcontratar todos ou quaisquer direitos ou obrigações previstos neste Contrato.
+
+<EULA.Header>14.	Definições</>
+
+Conforme usadas neste Contrato, as seguintes palavras capitalizadas têm os significados a seguir:
+
+<EULA.Highlight>"Aplicativo"</> significa um aplicativo de software que pode ser baixado, instalado e iniciado a partir do Software.
+
+<EULA.Highlight>"Dispositivo Autorizado"</> significa um tipo de dispositivo móvel Android que você possui ou controla no qual o Software é projetado e designado pela Epic para ser operado. Um Dispositivo Autorizado não inclui uma máquina virtual ou outra emulação de tal dispositivo móvel.
+
+<EULA.Highlight>"Detecção de Trapaça"</> significa funcionalidade destinada a identificar Trapaças.
+
+<EULA.Highlight>"Trapaças"</> significa programas, métodos ou outros processos que podem dar aos jogadores uma vantagem competitiva injusta no Software.
+
+<EULA.Highlight>"Epic"</> significa, dependendo da localização de sua residência principal:
+
+a.	Epic Games, Inc., uma corporação de Maryland com sede em Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; ou
+b.	Epic Games International S.à r.l., uma sociedade de responsabilidade limitada de Luxemburgo, localizada em Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, atuando por meio de sua filial suíça, com sede em Platz 3, 6039 Root, Switzerland.
+
+<EULA.Highlight>"Feedback"</> significa quaisquer feedback ou sugestões que você fornecer à Epic em relação ao Software, aos Serviços, aos Aplicativos ou a outros produtos e serviços da Epic.
+
+<EULA.Highlight>"Serviços"</> significa quaisquer serviços disponibilizados a você por meio do Software, incluindo serviços para gerenciar a sua conta Epic, conectar-se a serviços de terceiros ou adquirir, configurar, atualizar e ativar o uso de Aplicativos.
+
+<EULA.Highlight>"Software"</> significa o aplicativo de software proprietário do Android conhecido como o aplicativo da Epic Games e quaisquer correções, atualizações e upgrades do aplicativo. O Software não inclui Aplicativos.
+
+<EULA.Header>15.	Diversos</>
+
+Este Contrato e qualquer documentação ou informações citadas nele constituem o acordo integral entre você e a Epic em relação ao tema coberto por este Contrato. Todas as outras comunicações, propostas e declarações relacionadas ao assunto coberto por este Contrato são excluídas.
+
+O documento original deste Contrato está em inglês; quaisquer traduções são fornecidas apenas para fins de referência. É desejo expresso das partes que estes termos e todos os documentos relacionados sejam redigidos em inglês. Você renuncia a qualquer direito que possa ter segundo a legislação de seu país de ter este Contrato escrito ou interpretado no idioma de qualquer outro país.
+
+Este Contrato descreve determinados direitos legais. Você poderá ter outros direitos segundo a legislação de sua jurisdição. Este Contrato não alterará seus direitos segundo a legislação de sua jurisdição se as leis de sua jurisdição assim não permitirem. As limitações e exclusões de garantias e de medidas neste Contrato podem não se aplicar a você, uma vez que a sua jurisdição pode não assim permitir em seu caso específico. Caso certas disposições deste Contrato sejam consideradas por uma corte ou tribunal de jurisdição competente como inexequíveis, essas disposições deverão ser aplicadas apenas na extensão máxima possível nos termos da lei aplicável, sendo que os demais termos deste Contrato permanecerão em pleno vigor e efeito.
+Qualquer ato da Epic para exercer, ou o seu não exercício ou o atraso no exercício, de qualquer um de seus direitos previstos neste Contrato, bem como aquelas decorrentes de lei ou em equidade, não será considerada uma renúncia destes ou de quaisquer outros direitos ou medidas disponíveis no contrato, pela lei ou em equidade.
+Você concorda que este Contrato não confere nenhum direito ou alternativas para qualquer pessoa que não as partes deste Contrato, exceto conforme mencionado explicitamente.
+As obrigações da Epic estão sujeitas à legislação existente e ao devido processo legal, sendo que a Epic poderá cumprir com pedidos ou requisições de autoridades legais ou regulatórias, apesar de quaisquer disposições do contrário previstas neste Contrato.

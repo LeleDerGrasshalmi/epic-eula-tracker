@@ -1,0 +1,20 @@
+<EULA.SubHeader>This code of conduct outlines our expectations for Creator behavior as well as the consequences for unacceptable behavior.
+All determinations of appropriate or inappropriate behavior are in Epic Games’ sole discretion.</>
+
+<EULA.SubHeader>Do</>
+●	Be an extension of the brand. Fortnite is fun, friendly, and welcoming to all players.
+●	Respect other players. Be graceful in victory and defeat. 
+●	Keep account information safe and private. 
+●	Play fairly and within the rules of the game. 
+●	Create content appropriate to a game’s designated age rating.
+
+<EULA.SubHeader>Don’t</>
+●	Engage in hate speech, threats, spam, harassment, discriminatory or illegal behavior.
+●	Be overly commercial or spammy.
+●	Create or display any pornographic content in association with Fortnite.
+●	Violate any copyright or trademark of Epic Games or any other third party.
+●	Promote or engage in gambling associated with Fortnite.
+●	Participate in any action which, in the sole and exclusive judgment of Epic Games, defrauds the game or any other player.
+
+<EULA.SubHeader>Consequences of Unacceptable Behavior</>
+Unacceptable behavior will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately. If a participant engages in unacceptable behavior, Epic Games may take any action deemed appropriate, up to and including expulsion from the program without warning.

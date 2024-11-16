@@ -1,0 +1,208 @@
+Epic has developed a set of online services for developers to use in their video games. Epic’s intent is to provide these services to you for use in your video games in the same manner and at the same level of quality as Epic expects for Epic’s own games. 
+
+Epic is currently planning to offer two tiers of services: Live Services and Experimental Services. Live Services are stable Services that Epic intends to offer on a long-term basis. Experimental Services are early releases which are expected to change as Epic continues development and for which Epic is soliciting your feedback. Epic may add more tiers as it adds more Services.
+
+Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of the SDK and related Services. You may only use these services if you comply with the terms of this Agreement. By downloading or using the SDK or accessing any Services or using the Developer Portal, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, do not download or use the SDK or any Services or use the Developer Portal.
+
+Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 11.
+
+If your primary residence (or primary place of business, if you are a legal entity like a corporation or an academic institution) is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games International S.à r.l., acting through its Swiss branch.
+<EULA.Header>
+1                 PURPOSE OF THE AGREEMENT
+</>
+1.1             The purpose of this Agreement is to establish terms regarding your use of the SDK and related Services. The specific Services are set forth in the Service Addendum. This Agreement together with the Service Addendum constitutes one single agreement. 
+
+<EULA.Header>
+2                 SERVICES
+</>
+2.1             During the term of this Agreement, Epic will make available the Services identified in the Service Addendum.  Epic will use commercially reasonable efforts to provide such Services in substantially the same manner and level of quality that Epic provides with respect to services for its own games, taking into consideration whether such Services are Experimental Services or Live Services.  
+
+2.2	Epic’s obligations under Section 2.1 are conditioned upon (a) your ongoing, good-faith cooperation to perform all tasks necessary, or reasonably requested by Epic, to integrate the SDK and ensure that your Video Games are compatible with the SDK and Services, and (b) your compliance with all applicable terms of this Agreement. 
+
+2.3	If you do not use or access a particular Service for a period of one year or longer, upon thirty (30) days notice Epic may delete any data relating to such Service that is stored or maintained through the Service.
+
+<EULA.Header>
+3	SDK LICENSE
+</>
+3.1	During the term of this Agreement, subject to the terms and conditions of this Agreement, and subject to your compliance with such terms and conditions, Epic hereby grants you a non-transferable, non-sublicensable, terminable, non-exclusive, royalty-free license only to:  (a) use the SDK to integrate Services with your Video Games; (b) integrate the Distributable Code in your Video Games for the sole purpose of accessing the Services; and (c) distribute the Distributable Code in object code format so integrated in your Video Games to end users who are subject to an end user license agreement which explicitly disclaims any representations, warranties, conditions, and liabilities related to the SDK and the Services.  
+
+3.2	You have the right to have third-party contractors practice, on your sole behalf, the license rights granted in Section 3.1. You will cause each such contractor to abide by all of your obligations hereunder as if it were a party to this Agreement. You are directly and primarily responsible and liable for any acts or omissions of each such contractor in relation to any subject matter of this Agreement. 
+
+3.3	You agree that you have no rights in or to the SDK other than as expressly set forth in this Agreement.  
+
+<EULA.Header>
+4	LICENSE RESTRICTIONS AND ACCEPTABLE USE             
+</>
+4.1	You agree not to, and you will not permit any third party to: 
+
+(a) access the Services except through the SDK, the Developer Portal, or as otherwise expressly authorized by Epic;
+
+(b) use the SDK in connection with any applications or software other than Video Games;
+
+(c) combine, distribute, or otherwise use the SDK with any code or other content which is covered by a license that would directly or indirectly require that all or part of the SDK be governed under any terms other than those of this Agreement; or
+
+(d) utilize the SDK or the Services 
+
+(1) in any manner that violates any applicable law or regulation;
+(2) to interfere with any third party’s access to the SDK or the Services, intentionally or otherwise; 
+(3) to tamper with or circumvent technical restrictions on use, access, storage, or any function of the Services, for example by using access credentials you are not authorized to use; or
+(4) in an unreasonable or excessive manner given the scope, nature, and content of your Video Game, for example to conduct a DDOS attack on the Services.
+
+Epic intends to be transparent in its management and enforcement of the restrictions above. Epic will keep you up-to-date and provide additional guidance on these issues through the <a id="url" href="https://dev.epicgames.com/services/terms/aup" style="EULA.Hyperlink">EOS Acceptable Use Policy</>. In addition, technical documentation outlining how to use the SDK and the Services, including any technical restrictions on their use, is available on <a id="url" href="https://dev.epicgames.com/docs" style="EULA.Hyperlink">Epic’s documentation page</>.
+
+4.2	Epic reserves the right to remove content stored or maintained through the Services or disable access to, suspend, or terminate the Services to comply with applicable law or if you are in violation of this Section 4. You agree to provide information or other materials related to your use of the Services as reasonably requested by Epic to investigate the source of any problem with the Services or to verify your compliance with this Agreement.
+
+<EULA.Header>
+5	UPDATES TO THE SDK; UPDATES TO THIS AGREEMENT
+</>
+5.1             Epic may release SDK Updates from time to time and make them available via the Developer Portal. Epic will use commercially reasonable efforts to ensure that any Live Services are backwards compatible with Video Games that integrate prior versions of the SDK. 
+
+5.2	Epic may discontinue support for any Live Service upon three (3) years’ written notice to you.
+
+5.3.	Epic may discontinue support for or change any Experimental Service at any time upon prior written notice to you.
+
+5.4	Epic may issue an amended Agreement at any time in its discretion by providing notice to you or by providing you with digital access to the amended Agreement when you log in to the Developer Portal or download SDK Updates. You are not required to accept the amended Agreement. However, in order to use SDK Updates or access new Services that Epic offers, you must accept the amended Agreement. Notwithstanding the foregoing, Epic may amend this Agreement with respect to the current version of the SDK or the current Services to comply with law or regulatory requirements, in which case Epic will provide reasonable notice to you. 
+
+<EULA.Header>
+6                 INTELLECTUAL PROPERTY RIGHTS
+</>
+6.1             Epic and its licensors own and retain all rights, title, and interest including all Intellectual Property Rights in and to the SDK and the Services. All rights granted to you under this Agreement are granted by express license only and not by sale, and all of those rights are limited by the terms of this Agreement.  No license or other rights will be created hereunder by implication, estoppel, or otherwise.  For the avoidance of doubt, all Intellectual Property Rights in the Distributable Code as integrated in your Video Game(s) shall remain the property of Epic.
+
+6.2           You agree not to remove or destroy any copyright notices, trademarks, or other proprietary or confidential legends or markings placed upon or contained within the SDK or on any other documentation or materials related to the SDK.  
+
+6.3	You acknowledge and agree that you have no rights with respect to any trademarks, service marks, trade names, or logos of Epic or its Affiliates (the “Epic Trademarks”). If you wish to make use of Epic Trademarks, please go to <a id="url" href="https://dev.epicgames.com/branding" style="EULA.Hyperlink">dev.epicgames.com/branding</>.
+
+6.4             Epic acknowledges and agrees that you (and your licensors, if any) solely own and retain all rights, title, and interest including all Intellectual Property Rights in and to your Video Game(s) (apart from any Distributable Code integrated therein). 
+
+6.5             As used herein, “Feedback” means suggestions, comments, ideas, and all other types of information, including software and code, which (a) you give or communicate directly or indirectly (including your employees, agents, contractors, or representatives) to Epic or its agents; and (b) relates to the SDK, its components, any Services, or the Developer Portal.  You agree to grant and hereby grant to Epic a non-exclusive, fully-paid, royalty-free, worldwide, perpetual, irrevocable, sublicensable, non-terminable, transferable, and assignable license to reproduce, distribute, publicly perform, publicly display, make, have made, use, sell, offer to sell, import, modify, and create derivative works based on, and otherwise exploit any and all Feedback for all current and future methods and forms of exploitation in any country.  Any and all Feedback shall be subject to Epic’s underlying rights in the subject matter of such Feedback. You understand and agree that Epic is not required to make any use of any Feedback that you provide. You agree that if Epic makes use of your Feedback, Epic is not required to credit or compensate you for your contribution.  You represent and warrant that you have sufficient rights in any Feedback that you provide to Epic to grant Epic and other affected parties the rights described above. This includes but is not limited to Intellectual Property Rights and other proprietary or personal rights.
+
+6.6	The SDK includes third-party software components (“Third-Party Software”). If Third-Party Software has separate software license or attribution requirements, the license terms or other attribution requirements for Third-Party Software components will be provided in the ThirdPartyNotices folder of the SDK.  
+
+<EULA.Header>
+7                 NOTICES
+</>
+Where this Agreement calls for notice from Epic, including written notice, Epic may provide notice to you at the email address that you provided when you registered for the Services (or any updated email address you subsequently provide) or via notifications in the Developer Portal. If provided via email, Epic’s notices to you will be effective when they are sent to that email address. If provided via the Developer Portal, Epic’s notices to you will be effective seven (7) days following Epic’s notification on the Developer Portal.
+
+<EULA.Header>
+8                 DISCLAIMERS AND LIMITATION OF LIABILITY
+</>
+8.1             The SDK, the Services, the Developer Portal and all other materials and information provided by Epic (the “Epic Materials and Services”) are provided on an “as is” and “as available” basis, “with all faults” and without warranty of any kind. Epic, its licensors, and its and their Affiliates disclaim all warranties, conditions, common law duties, and representations (express, implied, oral, and written) with respect to the Epic Materials and Services, including all express, implied, and statutory warranties and conditions of any kind, such as title, non-interference with your enjoyment, authority, non-infringement, merchantability, fitness or suitability for any purpose (whether or not Epic knows or has reason to know of that purpose), system integration, accuracy or completeness, results, reasonable care, workmanlike effort, lack of negligence, and lack of viruses, whether alleged to arise under law, by reason of custom or usage in the trade, or by course of dealing.  Without limiting the generality of the foregoing, Epic, its licensors, and its and their Affiliates make no warranty that (1) any of the Epic Materials and Services will operate properly, (2) the Epic Materials and Services will meet your requirements, (3) the operation of the Epic Materials and Services will be uninterrupted, bug free, or error free in any or all circumstances, (4) any defects in the Epic Materials and Services can or will be corrected, (5) the Epic Materials and Services are or will be in compliance with a platform manufacturer’s rules or requirements, or (6) a platform manufacturer will approve any of your Video Games, or will not revoke approval of any Video Game for any or no reason. Any warranty against infringement that may be provided in Section 2-312 of the Uniform Commercial Code or in any other comparable statute is expressly disclaimed. Epic, its licensors, and its and their Affiliates do not guarantee continuous, error-free, virus-free, or secure operation of or access to the Epic Materials and Services. This paragraph will apply to the maximum extent permitted by applicable law.
+
+8.2             To the maximum extent permitted by applicable law, neither Epic, its licensors, nor its or their Affiliates, nor any of Epic’s service providers, shall be liable in any way for loss or damage of any kind resulting from the use or inability to use the Epic Materials and Services or otherwise in connection with this Agreement, including but not limited to loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses. In no event will Epic, its licensors, nor its or their Affiliates, nor any of Epic’s service providers be liable for any loss of profits or any indirect, incidental, consequential, special, punitive, or exemplary damages, or any other damages arising out of or in connection with this Agreement or the Epic Materials and Services, or the delay or inability to use or lack of functionality of the Epic Materials and Services, even in the event of Epic’s or its Affiliates’ fault, tort (including negligence), strict liability, indemnity, product liability, breach of contract, breach of warranty, or otherwise and even if Epic or its Affiliates have been advised of the possibility of such damages. These limitations and exclusions regarding damages apply even if any remedy fails to provide adequate compensation.
+
+8.3             Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in those states or jurisdictions, the foregoing limitations of liability shall apply only to the full extent permitted by law.
+
+<EULA.Header>
+9                 INDEMNIFICATION
+</>
+9.1             You agree to indemnify, pay the defense costs of, and hold Epic, its licensors, its and their Affiliates, and its and their employees, officers, directors, agents, contractors, and other representatives harmless from all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs, and expert witnesses’ fees) that arise from or in connection with (a) any claim that, if true, would constitute a breach by you of this Agreement or negligence by you, (b) any claim brought by any third party to whom you distribute or sublicense the SDK in violation of this Agreement (including any claim that the SDK infringes a patent), (c) any claim that any Video Game or any other matter you created, or your exercise of the licenses granted under this Agreement, infringes any third party’s Intellectual Property Rights or other proprietary or personal rights (except to the extent of any claim that your authorized use of the unmodified SDK originally provided to you by Epic under this Agreement infringes any United States patent, trademark or copyright), or (d) any federal, state, or foreign civil or criminal actions related to any Video Game. You agree to reimburse Epic on demand for any defense costs incurred by Epic and any payments made or loss suffered by Epic, whether in a court judgment or settlement, based on any matter covered by this Section 9.
+
+9.2             If you are prohibited by law from entering into the indemnification obligation above, then you assume, to the extent permitted by law, all liability for all claims, demands, actions, losses, liabilities, and expenses (including attorneys’ fees, costs and expert witnesses’ fees) that are the stated subject matter of the indemnification obligation above.
+
+<EULA.Header>
+10                 TERM AND TERMINATION
+</>
+10.1             This Agreement, including any Services Addendum(s), will continue in effect unless terminated as described below in this Section 10.
+
+10.2             Epic may terminate this Agreement (i) if you materially breach any of your obligations set forth in this Agreement and fail to cure such breach within thirty (30) days of notice to you; (ii) immediately for cause if you breach any of your obligations under Section 4; or (iii) upon three (3) years’ written notice to you.
+
+10.3             You may terminate this Agreement at any time.
+
+10.4             Upon the date of termination of this Agreement, you will: (i) cease to use the SDK, the Services, and the Developer Portal, (ii) destroy all tangible copies of the SDK, together with all reproduction and modifications thereof, and (iii) if requested by Epic, deliver to Epic a written certification that you have complied with all of your obligations under this Section 10.4.
+
+10.5             Epic and its Affiliates shall not be liable to you for damages of any kind, including direct, indirect, special, incidental, or consequential damages on account of termination of this Agreement for any reason whatsoever, even if Epic has been advised of the possibility of such damages.
+
+10.6             Notwithstanding anything to the contrary contained herein, Sections 3.3 and 6-12 will survive any termination or expiration of this Agreement.
+
+<EULA.Header>
+11                    Definitions and interpretation
+</>
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“Affiliate”
+means any person or entity that, either directly or indirectly, controls, is under common control with, or is controlled by a designated person or entity, whether such control is exercised by voting rights or otherwise.
+ 
+“Agreement”
+means this Epic Games Online Services End User License Agreement, including the Service Addendum.
+ 
+“Developer Portal”
+Means the web interface provided to you by Epic through which you may access features and functionality related to the Services.
+ 
+“Distributable Code”
+means the software components of the SDK that are intended for integration into and distribution with your Video Game and that Epic provides in the subdirectory called “Distributable Code.”
+ 
+“Experimental Service”
+means a Service identified as an Experimental Service in the Service Addendum and that Epic makes available for the purpose of testing and gathering feedback.
+ 
+“Intellectual Property Rights”
+means any and all intellectual property rights now known or hereafter existing, including trademarks, service marks, trade name rights, and similar rights, rights associated with works of authorship, including copyrights and moral rights, rights of privacy and publicity, rights in computer software, including source code and object code, database rights, trade secret rights, patents and patentable inventions, designs, algorithms, and other industrial property rights, rights in know how (whether or not patentable or protectable as a trade secret), and all other intellectual and proprietary rights (of every kind and nature throughout the world and however designated) (including logos, character rights, and “rental” rights), whether arising by operation of law, contract, license, or otherwise, and all registrations, applications, renewals, extensions, continuations, divisions, or reissues thereof (including rights in any of the foregoing) in any jurisdiction.
+ 
+“Live Service”
+means a Service that is identified as a Live Service in the Service Addendum
+
+“SDK”
+means the software provided to you by Epic to integrate the Services in your Video Game.
+ 
+“SDK Update(s)”
+means the updates and upgrades to the SDK that Epic chooses to make available to users of the Services from time to time and which are not marketed as stand-alone software.
+
+“Service(s)”
+means the game tools and services created by Epic and identified in the Service Addendum. “Service(s)” include Experimental Services and Live Services. 
+ 
+“Service Addendum”
+means the service addendum specifying the applicable Service(s) for your Video Game.
+
+“Video Game”
+means interactive video game software developed by you or on your behalf for entertainment purposes. Video Games shall not include any gambling-related products (as defined by law in the jurisdiction of use).
+ 
+“You,” “your” or “yourself”
+means you as an individual or the legal entity exercising rights under this Agreement through you.  For legal entities, “you,” “your”, and “yourself” each include your Affiliates.
+
+<EULA.Header>
+12              MISCELLANEOUS
+</>
+12.1          You agree not to bring or participate in a class or representative action, private attorney general action, or collective arbitration related to the SDK, the Services, or this Agreement. You also agree not to seek to combine any action or arbitration related to the SDK, the Services, or this Agreement with any other action or arbitration without the consent of all parties to this Agreement and all other actions or arbitrations.
+
+12.2          Nothing contained in this Agreement or the Service Addendum shall be deemed to restrict Epic’s or its Affiliates’ ability to directly or indirectly acquire, license, develop, produce, distribute, market, or promote products competitive with your business.
+
+12.3	You agree to obtain any necessary export license or other governmental approval prior to accessing, downloading, or using the SDK or the Services. You represent and warrant that you do not appear on any United States list of prohibited or restricted parties (including Specially Designated Nationals List).
+
+12.4          You and Epic are independent contractors and are not the legal representative, agent, joint venturer, partner, or employee of the other. Neither party has any right or authority to assume or create any obligations of any kind or to make any representation or warranty on behalf of the other party.
+
+12.5          You may assign this Agreement in whole, with prior written notice to Epic that includes the legal name and contact information (email and physical address) of your assignee and the date of the assignment.  By accessing the SDK or the Services, or using the Developer Portal your assignee unconditionally agrees to be bound by all terms and conditions of this Agreement. If your assignee does not agree to be bound by this Agreement, your assignee may not use the SDK, the Services, or the Developer Portal. Subject to the foregoing, this Agreement shall inure to the benefit of the parties and their respective successors and permitted assigns. Epic shall have the right to assign any and all of its rights and obligations hereunder to any party.
+
+12.6          Any act by Epic to exercise, or failure or delay in exercise of, any of its rights under this Agreement, at law or in equity will not be deemed a waiver of those or any other rights or remedies available in contract, at law or in equity.
+
+12.7          Unless otherwise stated in this Agreement, if any term of this Agreement is held by a court or tribunal of competent jurisdiction to be unenforceable, the term will be enforced to the maximum extent permissible and the remaining terms of this Agreement will remain in full force and effect. You agree that this Agreement does not confer any rights or remedies on any person other than the parties to this Agreement, except as expressly stated.
+
+12.8          This Agreement and any document or information referred to in this Agreement constitute the entire agreement between you and Epic relating to the subject matter covered by this Agreement. All other communications, proposals, and representations with respect to the subject matter covered by this Agreement are excluded.
+
+12.9      The SDK and related documentation are “Commercial Items” (as defined at 48 C.F.R. §2.101), consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation” (as used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable). The SDK is being licensed to U.S. Government end users only as Commercial Items and with only those rights as are granted to other licensees under this Agreement. 
+
+12.10       All terms used in this Agreement in any one gender or number shall mean and include any other gender and number as the facts, context, or sense of this Agreement may require.  The section headings used in this Agreement are intended primarily for reference and shall not by themselves determine the construction or interpretation of this Agreement or any portion hereof.  References to sections of an agreement refer to sections of this Agreement unless expressly stated otherwise. 
+
+12.11       The original of this Agreement and the Service Addendum has been written in English.  You hereby waive any right you may have under the law of your country to have this Agreement or the Service Addendum either written in the language of your country or in the language of any other country.
+
+12.12       This Agreement shall be governed by and interpreted in accordance with the laws of the State of North Carolina, USA, excluding that body of law related to choice of laws, and of the United States of America. Any action or proceeding brought to enforce the terms of this Agreement or to adjudicate any dispute arising hereunder shall be brought in the Superior Court of Wake County, State of North Carolina, USA, or the United States District Court for the Eastern District of North Carolina. You and Epic hereby submit to the exclusive jurisdiction and venue of such courts for purposes of any such action and agrees that any service of process may be effected by delivery of the summons in the manner provided in the delivery of notices set forth in Section 7 above.  The validity, construction and performance of this Agreement, and the legal relations among the parties to this Agreement shall not be governed by the provisions of the 1980 United Nations Convention on Contracts for the International Sale of Goods or the United Nations Convention on the Limitation Period in the International Sale of Goods, as amended.
+
+12.13       Except as otherwise set forth in this Agreement, Epic’s or your election of any remedies provided for in this Agreement or the Service Addendum will not be exclusive of any other remedies. Breaches of certain sections of this Agreement would cause significant and irreparable harm to Epic, the extent of which would be difficult to ascertain. Accordingly, in the event of your breach of any such sections of this Agreement, Epic will be entitled to seek to enjoin any breach or threatened breach of any or all of such provisions.
+
+12.14       This Agreement describes certain legal rights. You may have other rights under the laws of your jurisdiction. This Agreement does not change your rights under the laws of your jurisdiction if the laws of your jurisdiction do not permit it to do so. Limitations and exclusions of warranties and remedies in this Agreement may not apply to you because your jurisdiction may not allow them in your particular circumstance. In the event that certain provisions of this Agreement are not enforceable in your jurisdiction, those provisions shall be enforceable to the furthest extent possible under applicable law.
+
+12.15       Epic’s obligations are subject to existing laws and legal process, and Epic may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.
+
+12.16	Epic will not be liable for any delay or failure to perform its obligations under this Agreement where such delay or failure arises from circumstances beyond its reasonable control, including but not limited to labor disputes or other industrial disturbances, electrical or power outages, utilities or other telecommunications failures, fire, flood, civil commotion, riot, war, revolution, change of law, embargoes, or natural disasters.
+
+<EULA.Header>
+SERVICE ADDENDUM
+</>
+
+<EULA.Header>
+Game Analytics (Live Service)
+</>
+Store telemetry about your players and their gameplay behavior in order to understand and boost retention and engagement. The dashboards help make data-driven decisions in real-time.
+
+<EULA.Header>
+Ticketing System (Live Service)
+</>
+Connect directly with players through integrated customer support tools that ties tickets to a players’ profile. Provide high-quality personalized support by having the player’s data available within a single dashboard.

@@ -1,0 +1,20 @@
+<EULA.SubHeader>Ce code de conduite est là pour rappeler aux créateurs le comportement que nous attendons d'eux, mais il indique également les conséquences que peut avoir un comportement inacceptable.
+La définition d'un comportement acceptable ou inacceptable est à la seule discrétion d'Epic Games.</>
+
+<EULA.SubHeader>Comportement attendu</>
+●	Fortnite est un jeu amusant et ouvert à toutes et à tous. Soyez là pour vous amuser et restez ouvert d'esprit.
+●	Respectez les autres joueurs. Restez humble quand vous gagnez et soyez bon perdant. 
+●	Gardez vos informations de compte privées et en sécurité. 
+●	Suivez les règles du jeu et restez sportif. 
+●	Créez du contenu qui respecte la classification d'âge du jeu.
+
+<EULA.SubHeader>Comportement interdit</>
+●	Ne proférez aucun discours haineux, ne menacez, ne harcelez et ne discriminez personne, ne faites rien d'illégal.
+●	Ne faites pas votre publicité de façon excessive et ne spammez pas.
+●	Ne créez et n'affichez aucun contenu pornographique en rapport avec Fortnite.
+●	Ne violez aucun copyright et aucune marque commerciale d'Epic Games ou de tout autre tiers.
+●	Ne faites pas la promotion de jeux d'argent en rapport avec Fortnite et ne participez pas à ces jeux.
+●	Ne participez à aucune action qui (selon des modalités à la seule discrétion d'Epic Games) abuse du jeu ou de tout autre joueur.
+
+<EULA.SubHeader>Conséquences d'un comportement inacceptable</>
+Les comportements inacceptables ne seront pas tolérés. Toute personne dont le comportement aura été considéré comme inacceptable devra immédiatement changer de comportement quand cela lui sera demandé. Si un participant a un comportement inacceptable, Epic Games pourra prendre toute mesure qui lui semble appropriée, y compris exclure ce participant du programme sans avertissement préalable.

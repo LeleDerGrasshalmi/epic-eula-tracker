@@ -1,0 +1,649 @@
+**NOTE: THIS AGREEMENT IS A CONTRACT. If you work for a company (like a developer or publisher), clicking “ACCEPT” binds your company to the terms of this agreement. If you don’t have a company, clicking “ACCEPT” binds you to the terms of this agreement. If you’re an individual entering into this agreement, you MUST be the OLDER of 18 or the legal age of majority in your jurisdiction of residence to enter into this agreement.**       
+
+**If you have any questions about this agreement or you can’t enter into contracts on behalf of your company, please reach out to our business development team by emailing [storebizdev@epicgames.com](mailto:storebizdev@epicgames.com) for assistance.**      
+
+
+# EPIC GAMES STORE DISTRIBUTION AGREEMENT      
+This Epic Games Store Distribution Agreement and any of its riders, exhibits or addenda are all referred to as the “**Agreement.**” This Agreement is between the developer or publishing entity that clicks “Accept” below (“**you**,” “**your**,” or “**yours**”) and Epic Games, Inc., a Maryland, U.S.A. corporation with offices at 620 Crossroads Blvd., Cary, North Carolina 27518 (“**Epic**,” “**we**,” “**ours**,” or “**us**”) and is effective as of the date and time you click “Accept.” Sometimes in this Agreement, we talk about rules that apply to both of you and Epic; in these sections we refer to you or Epic individually as a “**Party**,” and you and Epic together as the “**Parties**.”        
+
+The Agreement sets out the terms and requirements for you to list and sell the Digital Rights to your Product(s) on the Epic Games Store, including the obligations that you have to Epic and that Epic has to you.      
+
+## 1.	PRODUCT LICENSE GRANT    
+
+a. **Product License Grant to Epic**. Epic needs your permission in the form of a license to distribute your Product. You grant Epic a license to the Product that allows us to:        
+
+ - i.	**Copy the Product** (e.g., to facilitate Users’ Product downloads after purchase)                            
+ - ii.	**Display the Product** (e.g., to show your Product to consumers on the Epic Games Store in screenshots and videos)           
+ - iii. **Distribute the Product** (e.g., to provide access to your Product to Users who have purchased the Digital Rights)          
+ - iv.	**Perform the Product** (e.g., demonstrate your Product to Users)          
+ - v.	**Use the Product** (e.g., to verify Product compliance with this Agreement)             
+
+b.	**Restrictions on Epic’s License to the Product**. The license you grant to Epic for the Product is restricted as follows:                   
+
+ - i.	**Limited Territory**: Epic can only exercise its license in the territories you choose to distribute your Product as selected by you in your Developer Portal.                  
+ - ii.	**Perpetual Duration**: Epic’s license will continue until the Agreement is terminated; after that, the license still continues, but only so Users who have already purchased the Product can re-download the Product (unless that User’s license is terminated by you, Epic, or the User).                    
+ - iii.	**Sublicensable**: Epic can sublicense portions of this license only as necessary to exercise its rights in this Agreement (like to our Affiliates and subsidiaries that deliver the Epic Games Store to Users or to Users who buy Digital Rights in a Product).                  
+ - iv.	**No Other Payments**: Epic pays you amounts described in Section 7, but we do not owe you any other payments under this agreement.              
+ - v.	**Limited Purpose**: Epic can only exercise the Product license rights you grant us to promote, market, and provide access to the Product to Users and to operate, promote, market, and support the Epic Games Store.                  
+ - vi.**Discretionary**: Epic is not obligated to host your listing(s) for or to market or advertise your Product, and once you have listed your Product, Epic has no obligation to continue to host the Product’s display pages on the Epic Games Store or in any individual region where the Epic Games Store is offered. Once your Product is launched, Epic may remove or suspend listing(s) of your Product, but only after we take reasonable steps to provide you with written notice.                    
+
+c.	**Restrictions on Users’ Digital Rights in a Product**. Users who purchase Digital Rights to your Product will be subject to the terms of Your EULA, but if you do not provide us with a EULA to include with your Product listing, then such use will be subject to the terms of the [Epic Games Store EULA](https://store.epicgames.com/en-US/eula); and, in either case, use will be restricted as follows:        
+
+ - i.	**Perpetual Duration**: Users’ Product license will only terminate if:               
+      - a.	Epic terminates a User’s Epic Games account for violation of our terms or policies;                 
+      - b.	You terminate a User’s license to a Product according to Your EULA; or              
+      - c.	A User chooses to terminate their agreements with Epic or you.                
+ - ii.	**Limited Territory**: Users may only purchase your Product in the territories you choose to distribute your Product as selected by you in your Developer Portal. After this initial purchase, Users may download and use the Product worldwide.        
+ - iii.	**Limited License**: Each User who purchases Digital Rights to a Product may download, install, and use the Product for personal use subject to the terms of Your EULA or the Epic Games Store EULA.                
+ - iv.	Your EULA must be consistent with this Agreement and the Epic Game Store EULA. If any term of Your EULA for a Product conflicts with any term of this Agreement or the Epic Game Store EULA, this Agreement or the Epic Game Store EULA, as applicable, will control.             
+	
+d.	**Your Product is Yours**. Apart from the limited license you grant Epic in this Section and Epic’s rights in its Product Distribution Tools, we have no rights under this Agreement from you or your licensors in any Product you submit. Your EULA is solely between you and the User, and Epic shall not be responsible for, and shall have no liability under, Your EULA. Our distribution of your Product is not a sale of the Product itself – it is a sale of license rights in the Product on the terms in this Section 1 (“**Digital Rights**”).           
+
+e.	**Additional or Alternative Terms**. Additional or alternative terms relating to a specific Product may be included in a Product Addendum to this Agreement. If the terms of this Agreement and a Product Addendum are inconsistent, the terms of the Product Addendum will control for that Product.         
+
+
+## 2.	PRODUCT DISTRIBUTION TOOLS          
+
+a.	**Product Distribution Tools**. Epic has sample code and utilities it makes available to its partners in its “**Developer Portal**” that facilitate the distribution of the Product on the Epic Games Store (“**Product Distribution Tools**”). The Developer Portal itself is part of the Product Distribution Tools. Epic Online Services (<https://dev.epicgames.com/en-US/services>) and other standalone Epic products like Unreal Engine are not Product Distribution Tools and are not licensed to you under this Agreement.       
+
+b.	**Product Distribution Tools License Grant**. You need permission in the form of a license to use the Product Distribution Tools. Epic grants you a license to the Product Distribution Tools that allows you to do the following:        
+
+ - i.	**Copy the Product Distribution Tools**: You may copy the Product Distribution Tools executables for internal use by your team as long as every person on your team who receives a copy of the executables is bound by written terms at least as protective of Epic and the Product Distribution Tools as the terms in this Agreement.           
+ - ii.	**Use the Product Distribution Tools**: You and your internal team may use and access the Product Distribution Tools so long as every person on your team who uses or access the Product Distribution Tools is bound by written terms at least as protective of Epic and the Product Distribution Tools as the terms in this Agreement.           
+ - iii.	**Modify the Product Distribution Tool’s Source Code**: If Product Distribution Tools are provided to you in source code format or you have access to sample code implementing the Product Distribution Tools, you may modify that source code or sample code, solely for use in distributing your Product on the Epic Games Store.           
+ - iv.	**Incorporate Parts of the Product Distribution Tools into the Product**: You may incorporate in your Product(s) the parts of the Product Distribution Tools that Epic specifically designates for incorporation into the Product.          
+
+c.	**Restrictions on Your License to Product Distribution Tools**. You may not use the Product Distribution Tools for any purpose other than distributing your Product on the Epic Games Store as described in Section 2(b) above. If you breach the terms of this Agreement, we may limit, restrict, or rescind access to the Product Distribution Tools.         
+
+d.	**Updates to the Product Distribution Tools**. From time to time, we may update the Product Distribution Tools. While you may not be required to use the newest version of the Product Distribution Tools, please note that when using older versions of the Product Distribution Tools you may encounter compatibility issues with our services.        
+
+e.	**Store Pages**. In addition to creating product display pages for Products, Epic may enable, and if so, you may create, display pages for applications that are not available for download or purchase on the Epic Games Store. All of the obligations and responsibilities that apply to Products and Submission Materials also apply to these landing pages.               
+
+
+## 3.	MODS     
+
+a. **Authorization to Accept and Distribute Mods**. If you choose, you can allow third-party developers who aren’t you to submit “**Mods**,” which are standalone or add-on modification of or for one of your Products for distribution through the Store. These third-party developers are called “**Mod Developers**.” If you allow Mod Developers to submit Mods for distribution on the Epic Games Store, you give us permission to:            
+
+ - i.	Allow Mod Developers to submit Mods to Epic for distribution on the Epic Games Store; and          
+ - ii.	Exercise the same Product rights detailed in Sections 1, 5, and 6 to display, promote, and provide access to Mods to Users.       
+
+b.	**Mod Distribution**. Epic may (but is not required to) provide Users with access to Mods subject to the Epic Games Store EULA. Epic may (but is not required to) review Mods to ensure they comply with its current policies for Mods. Epic isn’t responsible to you or any third party for Mods, including their development, review, or distribution. If you want to sell Digital Rights for Mods to Users through the Epic Games Store, you and Epic will agree upon the terms of sale of those Digital Rights to a Mod.       
+
+c.	**Mod Submission**. For each Mod submitted to Epic by a Mod Developer, you will:      
+
+ - i.	Respond to any information requests from us about a given Mod;       
+ - ii.	Upon our request, confirm a Mod is compatible with a given Product and the Epic Games Store;       
+ - iii.	If you and Epic agree to allow Users to access Mods outside the Epic Games Store interface, you will provide clear notice to Users of Epic’s Mod reporting features; and          
+ - iv.	Enter into an agreement with each Mod Developer that details the distribution of the Mod Developer’s Mods on the Epic Games Store.             
+	
+d. 	**Contacting Mod Developers**. Epic may provide you the contact information of Mod Developers subject to the terms of your Data Processing Agreement with Epic. For clarity, you will only communicate with Mod Developers using this information to facilitate and administer the distribution of a Mod Developer’s Mod on the Epic Games Store.       
+
+e.	**Termination of the Agreement and Mods**. If this Agreement or a Product Addendum upon which a Mod is dependent for distribution is terminated, Digital Rights in those dependent Mods will be treated the same as the Digital Rights for the Mod’s related Product described in Section 10 below (e.g., Users retain their Digital Rights in Mods, will not be required to delete the Mod from their computers, and may re-download the Mod if they wish, and Epic will stop distributing Digital Rights in the Mod to new Users in a reasonable amount of time after termination).        
+
+f.	**Removal of Mods**. Epic may, at any time, for any reason, remove a Mod from the Epic Games Store, provided we take reasonable steps to provide notice to the Mod Developer prior to the removal. Additionally, you may request that we remove any Mod for your Product from the Epic Games Store, and we will honor your request.         
+         
+
+## 4.	SUBMISSION REQUIREMENTS AND EPIC/YOUR RESPONSIBILITIES     
+
+a.	**Submission Requirements**. When you submit text, screenshots, videos, ratings information, disclosures, and other statements (all of these together, your “**Submission Materials**”) and your Product to us, you represent and warrant that:        
+
+ - i.	**Multiplayer Game Products are PC Cross-Play Compatible**: Each multiplayer PC Product you submit to the Epic Games Store is cross-play compatible with all other PC versions of the title distributed through other PC storefronts. You can choose how to achieve this compatibility – for example, you may choose to build your own friends and matchmaking solution, you may choose to use Epic Online Services (<https://dev.epicgames.com/services>), or you may choose to use a different third-party solution.         
+ - ii.	**PC Achievement Parity**: Each Product you submit to the Epic Games Store that contains achievements or a similar feature on another third-party PC storefront (like Steam, GOG.com, Itch.io, or the Microsoft Store), will have substantially similar achievements with your Product on such other PC storefronts.       
+ - iii.	**Update Parity**: For each Product you make available on other PC stores or launchers, you will provide us updates for bug fixes, compatibility, and performance issues no later than you provide them elsewhere.      
+ - iv.	**The Product is Complete**: The Product is not an incomplete project, a tutorial project, a sample project, a collection of sample or tutorial projects, permutations of sample or tutorial projects, or other projects commonly known as “asset flips.”        
+ - v.	**The Product is not Pornographic**: The Product is not pornography or intended for the purpose of sexual gratification.           
+ - vi.	**The Product does not promote hatred, racism, or discrimination**: The product does not promote hatred, racism, or discrimination.           
+ - vii.	**The Product Does Not Facilitate Gambling, Unlicensed Money Transmissions, or Unlawful Transactions**: Your Product does not facilitate gambling for real money or for a digital currency that can be directly redeemed for real money (e.g., cryptocurrency or digital currency that can be “cashed out” for real money or cryptocurrency), unlicensed money transmissions or banking, transactions with individuals or entities restricted by the United States or other governmental authority, or other unlawful commercial or other activities.             
+ 
+ - viii.	**Submission Materials are Complete and Compliant**: You have given us complete and accurate Submission Materials, complete with all the warnings, disclosures, and information required by law to be displayed with your Product.           
+      - a.	**This includes tax forms**: You have provided us with complete and accurate tax information (where we request it) and completed all required tax forms as part of the Submission Materials.        
+      - b.	**This obligation is ongoing**: If the Submission Materials you gave us are no longer accurate (for example, because you introduce new features or change your ratings information), you will update your Submission Materials so that they stay complete and current.              
+ - ix.	**The Product Works on the Epic Games Store**: You have verified that your Product is compatible with the Epic Games Store and can be downloaded, installed, and executed successfully.           
+      - a.	**This obligation is ongoing**: As long as your Product is available on the Epic Games Store, you will make reasonable efforts to make sure the Product remains compatible with the Epic Games Store. If your Product is not compatible with the Epic Games Store, we may temporarily suspend or restrict the availability of your Product on the Epic Games Store until you fix the compatibility issues. We’ll only do this after taking reasonable steps to notify you in writing.          
+ - x.	**You Have Provided Any Additional Required Information**: You have provided us with all additional requested information we need to enable distribution of your Product on the Epic Games Store.              
+ - xi.	**You Have All Necessary Rights in the Product and Submission Materials**: You have all of the intellectual property, publicity, and other third-party rights in the Product needed to distribute your Product and Submission Materials on the Epic Games Store.          
+ - xii.	**Open Source and Copyleft Products Must Not Incorporate Product Distribution Tools**: Any Product(s) distributed under an open source, copyleft, or other similar license that would result in the source or sample code of Product Distribution Tools to be subject to the same license terms, does not incorporate the Product Distribution Tools’ source or sample code.        
+ - xiii.	**No Adults Only (AO) Rated Products**: Your Product does not have an Adults Only (AO) rating from the Entertainment Software Ratings Board (ESRB). The Epic Games Store does not allow Adults Only (AO) rated Products.       
+
+b.	**Your Responsibilities**. As between you and Epic, you are solely responsible for:       
+
+ - i.	**Product QA**: you’re responsible for performing industry standard quality assurance for the Product; and           
+ - ii.	**Product User Support**: you’re responsible for providing User support and maintenance for your Product. You will provide User support contact information for display on your Product’s display page.            
+
+c.	**Epic Responsibilities**. Epic is solely responsible for providing User support and maintenance for the Epic Games Store.             
+
+d.	**Epic May Forward Contact Information To Third Parties Claiming IP Infringement**. You agree that we may forward your company name, contact name, address, and other details to any third party that reasonably claims your Product or Submission Materials violate their intellectual property rights. We will provide you written notice that we have passed along your contact information unless we are prohibited from doing so by law.             
+
+
+## 5.	USE OF BRAND FEATURES AND SUBMISSION MATERIALS        
+
+a.	**Brand Features**. You and Epic each own or license trademarks, logos, and other brand features that are distinctive and unique (all of these together, we’ll call “**Brand Features**”). Between you and Epic, you own your Brand Features, and we own our Brand Features. Your and Epic’s only interest under this Agreement in the other’s Brand Features is the limited license below. The rest of this Section details when and how you and Epic may use each other’s Brand Features.         
+
+b.	**Your Brand Features and Submission Materials License to Epic**. You grant Epic a license to your Brand Features and Submission Materials that allows us to:       
+
+ - i.	**Use Your Brand Features and Submission Materials** (e.g., mentioning your Product and company name in one of our tweets);        
+ - ii.	**Modify Your Brand Features and Submission Materials** (e.g., resizing a Product’s banner art to fit in a search results page);            
+ - iii.	**Display Your Brand Features and Submission Materials** (e.g., showing your Product’s logo on its product display page).        
+
+c.	**Restrictions on Epic’s Use of Your Brand Features**. The license you grant to Epic to your Brand Features and Submission Materials is restricted in the following ways:          
+
+ - i.	**Non-Exclusive**: You may license your Brand Features and Submission Materials to anyone.      
+ - ii.	**Modification Limited**: Epic may only modify your Brand Features and Submission Materials to make them consistent with the formatting and layout of the Epic Games Store. Epic may not materially alter your Brand Features or Submission Materials without your permission.         
+ - iii.	**Use Limited**: Epic may only use your Brand Features and Submission Materials in exercising its rights under this Agreement, like marketing and distributing the Product. This use does include Epic’s ability to reference your Product’s title in newsletters, blogs, and genre/category pages on the Epic Games Store.          
+ - iv.	**No Commingling or New Asset Creation**: Epic will not create new assets out of the Brand Features or Submission Materials you submit or commingle your Brand Features or Submission Materials in a single asset with the brand features of other partners on the Epic Games Store without your written permission.        
+
+d.	**Epic’s Brand Features License to You**. While Epic does not require you to use our Brand Features, if you would like to use our Brand Features to promote your Product, Epic grants you a license to our Brand Features that allows you to:        
+
+ - i.	**Use Our Brand Features** (e.g., mentioning that your Product is available on the Epic Games Store on a podcast);         
+ - ii.	**Display Our Brand Features** (e.g., displaying the Epic Games Store Logo on a launch graphic for your Product);            
+ - iii.	**Modify Our Brand Features** (e.g., resize our logo for inclusion on your Product packaging).           
+
+e.	**Restrictions on Your Use of Epic’s Brand Features**. The license Epic grants to You to our Brand Features is restricted in the following ways:       
+ 
+ - i.	**Non-Exclusive**: We may license our Brand Features to whoever we wish.        
+ - ii.	**Modification Limited**: You may modify our Brand Features, but you must abide by our brand guidelines made available to you in writing on the Developer Portal.        
+ - iii.	**Use Limited**: You may only use our Brand Features to market and promote your Product’s availability on the Epic Games Store. You may not use our Brand Features after termination of the Agreement, and you will cease use of our Brand Features at our request, if you do not abide by our brand guidelines or if you are in breach of this Agreement.        
+
+
+## 6.	PRODUCT DISTRIBUTION AND REVENUE SHARE        
+
+a.	**Epic Games Store Model and Sales Channels**. There are three primary ways that your Product may be distributed to Users: (i) direct sales through the Epic Games Store; (ii) keys; or (iii) keyless entitlements. The term “purchase” is used throughout this Agreement to describe when Users obtain Digital Rights in Products through any of these methods, even if the User does not make a payment in exchange for the Digital Rights. Under this Agreement, you sell Digital Rights through the Epic Games Store, and you can choose to distribute your Product via keys and/or keyless entitlements.          
+
+ - i.	**Direct Sales through the Epic Games Store**: When you sell Digital Rights in a Product to Users via the Epic Games Store, the transaction is between you and the User. Each transaction that Epic or one of its payment processors receives payment through the store for one of your Products or any in-Product transaction is a “**Transaction**.” You will set and provide Epic with the price for Digital Rights in your Products as part of the Submission Materials (“**Listing Price**,”) and you instruct Epic to adjust the Listing Price to include Sales Tax for those jurisdictions that require listing prices to include Sales Tax.       
+
+ - ii.	**Keys**: You can also enable purchases of Digital Rights in your Product by selling or giving away redeemable codes called keys. When a key is entered on the Epic Games Store, it grants Digital Rights to the User who redeemed the key. You can request that Epic issue you keys that you can then give away or sell for whatever price you wish. You don’t need to report revenue on the sale of Product keys to Epic and they aren’t subject to Epic’s 12% Revenue Share. Epic reserves the right to limit the size of your key grants to reasonably sized batches to prevent fraud and abuse. If your Product is built using the Unreal Engine, you may still owe Unreal Engine license royalties on revenue earned through keys-based Product distribution. Finally, as between you and Epic, you are responsible for taxes on distribution of a Product via keys.        
+
+ - iii.	**Keyless Entitlements**: You can also distribute your Product via keyless entitlements. Keyless entitlements work like keys, so you can give away or sell Digital Rights via keyless entitlements for whatever price you wish, but distribution to Users occurs via an API so they don’t need to enter a code on the Epic Games Store. Keyless entitlement sales happen on third-party platforms that grant entitlements for Digital Rights to a User on the Epic Games Store in exchange for the User’s payment to the platform. Since keyless entitlements require platforms to use one of Epic’s APIs to facilitate granting Digital Rights, each of you and Epic need an agreement in place with each third-party platform you’d like to use for keyless entitlements. Like distribution of Product keys, you don’t need to report revenue on keyless entitlements you sell on a third party’s platform to Epic, and sales aren’t subject to Epic’s 12% Revenue Share. Also like the distribution of Product keys, if your Product is built using the Unreal Engine, you may still owe Unreal Engine license royalties on revenue earned through keyless entitlement Product distribution. Finally, as between you and Epic, you are responsible for taxes on distribution of a Product via keyless entitlements.          
+
+b.	**Revenue Share**. When a User buys Digital Rights through the direct sales described in Section 6(a)(i) above, Epic collects their money and deducts any Sales Tax that it will remit to tax authorities. Epic pays you 88% of the price charged for a sale of Digital Rights, in each case after deducting Sales Tax and any Support-A-Creator Fee you choose to pay, and amounts attributable to payment processing fees, chargebacks, User refunds, discounts, and charges related to fraud. Epic keeps 12% plus any applicable deductions as the “**Revenue Share.**”        
+
+c.	**Support-A-Creator**. Epic operates its Support-A-Creator Program to promote its partners’ products on the Epic Games Store. As part of this program, you may specify a percentage of the sales for a specified Product to pay influencers in the Support-A-Creator Program as a Support-A-Creator Fee for their promotion of your product to their online followings. This percentage is the “**SAC Percentage**.” The SAC Percentage is applied to the gross sales proceeds minus Sales Tax after deduction of returns, discounts, refunds, fraud, and chargebacks. The Support-A-Creator Fee, inclusive of its deduction calculations, can be viewed in your Sales Data.         
+
+ - i.	**You can raise or lower the SAC Percentage**. You can raise or lower the SAC Percentage to increase or reduce the Support-A-Creator Fee. At times when Epic provides a subsidy to Support-A-Creator which is paid by Epic rather than you, you may not lower the SAC Percentage below the Epic subsidy.  As of October 2022, Epic is providing a 5% subsidy. If Epic changes the subsidy, Epic will take reasonable steps to notify you by email and include instructions on how to change your specified percentage.             
+
+d.	**In-Product Purchases and Non-Epic Transactions**. While Epic operates its own payment solution available through the Epic Games Store, your Product can facilitate in-Product payment and transactions using a system other than Epic’s (“**Non-Epic Transactions**”) for your sale of digital items and services to your end users for use within the Product. However, your Product and Non-Epic Transactions must follow these rules:            
+
+ - i.	**No gambling, unlicensed money transmissions, or unlawful transactions**. You may not facilitate gambling, unlicensed money transmissions or banking, transactions with individuals or entities restricted by the United States or other governmental authority, or facilitate or engage in  illegal commercial activities or other unlawful activities.             
+ - ii.	**No blockchain, distributed ledger, or other decentralized currency activities without an appropriate rider to the Agreement**. The Product and Non-Epic Transactions cannot utilize cryptocurrency, blockchain, or other distributed ledger-based payment methods unless Epic reviews your use case and you and Epic enter into a blockchain rider to the Agreement.          
+ - iii.	**Users must accept Your EULA**. You must require all end users who make Non-Epic Transactions to affirmatively accept Your EULA. Between you and Epic, you, and not Epic, are responsible for all Non-Epic Transactions.            
+ - iv.	**You will need to collect and pay applicable taxes on Non-Epic Transactions**. If end users make Non-Epic Transactions or receive a Product entitlement through a method other than the direct sales described in Section 6(a)(i), then you will be obligated to collect taxes and remit that tax to the appropriate taxing authority. Epic is not responsible for taxes on Non-Epic Transactions or sale of Digital Rights via keys or keyless entitlements. As each developer’s tax situation is different, we recommend that you consult a tax professional for advice on tax liability to your business.           
+ - v.	**You will implement and maintain industry standard practices and security**. You must implement and maintain industry-standard practices concerning payments, end user data, privacy, security, and user support for Non-Epic Transactions. You are solely responsible for all end user support, maintenance, and complaints related to Non-Epic Transactions.          
+ - vi.	**Non-Epic Transactions subject to Unreal Engine royalty**. For clarity, Non-Epic Transaction revenue is subject to any applicable Unreal Engine royalty.   
+
+
+## 7. PAYMENT PROCESSING, PAYMENTS TO YOU, TAXES       
+
+a.	**Payment Processing**.  You designate Epic, and through Epic the third parties we designate, as your undisclosed agent solely for Transactions processed through the Epic Games Store.             
+
+ - i.	**As your agent, Epic (directly or through third parties that we designate) will**:           
+      - a.	collect all User payments for Transactions, including Sales Tax as described in Section 7(c); and       
+      - b.	keep the Revenue Share and any applicable deductions as described in 7(b).        
+ - ii.	**Additionally, Epic may**:       
+      - a.	act as your payment processor for Transactions;        
+      - b.	accept or decline to accept any form of payment from Users;         
+      - c.	pause a Transaction for investigation;         
+      - d.	refuse to process and/or cancel any Transaction (for example, due to concerns about potential fraud, customer payment issues, or some other potential breach of this Agreement);          
+      - e.	have Epic’s (or its authorized payment processing services’) name appear on the User’s credit or other card statement;         
+      - f.	address and resolve disputes related to Transactions between you and Users;          
+      - g.	provide, or require you provide, refunds to Users according to our Refund Policy, available at <https://www.epicgames.com/site/store-refund-policy>; and      
+      - h.	restrict to which Users Epic provides access to Products sold through the Epic Games Store.          
+
+b.	**Payments to You**. Here’s what to expect with Epic’s payment process:        
+
+ - i.	**Paid Monthly by Bank Transfer**: We will pay you monthly via electronic funds transfer no later than 45 days from the end of the month in which Transactions occurred.         
+ - ii.	**Payout Minimum**: Generally, we only issue payment in amounts over $100. If you haven’t accrued $100 in amounts owed to you, we roll your earnings over monthly and pay you when you cross the $100 payment threshold. The two exceptions to this rule are: (1) we never withhold earnings for more than a year; and (2) we withhold payment for pre-purchases until Product Launch – details on pre-purchases are below.           
+ - iii.	**Payments for Pre-Purchase Products Held Until Launch**: if you choose to make a Product available for pre-purchase, we only pay you for pre-purchases to you after the Product Launches on the Epic Games Store. If you remove a Product from pre-purchase or cancel its pre-purchase prior to Launch or if we are otherwise required by law, we refund Users their prepaid funds for the Product.         
+ - iv.	**Bank Fees Deducted from Payment**. If we incur any wire transfer, bank, or payment fees, we may deduct those fees from our payment to you. We have no responsibility for any of these types of fees incurred by you.     
+ 
+ c.	**Taxes**. You authorize Epic to act in its own name but on your behalf for Sales Tax purposes in connection with, the sale of Digital Rights in your Product on the Epic Games Store. Epic collects Sales Tax from Users and remits that Sales Tax to the relevant taxing authority for sales of Digital Rights that happen in the jurisdictions listed on our “**Tax Jurisdictions List**,”  accessible at https://dev.epicgames.com/portal/o/store/policies. The Tax Jurisdictions List is subject to change. If you or Epic are liable for Sales Tax in jurisdictions that are not in the Tax Jurisdictions List, we may deduct those taxes from future payment or collect those taxes directly from you.         
+ - i.	You are responsible for the payment of all other taxes, including income taxes, levies, VAT, and similar fees, due on payments we make to you under this Agreement.         
+ - ii.	In certain jurisdictions, tax regulations may require that we collect and/or report tax information about you, withhold taxes from payouts to you, or both. If you fail to provide us with documentation that we determine is sufficient to fulfill our obligation to withhold taxes from payouts to you, we may withhold payouts up to the amount as required by law, until you provide us with sufficient documentation.           
+ - iii.	If we have to withhold taxes on payments we make to you, we deduct those taxes from the amount owed to you and pay the proper tax authorities. We will give you a receipt for any of these withholding taxes and we’ll also provide you other documents you reasonably request so that you can claim foreign tax credits or refunds.           
+ - iv.	Certain territories may not allow us to remit taxes on your behalf. You are obligated to remit taxes in these jurisdictions to the appropriate tax authority.         
+
+d.	**Tax Forms**. We will need you to give us a completed Form W-9 (if you are based in the United States) or Form W-8BEN (if you are not based in the United States), bank account details, and other information for your tax onboarding so that we can pay you.         
+
+e.	**Sales Data**. We will provide you with anonymized financial data on sales of Digital Rights for Products via Epic Games Store, including returns, discounts, refunds, fraudulent amounts, chargebacks, Sales Tax, processing fees, and Support-A-Creator Fees deductible under this Agreement (“**Sales Data**”). All of this data is available in your Developer Portal.          
+
+f.	**No Unreal Engine Royalties Due on Epic Games Store Sales**. If you are a current Unreal Engine licensee, regardless of what your Unreal Engine license agreement may say, you owe no Unreal Engine license royalties on revenue earned from your Product’s distribution on the Epic Games Store where User payment is processed using Epic’s payment service.            
+
+
+## 8.	CONFIDENTIALITY        
+
+a.	**Definition**. You and Epic each have information that is proprietary, confidential, or not generally known to the public. Sometimes, this information will be marked as confidential, and other times based on context it should reasonably be considered confidential. With respect to each party, this information is “**Confidential Information**.” Aggregated data that is not specific to you (e.g., total number of downloads of all Products on the Epic Games Store) is Epic’s Confidential Information, but excluding Personal Data as defined in the attached Data Processing Agreement (Exhibit A). Your Sales Data that is associated with you is your Confidential Information; however, any data that is aggregated or anonymized in a way such that its developer source or related Product information cannot reasonably be identified is our Confidential Information.          
+
+b.	**Keep Confidential Information Confidential**. You and Epic may disclose Confidential Information to each other while working together under this Agreement. Each Party will protect the confidentiality of the other’s Confidential Information as if it was their own Confidential Information, and each party will only use the other’s Confidential Information to perform its obligations under this Agreement. As a general rule, neither Party will disclose the other’s Confidential Information to any third party. The exceptions to this rule are in Section 8(c) below.               
+
+c.	**Disclosure of Confidential Information**. Except to the extent Confidential Information is also Personal Data (as defined in the DPA), a Party may disclose the other Party’s Confidential Information in the following cases:            
+
+ - i.	**Internally To Employees, Contractors, and Advisors on a Need-to-Know Basis**. A Party may disclose the other’s Confidential Information to its own (or to its Affiliates’) employees, contractors, or advisors if:        
+  
+      - a.	the recipient’s job duties justify their need to know the Confidential Information;           
+      - b.	the recipient is obligated to maintain the confidentiality of the Confidential Information; and          
+      - c.	the Party making the disclosure of the other’s Confidential Information is responsible for the recipient’s confidentiality obligations as if the recipient was a Party to this Agreement.             
+ - ii.	**The Confidential Information is Publicly Available**. The Confidential Information is or becomes publicly available. A Party’s breach of their confidentiality obligations in this Section do not count as the other Party’s Confidential Information becoming publicly available.         
+ - iii.	**Prior Knowledge**. A Party can disclose the other’s Confidential Information if they already knew the other’s Confidential Information before entering the Agreement and without a confidentiality obligation.         
+ - iv.	**Third Party Disclosure**. A Party can disclose the other’s Confidential Information if they learn that Confidential Information from a third-party source that is not in known breach of a confidentiality obligation.        
+ - v.	**Independent Development**. A Party can disclose the other’s Confidential Information if they independently develop that information without reliance on the other Party’s Confidential Information.           
+ - vi.	**Government Request**. A Party may disclose the other’s Confidential Information if required by a subpoena, court order, or other government request, if, as permitted by law:          
+      - a.	They provide advance written notice to the other Party so that the other Party can object to the disclosure or seek a court order that protects their Confidential Information;         
+      - b.	The disclosing Party minimizes their disclosure to only the Confidential Information legally required to respond to the request.         
+
+## 9.	REPRESENTATIONS AND WARRANTIES     
+
+a.	**Your Representations and Warranties**.       
+
+ - i.	**Contract Formation**. You represent and warrant that your organization has authorized entering into this Agreement and agrees to its terms. If you are an individual, you represent and warrant that you are the age of legal majority where you reside and that you have the ability to enter into this Agreement. By clicking “Accept” below, you represent and warrant that you have the ability to enter into this Agreement on behalf of your organization and that this Agreement is a valid and enforceable contract against you and your organization.            
+ - ii.	**Product and Submission Materials**. In addition to the representations and warranties made above in Sections 4 and 6, you represent and warrant that **no** Product, **none** of your Brand Features, and **none** of your Submission Materials:            
+ 
+      - a.	violates, infringes, or misappropriates any copyright, trademark, trade secret, trade dress, patent, or other intellectual property right;               
+      - b.	defames any person or violates their rights of publicity or privacy;        
+      - c.	violates contracts or terms you entered into with third parties;        
+      - d.	is inaccurate or violates any applicable law or regulation;
+      - e.	contains viruses, adware, spyware, or other malicious content;        
+      - f.	interferes with, disrupts, damages, or accesses without authorization the devices, networks, properties, or services of any party (including Users, Epic, Epic’s service providers, and network operators);                 
+      - g.	contains, interfaces with, or acts as an intermediary or medium for non-fungible tokens, blockchain technology, or decentralized autonomous organizations unless you disclose the presence of these elements to Epic, Epic reviews your use case, and you and Epic enter into a blockchain rider to the Agreement;                
+      - h.	fails to meet or exceed the Web Content Accessibility Guidelines (WCAG) 2.0 AA compliance guidelines; or           
+      - i.	fails to comply with Epic’s submission requirements stated in this Agreement and listed online by Epic at: https://dev.epicgames.com/portal/o/store/policies.            
+
+ - iii.	**Data Privacy and Communications with Users**. You represent and warrant you will comply with Epic’s policies about interactions with Users made available to you in writing, including the Epic Games Store Data Processing Agreement included below as Exhibit A.          
+
+b. **Epic’s Representations and Warranties**. We represent and warrant solely for your benefit that none of the Epic Games Store, our Brand Features, or the Product Distribution Tools, when used as authorized by this Agreement:           
+ - i.	infringe any United States copyrights or United States trademark rights; or       
+ - ii.	to our knowledge, infringe any United States patent rights.            
+ 
+
+## 10. TERMINATION       
+
+a.	**Term In Effect Until Terminated**. This Agreement will continue until terminated by you or Epic.              
+  
+b.	**Termination for Convenience**. Either you or Epic can terminate this Agreement (in whole or in relation to one or more Products) for any reason or no reason with 30 days’ prior written notice.           
+
+c.	**Termination for Cause**. Either you or Epic can terminate this Agreement (in whole or in relation to one or more Products) immediately on written notice if:            
+
+ - i.	**A Party is in Uncured Breach of the Agreement**. The other Party breaches any term of this Agreement and such breach is uncurable or remains uncured for fifteen (15) days following written notice;             
+ - ii.	**A Party Stops Doing Business**. The other Party liquidates, dissolves, or discontinues its business for any reason;             
+ - iii.	**A Party Enters Bankruptcy**. The other Party enters into bankruptcy, voluntarily or involuntarily;       
+ - iv.	**A Party is Required to Terminate the Agreement by Law**. The other Party is required to terminate this Agreement by law; or              
+ - v.	**Epic Decides to No Longer Offer the Epic Games Store**. Epic ceases operation of the Epic Games Store.       
+
+d.	**What Happens After Termination**. After termination of this Agreement (in whole or in relation to one or more Products):         
+
+ - i.	**Users will still have the right to redownload their Products**. If Users purchased Digital Rights prior to termination, the Digital Rights continue after termination per the terms of Your EULA or the Epic Games Store EULA. Epic may retain and use copies of the Product and Submission Materials to enable Users to download or re-download Products purchased prior to termination.        
+ - ii.	**Users will not be required to uninstall Products**. If Users purchased Digital Rights prior to termination, they will have no obligation to uninstall Products from their devices because of termination.             
+ - iii.	**Epic will disable new sales of affected Products**. Unless otherwise suspended pursuant to the terms of this Agreement, within fourteen (14) days from effective termination of this Agreement, Epic will disable new sales of the applicable Product. However, Epic may continue to make the Product available for download to Users who have already purchased Digital Rights to the Product. If the Product is at the end of its commercial lifecycle or is transferred to a new licensor, you and Epic may work together to implement your sunsetting or transition plan for the Product.               
+
+e.	**Agreement Sections that Survive Termination**.  Sections of the Agreement survive termination or expiration of the Agreement to the extent the law allows: 4, 6(b)-(d), 7(b)-(d), 7(f), 8, 9(a), and 10-15. Additionally, Sections 1, 2, and 5(a)-(c) will survive expiration or termination of the Agreement for the purpose of allowing Users to continue to access Products they have already purchased Digital Rights for, as described in Section 10(d).                 
+
+
+## 11. DISCLAIMER OF WARRANTIES       
+
+a.	YOU UNDERSTAND AND AGREE THAT THE EPIC GAMES STORE AND PRODUCT DISTRIBUTION TOOLS, AND ALL OF THEIR FEATURES AND FUNCTIONALITY, ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND APART FROM THE NONINFRINGEMENT WARRANTY IN SECTION 9(b), AND THAT THE DISTRIBUTION OF THE PRODUCT(S) THROUGH THE EPIC GAMES STORE IS AT YOUR SOLE RISK.            
+
+b.	YOU UNDERSTAND AND AGREE THAT EPIC IS NOT RESPONSIBLE OR LIABLE FOR ANY UNAUTHORIZED USE OF PRODUCTS OUTSIDE OF THE EPIC GAMES STORE INCLUDING ANY SALE OR DISTRIBUTION OF PRODUCTS ON PIRATE WEB SITES.            
+
+c.	APART FROM THE NONINFRINGEMENT WARRANTIES IN SECTION 9(b), EPIC DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.           
+
+d.	EPIC IS NOT RESPONSIBLE OR LIABLE FOR ANY USE OR MISUSE OF MODS, INCLUDING ANY SALE OR OTHER KIND OF DISTRIBUTION OF MODS OUTSIDE THE EPIC GAMES STORE.                  
+  
+
+## 12.	LIMITATION OF LIABILITY     
+
+a.	**Who This Section Applies To**. This Section applies to each Party and their respective Affiliates, and its and their officers, directors, employees, agents, (other than agents designed by this Agreement), suppliers, and licensors. When we talk about this group of people for you, we use “**Your Included Parties**,” and when we talk about this group of people for us, we use the “**Epic Included Parties.**”         
+
+b.	**You Are Responsible For Your Product**. EXCEPT TO THE EXTENT CAUSED BY THE PRODUCT DISTRIBUTION TOOLS, YOU ARE SOLELY RESPONSIBLE FOR (AND EPIC HAS NO RESPONSIBILITY TO YOU OR ANY THIRD PARTY FOR) PRODUCTS DISTRIBUTED THROUGH THE EPIC GAMES STORE AND FOR THE CONSEQUENCES (INCLUDING ANY LOSS OR DAMAGE EPIC OR A THIRD PARTY SUFFERS) OF DISTRIBUTING OR USING THE PRODUCTS.          
+
+c.	**No Special, Punitive, Incidental, Indirect, or Consequential Damages**.  EXCEPT FOR A PARTY’S INDEMNIFICATION OBLIGATIONS OR BREACH OF THEIR CONFIDENTIALITY OBLIGATIONS, NEITHER THE EPIC INCLUDED PARTIES NOR YOUR INCLUDED PARTIES ARE LIABLE FOR LOSS OF PROFITS, OR ANY SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES RELATING TO THIS AGREEMENT, INCLUDING BREACH OF THIS AGREEMENT, THE PRODUCT, THE EPIC GAMES STORE, THE PRODUCT DISTRIBUTION TOOLS, THE USE OF (OR INABILITY TO USE) EPIC GAMES STORE OR THE PRODUCT DISTRIBUTION TOOLS, THE FUNCTIONALITY OF THE EPIC GAMES STORE OR THE PRODUCT DISTRIBUTION TOOLS, AND/OR ERRORS OR BUGS WITHIN THE EPIC GAMES STORE OR THE PRODUCT DISTRIBUTION TOOLS, WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), INDEMNITY, PRODUCT LIABILITY, OR OTHERWISE.          
+
+d.	**Limitation of Liability**. EXCEPT FOR THE EPIC INCLUDED PARTIES’ VIOLATION OF YOUR INTELLECTUAL PROPERTY RIGHTS IN A PRODUCT, (TO THE EXTENT SUCH EXCEPTION DOES NOT CONFLICT WITH ANY OTHER AGREEMENT BETWEEN YOU AND EPIC), IN NO EVENT SHALL THE EPIC INCLUDED PARTIES’ LIABILITY UNDER THIS AGREEMENT, INCLUDING WITHOUT LIMITATION ANY LIABILITY FOR DIRECT OR INDIRECT DAMAGES, LOSSES, OR INJURIES, EXCEED AN AMOUNT EQUAL TO THE PORTION OF THE FUNDS PAID TO YOU IN THE SIX (6) MONTH PERIOD LEADING UP TO THE ACT OR OMISSION GIVING RISE TO SUCH LIABILITY. THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION SHALL APPLY TO THE FULLEST EXTENT PERMISSIBLE AT LAW.  THE EPIC INCLUDED PARTIES SHALL BEAR NO RISK, OR HAVE ANY RESPONSIBILITY OR LIABILITY, OF ANY KIND TO YOU OR TO ANY THIRD PARTIES WITH RESPECT TO THE QUALITY (OR LACK THEREOF), OPERATION (OR LACK THEREOF) AND/OR PERFORMANCE (OR LACK THEREOF) OF ALL AND/OR ANY PORTION OF EPIC GAMES STORE OR THE PRODUCT DISTRIBUTION TOOLS.               
+	
+
+## 13.	INDEMNIFICATION     
+
+a.	**Your Indemnification of Epic**. To the maximum extent permitted by law, you agree to defend, indemnify, and hold the Epic Included Parties harmless from and against any third-party claims, as well as any losses, damages, liabilities, costs, and expenses (including reasonable attorneys’ fees) related to (i) a Product, Submission Materials, Your EULA, or your Brand Features, including any allegation that marketing, distributing, dissemination, selling or other exploitation of such materials by Epic or its Affiliates violates any applicable law or regulation, (ii) your breach of any representation, warranty or other term of this Agreement, (iii) your customer service and other interactions with Users, (iv) any contract you have entered into with any third party, (v) collection and remittance of Sales Tax based on information you supply or your failure to timely provide such information to us; or (vi) your violation of any applicable law or regulation.        
+
+b.	**Epic’s Indemnification of You**. To the maximum extent permitted by law, Epic agrees to defend, indemnify, and hold Your Included Parties harmless from and against any third-party claims related to Epic’s breach of its representations or warranties in Section 9(b) of this Agreement.          
+
+c.	**Exceptions to Epic’s Indemnification Obligations**. Epic’s indemnification obligations will not apply to the extent a claim is:         
+
+ - i.	Based on any alteration or modification of the Epic Games Store, Epic’s Brand Features, or the Product Distribution Tools by any person other than Epic or its authorized representatives;          
+ - ii.	Based on the operation or use of the Epic Games Store, Epic’s Brand Features, or the Product Distribution Tools in combination with any software or device not authorized by Epic;             
+ - iii.	Based on you or Your Included Parties’ failure to comply with your obligations in this Agreement;           
+ - iv.	Based on any customizations to the Epic Games Store, Epic’s Brand Features, or the Product Distribution Tools requested or made by or for you; or         
+ - v.	Made in response to (e.g. is part of a counterclaim by a third party in response to) a claim made by a third party unrelated to the Epic Games Store, Epic’s Brand Features, or the Product Distribution Tools.            
+
+d.	**Epic’s Obligations to You for Infringement Injunctions**. If Epic defends an infringement claim as part of its indemnification of You that results in a final judgment where no further appeal is taken or possible and the final judgment includes an injunction prohibiting you from continuing to use all or part of the Epic Games Store, the Epic Brand Features, or the Product Distribution Tools, Epic has the sole choice to:        
+
+ - i.	Secure the right for you to continue to use the Epic Games Store, Epic’s Brand Features, and the Product Distribution Tools;             
+ - ii.	Replace or modify the Epic Games Store, Epic’s Brand Features, and the Product Distribution Tools to make them noninfringing; or         
+ - iii.	Terminate the Agreement.          
+
+Epic’s obligations under this Section 13 are your sole remedy and Epic’s sole responsibility in the event of any third-party claim of infringement by the Epic Games Store, Epic’s Brand Features, and the Product Distribution Tools          
+
+e.	**Epic’s Responsibility for Infringement Monetary Awards**. If Epic defends an infringement claim as part of its indemnification of You that results in a final judgment where no further appeal is taken or is possible or pursuant to a final settlement of claims, Epic will pay or satisfy any monetary award entered against you in proportion and to the extent the award is finally judged or settled to arise from Epic’s breach of its representations or warranties in Section 9(b) of this Agreement.               
+
+
+## 14.	MISCELLANEOUS   
+
+a. **Amendment**.  This Agreement can only be amended: (i) in a writing signed by both you and Epic; or (ii) an update presented to you in the Epic Games Store Developer Portal that you agree to.            
+
+b. 	**Notices**.  Notices required or permitted to be given under this Agreement may be given to you at your street and/or organization email address on file with Epic Games in the Epic Games Store Developer Portal, or to Epic at the address specified in the definition of “Epic” in Section 16 (or any updated address subsequently provided by such Party).
+
+c.  **Assignment**.  Either Party can assign this Agreement in whole upon 30 days’ written notice to the other Party. You acknowledge that if you attempt to assign this Agreement to a third party, such assignment is only effective after that third party completes Epic’s developer onboarding and tax registration, successfully onboards into our supplier system, and unconditionally accepts all of the terms and obligations in this Agreement. Subject to the foregoing, this Agreement shall inure to the benefit of the Parties and their respective successors and permitted assigns.             
+
+d. **No Other Relationship**.  Except for the agency relationship defined in this Agreement, no other relationship is formed between the parties.             
+
+e. **Governing Law**.  This Agreement is governed by and will be interpreted under North Carolina State law, excluding that body of law related to choice of laws.  Any action or proceeding brought to enforce the terms of this Agreement or to adjudicate any Agreement-related dispute shall be brought in the Superior Court of Wake County, State of North Carolina or the United States District Court for the Eastern District of North Carolina.  Each of the Parties submits itself to the exclusive jurisdiction and venue of these courts and agrees that any service of process may be effected by delivery of the summons in the manner provided in the delivery of notices set forth in Section 14(b) above, except that Epic will deliver your summons to your address specified in your Developer Portal.          
+
+f. **Section Headings**.  The section headings used in this Agreement are intended primarily for reference and have no interpretive value.          
+
+g. **Entire Agreement**.  This Agreement is the entire agreement between you and Epic and trumps all prior or contemporaneous agreements, proposals, understandings, and communications between you and Epic, concerning distribution of Products through the Epic Games Store. For clarity, apart from the Unreal Engine royalty waiver discussed in Section 7, this Agreement does not amend or supersede Epic’s Terms of Service or other agreements you may enter into with Epic in connection with any technology, product, or service provided by Epic to you, including but not limited to the Epic Games Store EULA, the Epic Online Services, or the Unreal Engine.           
+
+h. **Waiver**.  If you or Epic fails or delays to exercise a right, power, or remedy under this Agreement, that failure or delay will not constitute a waiver of that right, power, or remedy. No waiver of any provision of this Agreement is effective unless in writing and signed by the Party disadvantaged by the waiver.  Any waiver by either Party of any provision of this Agreement will not be read as a waiver of any other provision of this Agreement, nor will that waiver be read as a future or continuing waiver.            
+
+i. **Severability**.  If any portion or provision of this Agreement is found to be invalid or otherwise unenforceable by a court of competent jurisdiction, that portion or provision will be enforced to the fullest extent possible consistent with the intention of the Parties. If a portion or provision is found to be incapable of enforcement by a court of competent jurisdiction, that portion or provision will be deemed to be deleted from this Agreement, while the remainder of this Agreement remains in full force and effect.             
+
+j. **Remedies**.  Unless stated otherwise, a Party’s choice of remedies under this Agreement are not exclusive of any other remedies, and all remedies are cumulative.  Breaches of certain sections of this Agreement (like confidentiality) would cause significant and irreparable harm to the nonbreaching Party, the extent of which would be difficult to ascertain.  Accordingly, in addition to any other remedies (including, without limitation, equitable relief) to which the Party claiming breach may be entitled, in the event of a breach by the other Party or any of its employees or contractors of any such sections of this Agreement, the Party claiming breach is entitled to the immediate issuance without bond of ex parte injunctive relief or, if a bond is required under applicable law, on the posting of a bond in an amount not to exceed $50,000, enjoining any breach or threatened breach of any or all of such provisions.       
+
+k.  **Translations**.  The original of this Agreement is in English; any translations are provided for reference purposes only. You waive any right you may have under the law of your country to have this Agreement written or construed in the language of any other country.       
+
+l. **No Third-Party Beneficiaries**.  Unless this Agreement specifies otherwise (e.g., the indemnification provisions), you and Epic agree that there are no third-party beneficiaries to this Agreement and that this Agreement does not confer any rights or remedies on any person other than the Parties.           
+
+m. **Each Party’s Obligations Subject to Law**.  Each Party’s obligations are subject to existing laws and legal process, and either Party may comply with law enforcement or regulatory requests or requirements despite any contrary term in this Agreement.        
+
+
+## 15.	RANKING, DISCOVERY, DATA ACCESS, AND PLATFORM TO BUSINESS COMPLAINT HANDLING      
+
+Epic maintains a disclosure statement concerning ranking practices, data access policies, and a complaint handling system pursuant to the EU Platform to Business Regulation 2019/1150, and as retained in United Kingdom on its Developer Portal at: <https://dev.epicgames.com/portal/o/store/policies>. We’ll provide you written notice of any updates to this disclosure.          
+
+
+## 16.	DEFINITIONS     
+
+As used in this Agreement, the following capitalized words have the following meanings:          
+
+“**Agreement**” means this Epic Games Store Distribution Agreement.        
+
+“**Affiliate**” means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party.      
+
+“**Brand Feature**” means any trade name, trademark, service mark, logo, domain name, or other distinctive brand feature of each Party, respectively, as owned (or licensed) by such Party from time to time, including any third-party publisher marks provided to Epic by you that may be displayed in connection with the promotion, marketing, sale, support, and distribution of a Product.         
+
+“**Digital Rights**” means the limited rights in a Product (listed in Section 1) that you grant to Users who purchase the Product.        
+
+“**Epic Games Store**” or “**Store**” is an online marketplace owned and operated by Epic and its Affiliates that permits the distribution of Products to Users by Epic.         
+
+“**Epic**” means Epic Games, Inc., a Maryland, U.S.A. corporation with offices at 620 Crossroads Blvd., Cary, North Carolina 27518. Epic’s address to receive notices under this Agreement is: legal@epicgames.com.        
+
+“**Epic Games Store EULA**” means the [license agreement](https://store.epicgames.com/en-US/eula) governing Users’ use of your Product(s) when the Digital Rights are purchased through the Epic Games Store if Your EULA has not been provided.        
+
+“**Support-A-Creator Program**” is a program in which Users or other third parties can register to receive payments and/or other rewards for promoting the Product(s).        
+
+“**Launch**” means the later of the date on which Users are first able to download and install a given gold master, version 1.0 Product through Epic Games Store or the date on which Users are first able to purchase, license for money, or otherwise spend money in or on a given Product through Epic Games Store.        
+
+“**Mod**” means a standalone or add-on modification of or for one of your Products. It can be submitted by you or by a Mod Developer to Epic for distribution on the Epic Games Store.       
+
+“**Mod Developer**” means a third-party developer who isn’t you that developers Mods for a Product.       
+
+“**Non-Epic Transactions**” means in-Product payment and transactions using a system other than that offered by Epic.       
+
+“**Party**” or “**Parties**” means Epic and/or you.       
+
+“**Product**” means the digital product you upload to  the Epic Games Store. The word “Product” also includes features, functionality, or items within a Product or that may be obtained through the Product, like in-game content, virtual items, gameplay, downloadable content, and Updates. Mods are also Products.        
+
+“**Product Addendum**” means an addendum to this Agreement that names a Product for distribution on the Epic Games Store and contains terms related to that Product’s distribution. You do not need to enter a Product Addendum for any Product distributed pursuant to the default terms of this Agreement.       
+
+“**Product Distribution Tools**” means code and tools provided by Epic to you in order to facilitate the distribution of the Product(s) via Epic Games Store. For clarity, Epic Online Services shall not constitute Product Distribution Tools.        
+
+“**Sales Data**” means Epic’s anonymized financial data related to sales of Digital Rights for the Product(s) via Epic Games Store, including returns, discounts, refunds, fraudulent amounts, chargebacks, Sales Tax, processing fees, and Support-A-Creator Fees deductible under this Agreement.       
+
+“**Sales Tax**” means tax imposed on and received from Users on the distribution, sale, or license of Products (such as sales, use, excise, value-added and other similar taxes) for payment to governmental authorities, and any tax assessed on digital revenues.  Sales Tax does not include any taxes on the income or business operations of an entity.         
+
+“**Submission Materials**” means all text, screenshots, videos, ratings information, legally required warnings, disclosures, and other statements; Listing Price, and all other content and information provided by you to Epic and relating to you and/or a Product.        
+
+“**Support-A-Creator Fee**” means an amount paid to an influencer, in accordance with the Support-A-Creator Program.       
+
+“**Updates**” means any updates, corrections, downloadable content, or enhancements to a Product provided by you to third parties or Users for use by Users. For the avoidance of doubt, Updates includes paid downloadable content.         
+
+“**User**” means any natural person, company, or other legal entity that may acquire Digital Rights to a Product via the Epic Games Store.      
+
+“**Your EULA**” means the End User License Agreement you make available to govern use of your Product by Users.        
+
+## EXHIBIT A - EPIC GAMES STORE DATA PROCESSING AGREEMENT (DPA)
+
+This Epic Games Store Data Processing Agreement (“**DPA**”) is between you (as defined in the Agreement) and Epic (sometimes referred to as “**we**,” “**us**,” “**our**,” or “**ours**”) and is effective from your physical execution of this DPA or digital acceptance of this DPA on the Epic Games Store Developer Portal. Acceptance of this DPA is understood by you and Epic to also include acceptance and execution of the Standard Contractual Clauses. Capitalized terms in this DPA without a definition in the Definitions section below have the definition given in the Agreement.         
+
+### DEFINITIONS
+
+“**Agreement**” means the Epic Games Store Distribution Agreement between you and Epic.        
+
+“**Data Protection Laws**” means data protection laws that apply to the Processing of Personal Data, and any amendments, replacements, supplements, or other laws or regulations related to applicable data protection laws.        
+
+“**Standard Contractual Clauses**" means:        
+
+a.	where the GDPR applies, the "**EU SCCs**" available at https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en;         
+
+b.	where the UK GDPR applies, the "**UK SCCs**" available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-data-transfer-agreement-and-guidance/; and       
+
+c.  any updated standard contractual clauses that may be adopted by the EU Commission.        
+
+Any references to “**Controller**,” “**Consumer**,” “**Data Subject**,” “**Processing**,”  “**Sell**,” “**Share**,” and “**Supervisory Authority**” or similar terms have the meaning given in the relevant Data Protection Laws. When we refer to “Personal Data” in this DPA, we are including “**Personal Information**,” “**Personally Identifiable Information**,” and any other similar terms defined by Data Protection Laws.        
+
+
+### 1. SHARED PERSONAL DATA, OUR ROLES, AND PURPOSE LIMITATIONS       
+
+a. **What Information We Share and Why**.  To distribute your Product on the Epic Games Store, Epic needs to share Personal Data (“**Shared Personal Data**”). Epic discloses Shared Personal Data for the limited and specific business purpose of verifying Users’ access to Products and as described in the Agreement (the “**Purpose**”).        
+
+b. **Your Role and Epic’s Role**.  You and Epic are each independent Controllers of Shared Personal Data and not joint data controllers under Data Protection Laws.        
+
+c. **Purpose Limitation**.  You will only use Shared Personal Data for the Purpose. You may not Sell or Share any Shared Personal Data. You may not collect, retain, share, or use Shared Personal Data except as necessary for the Purpose. Additionally, you may not combine Shared Personal Data with information you receive yourself or on behalf of another or that you collect from your own User interactions.        
+
+
+### 2. CONFIDENTIALITY       
+
+You will treat Shared Personal Data as Confidential Information under the Agreement and ensure access to Shared Personal Data is limited to personnel who need access for the Purpose or to exercise your rights under this DPA or the Agreement.      
+
+
+### 3. COMPLIANCE WITH LAWS      
+
+a.  **Data Protection Laws**.  You agree to use the Service and Process Shared Personal Data solely in compliance with all Data Protection Laws. If Data Protection Laws change in a way where this DPA is no longer adequate to lawfully govern data sharing, you and Epic agree to negotiate in good faith to revise or replace the DPA in light of the new Data Protection Laws.       
+
+b. **California Privacy**.  You and Epic confirm no Shared Personal Data is exchanged for goods, services, or payment. You agree to comply with applicable obligations of the California Consumer Privacy Act (“CCPA”) and to provide the level of privacy protection required by the CCPA.         
+
+c.  **Notification of Changed Circumstances**.  You will notify Epic if you determine you can no longer meet your obligations under this DPA or Data Protection Laws.        
+
+
+### 4. TRANSPARENCY OF PROCESSING     
+
+You will provide transparent information about the bases and purposes for your Processing of Shared Personal Data. You will maintain a publicly available and easily accessible privacy policy that:        
+
+a.	complies with Data Protection Laws;      
+
+b.	comprehensively, clearly, and accurately describes your practices on collection, use, and disclosure of Shared Personal Data; and        
+
+c.	provides contact information for data protection inquiries.       
+ 
+Your privacy policy must be consistent with this DPA and the Agreement. You agree that you will provide an accurate and current link to your publicly available privacy policy to Epic for inclusion on the Product display page.       
+
+
+### 5. REMEDIATION OF PROCESSING      
+
+We may take reasonable steps to ensure your use of Shared Personal Data is consistent with this DPA and the Agreement, and to stop any unauthorized use of Shared Personal Data by you (including by suspending or revoking your access to, or use of, any or all of the Service or Shared Personal Data if you have violated this DPA or the Agreement). If we give you written notice (email acceptable), you will immediately correct any Processing we reasonably believe violates Epic’s privacy policy, impacts our Processing of Shared Personal Data, or impacts our compliance with Data Protection Laws.          
+
+
+### 6. RETENTION AND DELETION       
+
+a.	**Limited Retention**.  You may only retain Shared Personal Data for as long as necessary for the Purpose or as required by applicable law.       
+
+b.	**Deletion**.  You agree to promptly and securely delete all of a User’s Shared Personal Data upon the User’s request, and provide an easily accessible mechanism for Users to make that request. You agree to promptly and securely delete all of a User’s Shared Personal Data upon notification from Epic that the User has submitted a deletion request to Epic. Promptly upon the expiration or earlier termination of this Addendum or the Agreement, you shall promptly and securely delete all Epic Account Data in your possession, custody, or control.        
+
+c.	**Exceptions**.  In the event and during the period that you are unable to perform deletion required by this DPA for reasons permitted under applicable law, you agree to (i) promptly inform Epic of the reason(s) for your refusal of the deletion; (ii) ensure the privacy, security, confidentiality, and integrity of the Shared Personal Data in accordance with this DPA and the Agreement; (iii) immediately cease from using the Shared Personal Data except as required by applicable law; and (iv) delete the Shared Personal Data promptly after the reason(s) for your refusal has expired.        
+
+
+### 7. DATA SECURITY       
+
+You will use reasonable technical and organizational security measures that are appropriate to protect Shared Personal Data from unauthorized or accidental Processing. These must include, at a minimum, those listed in Schedule B below. Your security measures must be designed to protect Shared Personal Data from accidental or unlawful destruction, loss, alteration, or unauthorized disclosure or access. You will regularly monitor compliance with your safeguards. You will not take any action or engage in any practice that in any way decreases the overall security of Epic or the Product.           
+
+
+### 8. SECURITY INCIDENTS       
+
+You will maintain security incident management policies and procedures for responding to unauthorized, accidental, or unlawful Processing, access, loss, disclosure, or destruction of Shared Personal Data (a “**Security Incident**”). You agree to immediately inform Epic upon becoming aware of any actual or suspected unauthorized or accidental Processing of Shared Personal Data. You agree to promptly investigate such Security Incident, take all necessary and advisable corrective actions, and cooperate fully with Epic in all reasonable and lawful efforts to prevent, mitigate, or rectify the Security Incident. Additionally, Epic may take reasonable steps to stop or correct a Security Incident. You will provide Epic with such assurances as Epic may request that such Security Incident is not likely to recur. You are solely responsible for notifying Supervisory Authorities and Data Subjects of any Security Incident you or your subprocessors experience. You are also solely responsible for paying all costs you or Epic incur associated with any Security Incident experienced by you or your subprocessors not attributable to Epic. You will consult with Epic in advance regarding any public statements to relating to the Security Breach which directly reference Epic. Unless required by law, you will not make any public statement about the Security Incident which directly references Epic without our prior written consent.          
+
+
+### 9. INTERNATIONAL DATA TRANSFERS       
+
+Where international transfers of Personal Data require extra measures because the laws of the recipient’s jurisdiction do not provide an adequate level of protection, you and Epic agree to comply with those measures as appropriate. Specifically, you and Epic agree that international transfers of Shared Personal Data will be subject to the appropriate Standard Contractual Clauses as follows:       
+
+a.	For Shared Personal Data protected by the GDPR, the EU SCCs apply, completed as follows:       
+
+ - i.	Module One will apply;       
+ - ii.	in Clause 7, the optional docking clause will not apply;       
+ - iii.	in Clause 11, the optional language will not apply;      
+ - iv.	in Clause 17, Option 1 will apply, and the EU SCC’s will be governed by Luxembourg law;       
+ - v.	in Clause 18(b), you and Epic agree to resolve disputes before the courts of Luxembourg;       
+ - vi.	Annex 1 will be read as if it were completed with the relevant information from Schedule A below and by you during your Epic Games Store registration process; and       
+ - vii.	Annex 2 will be read as if it were completed with the relevant information from Schedule B below.       
+
+b.	For Shared Personal Data protected by the UK GDPR, the UK SCCs will apply completed as follows:      
+
+ - i.	Where you and Epic may rely on the EU SCCs for transfers of Shared Personal Data from the United Kingdom after completion of a “UK Addendum to the EU Standard Contractual Clauses” (“UK Addendum”) issued by the Information Commissioner’s Office under s.119A(1) of the Data Protection Act 2018:       
+      - 1.    The EU SCCs, completed as described in Section 9(a) of this DPA will also apply to transfers of Shared Personal Data, subject to sub-section (ii) below; and       
+      - 2.    The UK Addendum will be considered executed between you and Epic, and the EU SCCs will be deemed amended by the UK Addendum concerning the Shared Personal Data.          
+     
+ - ii.	Where you and Epic may not rely on the EU SCCs for transfers of Shared Personal Data from the United Kingdom, You and Epic will cooperate in good faith to implement appropriate safeguards for transfers of Shared Personal Data as required or permitted by the UK GDPR.       
+
+
+### 10. ENTIRE AGREEMENT      
+
+This DPA is the entire agreement between you and Epic and replaces all prior or contemporaneous written or oral agreements between you and Epic concerning the exchange of Shared Personal Data on the Epic Games Store. If terms in this DPA and any other agreement between you and Epic conflict, the terms of this DPA will control. The Agreement may refer to this DPA as the Epic Games Store Data Protection Agreement, or the Epic Games Store Data Processing Agreement depending on your Agreement’s language – those references all refer to this DPA. If your Agreement does not contain a reference to this DPA, this DPA is considered part of your Agreement as the Epic Games Store Data Processing Agreement.          
+
+You and Epic acknowledge you have read this DPA and agree to be bound by its terms.          
+
+
+## DPA SCHEDULE A
+
+**Data exporter**      
+
+Name: is the entity identified as “Epic” in the Agreement.       
+
+Address: as detailed in the Agreement.       
+
+Contact person’s name, position and contact details: Data Protection Officer at dpo@support.epicgames.com.        
+
+Signature and date: The acceptance of DPA is considered signature and acceptance of this Schedule A.       
+
+Role (controller/processor): Controller        
+
+**Data importer**        
+
+Name: is the entity identified as “you” in the Agreement.        
+
+
+Address: as detailed in the Agreement or updated by you in the Developer Portal.        
+Contact person’s name, position and contact details: As stated by you during the Epic Games Store registration process or updated by you in the Developer Portal.        
+
+Signature and date: The acceptance of DPA is considered signature and acceptance of this Schedule A.      
+
+Role (controller/processor): Controller.        
+
+**Data Processing Description**        
+
+**Categories of Data Subjects**: The personal data transferred and processed concerns the following categories of identified or identifiable natural persons (data subjects): End Users 
+Categories of Personal Data The personal data transferred and processed concerns the following categories of data: Account identifiers and Epic display names.             
+
+**Sensitive data transferred** (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, for example strict purpose limitation, access restrictions (including access only for staff having followed specialized training), keeping a record of access to the data, restrictions for onward transfers or additional security measures: None          
+
+**Frequency of the Transfer** (e.g. whether the data is transferred on a one-off or continuous basis): Continuous.              
+
+**Nature of the Processing**: processing to provide the Epic Game Store Distribution in accordance with the Agreement and to facilitate Product use as contemplated in the Agreement and DPA; processing to perform any steps necessary for the performance of the Agreement.            
+
+**Purpose of the Processing**: You will process personal data submitted to, stored on, or sent via the Epic Game Store for the purpose of providing Product functionality and delivery of the Product in accordance with this DPA’s terms.          
+
+**Period for which the personal data will be retained**, or, if that is not possible, the criteria used to determine that period: Throughout the term of the Agreement plus the period from expiry of the term until deletion of Shared Personal Data by you in accordance with the Agreement or your data retention practices.        
+
+**Competent Authority**: For Personal Data protected by the EU GDPR, the Luxembourg Data Protection Authority.  For Personal Data protected by the UK GDPR, the UK Information Commissioner's Office.          
+
+
+## DPA SCHEDULE B
+
+**Minimum Technical and Organization Measures**          
+
+A.	You have implemented and will maintain reasonable and appropriate technical and organizational measures to protect Shared Personal Data against accidental loss, destruction or alteration, unauthorized disclosure or access, or unlawful destruction, including the policies, and procedures and internal controls set forth in this Schedule B.      	    
+
+B.	More specifically, your security program includes, at a minimum:         
+
+**Access Control of Processing Areas**         
+
+You have implemented and will maintain reasonable and appropriate measures to prevent unauthorized access to the data processing equipment (namely telephones, database and application servers, and related hardware) where Shared Personal Data is processed or used, including:      
+ - establishing security areas and physical controls;       
+ - protection and restriction of access paths;      
+ - establishing access authorizations for employees and third parties, including related documentation;         
+ - all access to the data center where Shared Personal Data are hosted is logged, monitored, and tracked; and       
+ - the data center where Shared Personal Data is hosted is secured by a security alarm system and other appropriate security measures.       
+ 
+**Access Control to Data Processing Systems**        
+
+You have implemented and will maintain reasonable and appropriate measures to prevent data processing systems where Shared Personal Data is processed and used from being used by unauthorized persons, including:       
+ - use of industry best encryption technologies, including for data at rest and in transit;        
+ - identification of the terminal and/or the terminal user to Developer and processing systems;      
+ - automatic temporary lock-out of user terminal if left idle, identification and password required to reopen;      
+ - automatic temporary lock-out of the user ID when several erroneous passwords are entered, log file of events, monitoring of break-in-attempts (alerts); and      
+ - all access to data content is logged, monitored, and tracked.       
+
+**Access Control to Use Specific Areas of Data Processing Systems**         
+
+You commit that the personnel that may use your data processing system are only able to access the data within the scope and to the extent covered by their role’s authorization and that Shared Personal Data cannot be read, copied, modified or removed without authorization.  This is accomplished by various measures including:      
+ - employee policies and training on each employee’s access rights to the Shared Personal Data;      
+ - allocation of individual terminals and/or terminal users and identification characteristics exclusive to specific functions;        
+ - monitoring capability for individuals who delete, add, or modify the Shared Personal Data;        
+ - release of data only to authorized persons, including allocation of differentiated access rights and roles;      
+ - use of industry standard encryption technologies, including for data at rest and in-transit; and     
+ - control of files, controlled and documented destruction of data.      
+ 
+**Availability Control**
+
+You have implemented and will maintain reasonable and appropriate measures to ensure that Shared Personal Data is protected from accidental destruction or loss, including:       
+ - infrastructure redundancy; and       
+ - backup is stored at an alternative site and available for restore in case of failure of the primary system.       
+ 
+**Transmission Control**
+
+You have implemented and will maintain reasonable and appropriate measures to prevent Shared Personal Data from being read, copied, altered, or deleted by unauthorized parties during its transmission or during the transport of data media. This is accomplished by various measures including:        
+ - use of industry standard firewall, VPN, and encryption technologies to protect the gateways and pipelines through which the data travels;       
+ - highly confidential employee data is encrypted within the system;      
+ - providing user alert upon incomplete transfer of data (end to end check); and       
+ - as far as possible, all data transmissions are logged, monitored, and tracked.     
+
+**Input Control**       
+
+You have implemented and will maintain reasonable and appropriate input control measures, including:        
+ - an authorization policy for the input, reading, alteration, and deletion of data;        
+ - authentication of the authorized personnel;       
+ - protective measures for the data input into memory, as well as for the reading, alteration, and deletion of stored data;        
+ - utilization of unique authentication credentials or codes (passwords);        
+ - providing that entries to data processing facilities (the rooms housing the computer hardware and related equipment) are kept locked;         
+ - automatic log-off of user ID's that have not been used for a substantial period of time;          
+ - proof established within Developer’s organization of the input authorization; and        
+ - electronic recording of entries.       
+ 
+**Separation of Processing for Different Purposes**        
+
+You have implemented and will maintain reasonable and appropriate measures to ensure that data collected for different purposes can be processed separately, including:       
+ - access to data is separated through application security for the appropriate users;      
+ - modules within your data base separate which data is used for which purpose, i.e. by functionality and function;       
+ - at the database level, data is stored in different normalized tables, separated per module, or function they support; and     
+ - interfaces, batch processes and reports are designed for only specific purposes and functions, so data collected for specific purposes is processed separately.       
+
+**Documentation**         
+
+You agree to keep documentation of technical and organizational measures in case of audits and for the conservation of evidence. You will ensure employees, and other persons at your place of work are aware of and comply with the technical and organizational measures set forth in this Schedule B.        
+
+**Monitoring**         
+
+You have implemented and will maintain reasonable and appropriate measures to monitor access restrictions to your system administrators and ensure they act in accordance with instructions received. This is accomplished by various measures including:        
+ - individual appointment of system administrators;       
+ - adoption of commercially reasonable and appropriate measures to register system administrators' access logs to the infrastructure and keep them secure, accurate, and unmodified for at least six months;       
+ - yearly audits of system administrators’ activity to assess compliance with assigned tasks, the instructions received by you, and Data Protection Laws; and       
+ - keeping an updated list with system administrators’ identification details (e.g. name, surname, function or organizational area) and tasks assigned and providing it promptly to data exporter upon request.      
+ 
+**Limits on Retention/Destruction**         
+
+You will destroy or dispose of records containing Shared Personal Data when there no longer exists any lawful basis for processing. You have implemented and will maintain reasonable and appropriate measures to securely destroy all Shared Personal Data consistent with Data Protection Laws. Methods of performing these actions may include the use of a third-party disk scrubbing utility or destruction of the drive, such as by degaussing, shredding, or other means of physically destroying data through specialized equipment and services.           
