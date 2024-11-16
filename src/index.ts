@@ -41,7 +41,7 @@ const main = async () => {
       let md = `# ${eula.title || eulaKey}\n\n`;
 
       if (eula.description) {
-        md += `${eula.description}\n\n`;
+        md += `> ${eula.description}\n\n`;
       }
 
       md += '| Key | Value |\n';
@@ -71,7 +71,7 @@ const main = async () => {
     return;
   }
 
-  const commitMessage = `Modified ${changes.join(', ')}`
+  const commitMessage = `Modified ${changes.join(', ')}`;
 
   console.log(commitMessage);
 

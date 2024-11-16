@@ -2,7 +2,7 @@ name: Update Data
 on:
   push:
   schedule:
-    - cron: "*/60 * * * *" # runs every 60 minutes
+    - cron: "*/360 * * * *" # runs every 360 minutes (6 hours)
 
 jobs:
   check-api:
