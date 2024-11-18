@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66e0c6b6d478764d9950a420` |
+| `id` | `673ba6da5c3312111f6a24d6` |
 | `key` | `FortniteMobileAndroid` |
 | `version` | `4` |
-| `revision` | `6` |
+| `revision` | `7` |
 | `title` | `Fortnite® End User License Agreement` |
 | `locale` | `en` |
-| `createdTimestamp` | `2024-09-10T22:22:46.856Z` |
-| `lastModifiedTimestamp` | `2024-09-10T22:22:46.856Z` |
+| `createdTimestamp` | `2024-11-18T20:43:06.606Z` |
+| `lastModifiedTimestamp` | `2024-11-18T20:43:06.606Z` |
 | `status` | `ACTIVE` |
 | `description` | `Should have already been replaced by "mfnlaunch". Waiting for confirmation before deactivating.` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid/en/v4/r6/a792fa20f011650a51c2c2e8b6ecd8b7.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid/en/v4/r7/d84fba2f9deac340a4b50d96459845a2.pdf` |
 | `bodyFormat` | `HTML` |

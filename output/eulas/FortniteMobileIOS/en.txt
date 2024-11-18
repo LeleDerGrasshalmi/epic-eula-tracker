@@ -159,7 +159,7 @@ You and Epic agree that Disputes will be settled by binding individual arbitrati
 
 This means that You and Epic agree to a dispute-resolution process where we submit any Dispute to a neutral arbitrator (not a judge or jury) that makes the final decision to resolve the Dispute. NAM uses experienced professionals to arbitrate disputes, which helps You and Epic resolve any disputes fairly, but more quickly and efficiently than going to court. The arbitrator may award the same remedies to you individually as a court could, but only to the extent required to satisfy your individual claim.
 
-The arbitrator’s decision is final, except for a limited review by courts under the U.S. Federal Arbitration Act, and can enforced like any other court order or judgment.
+The arbitrator’s decision is final, except for a limited review by courts under the U.S. Federal Arbitration Act, and can be enforced like any other court order or judgment.
 
 <EULA.Header>12.3.1 Disputes We Agree to Arbitrate:</> 
 
