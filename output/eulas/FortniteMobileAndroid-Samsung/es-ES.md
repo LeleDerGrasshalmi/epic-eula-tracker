@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `669996e24d4b55529eff4d2b` |
+| `id` | `6761d86c76adcd0024699ce8` |
 | `key` | `FortniteMobileAndroid-Samsung` |
-| `version` | `5` |
-| `revision` | `3` |
+| `version` | `6` |
+| `revision` | `1` |
 | `title` | `Contrato de Licencia de Usuario Final de Fortnite®` |
 | `locale` | `es-ES` |
-| `createdTimestamp` | `2024-07-18T22:27:46.322Z` |
-| `lastModifiedTimestamp` | `2024-07-18T22:27:46.322Z` |
+| `createdTimestamp` | `2024-12-17T20:00:44.548Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:00:44.548Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid-Samsung/es-ES/v5/r3/50cee1de119af31904499c02eb8248e9.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid-Samsung/es-ES/v6/r1/58e7a78d2c8212223d86a750d2f47579.pdf` |
 | `bodyFormat` | `HTML` |

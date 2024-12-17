@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66998c7eebddcc42136fe862` |
+| `id` | `6761d752f6091060e453abb1` |
 | `key` | `FortniteMobileAndroid` |
-| `version` | `4` |
-| `revision` | `3` |
+| `version` | `5` |
+| `revision` | `1` |
 | `title` | `Umowa licencyjna użytkownika końcowego oprogramowania Fortnite®` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2024-07-18T21:43:26.457Z` |
-| `lastModifiedTimestamp` | `2024-07-18T21:43:26.457Z` |
+| `createdTimestamp` | `2024-12-17T19:56:02.080Z` |
+| `lastModifiedTimestamp` | `2024-12-17T19:56:02.080Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid/pl/v4/r3/4afc74db71e057bdc44f0e894067b5ce.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileAndroid/pl/v5/r1/64957a43ec2ac496bdbbea1a7f4d6bad.pdf` |
 | `bodyFormat` | `HTML` |

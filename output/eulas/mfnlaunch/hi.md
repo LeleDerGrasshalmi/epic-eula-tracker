@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fc799ae1dbe3521df7afd6` |
+| `id` | `6761d4cc33878e6d65b8089a` |
 | `key` | `mfnlaunch` |
-| `version` | `1` |
-| `revision` | `5` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `Fortnite® मोबाइल एंड यूज़र लाइसेंस एग्रीमेंट` |
 | `locale` | `hi` |
-| `createdTimestamp` | `2024-10-01T22:37:14.111Z` |
-| `lastModifiedTimestamp` | `2024-10-01T22:37:14.111Z` |
+| `createdTimestamp` | `2024-12-17T19:45:16.829Z` |
+| `lastModifiedTimestamp` | `2024-12-17T19:45:16.829Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/hi/v1/r5/2b5e4c2fc568651b3843cdd1d67df1d0.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/hi/v2/r1/bca0d8da969b6a5e3d13dbd4b2961a40.pdf` |
 | `bodyFormat` | `HTML` |

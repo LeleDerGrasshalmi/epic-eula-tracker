@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fc7db19e754601bbd3c159` |
+| `id` | `6761d9f9a6ddae5ddde3b4e4` |
 | `key` | `fn-ps4-CUSA07022_00` |
-| `version` | `5` |
-| `revision` | `5` |
+| `version` | `6` |
+| `revision` | `1` |
 | `title` | `اتفاقية ترخيص المستخدم النهائي من Fortnite®` |
 | `locale` | `ar` |
-| `createdTimestamp` | `2024-10-01T22:54:41.403Z` |
-| `lastModifiedTimestamp` | `2024-10-01T22:54:41.403Z` |
+| `createdTimestamp` | `2024-12-17T20:07:21.237Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:07:21.237Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ar/v5/r5/f662d760fcc6c51d9961fa3172091911.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ar/v6/r1/1b668b3b51d3075c1dce4bb463c94675.pdf` |
 | `bodyFormat` | `HTML` |

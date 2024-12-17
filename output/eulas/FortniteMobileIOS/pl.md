@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66998c739fbede1c50e3fe51` |
+| `id` | `6761d6adf6091060e453aba2` |
 | `key` | `FortniteMobileIOS` |
-| `version` | `4` |
-| `revision` | `3` |
+| `version` | `5` |
+| `revision` | `1` |
 | `title` | `Umowa licencyjna użytkownika końcowego oprogramowania Fortnite®` |
 | `locale` | `pl` |
-| `createdTimestamp` | `2024-07-18T21:43:15.965Z` |
-| `lastModifiedTimestamp` | `2024-07-18T21:43:15.965Z` |
+| `createdTimestamp` | `2024-12-17T19:53:17.256Z` |
+| `lastModifiedTimestamp` | `2024-12-17T19:53:17.256Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileIOS/pl/v4/r3/bad47bad242a8a2221aab7280c463811.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/FortniteMobileIOS/pl/v5/r1/b92268fe3076896a2efd4e908ca9ed04.pdf` |
 | `bodyFormat` | `HTML` |

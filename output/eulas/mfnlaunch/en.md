@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6761c9e2e2b70204533544dc` |
+| `id` | `6761d4cc33878e6d65b808a5` |
 | `key` | `mfnlaunch` |
-| `version` | `1` |
-| `revision` | `16` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `Fortnite® Mobile End User License Agreement` |
 | `locale` | `en` |
-| `createdTimestamp` | `2024-12-17T18:58:42.401Z` |
-| `lastModifiedTimestamp` | `2024-12-17T18:58:42.401Z` |
+| `createdTimestamp` | `2024-12-17T19:45:16.775Z` |
+| `lastModifiedTimestamp` | `2024-12-17T19:45:16.775Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/en/v1/r16/ac245989d08d457dc9f40cb67c04457e.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/en/v2/r1/7f857b0fcd4a68ab95631942acbdb4f4.pdf` |
 | `bodyFormat` | `HTML` |

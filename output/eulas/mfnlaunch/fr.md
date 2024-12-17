@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fc798a6097a160ac0e8d5b` |
+| `id` | `6761d4cc33878e6d65b80899` |
 | `key` | `mfnlaunch` |
-| `version` | `1` |
-| `revision` | `6` |
+| `version` | `2` |
+| `revision` | `1` |
 | `title` | `CONTRAT DE LICENCE MOBILE DE L’UTILISATEUR FINAL DE FORTNITE®` |
 | `locale` | `fr` |
-| `createdTimestamp` | `2024-10-01T22:36:58.957Z` |
-| `lastModifiedTimestamp` | `2024-10-01T22:36:58.957Z` |
+| `createdTimestamp` | `2024-12-17T19:45:16.820Z` |
+| `lastModifiedTimestamp` | `2024-12-17T19:45:16.820Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/fr/v1/r6/dc00910b34147b7eff63b11d5e188938.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/mfnlaunch/fr/v2/r1/53d928cc4c2b6ec4c080cf300fcdd649.pdf` |
 | `bodyFormat` | `HTML` |

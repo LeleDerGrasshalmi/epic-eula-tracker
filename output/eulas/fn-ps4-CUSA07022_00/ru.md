@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fec7ae5c3312111f6a1208` |
+| `id` | `6761d9f9a6ddae5ddde3b4ef` |
 | `key` | `fn-ps4-CUSA07022_00` |
-| `version` | `5` |
-| `revision` | `8` |
+| `version` | `6` |
+| `revision` | `1` |
 | `title` | `Лицензионное соглашение с конечным пользователем продукта Fortnite®` |
 | `locale` | `ru` |
-| `createdTimestamp` | `2024-10-03T16:34:54.171Z` |
-| `lastModifiedTimestamp` | `2024-10-03T16:34:54.171Z` |
+| `createdTimestamp` | `2024-12-17T20:07:21.337Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:07:21.337Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ru/v5/r8/f37a8f614563a5603246c8c7a370d229.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-ps4-CUSA07022_00/ru/v6/r1/39fe89d6f79ae4828f9f8f66fcde1bdf.pdf` |
 | `bodyFormat` | `HTML` |

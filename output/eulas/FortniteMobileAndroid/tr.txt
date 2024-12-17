@@ -1,3 +1,5 @@
+<EULA.Highlight>Son güncelleme 17 Aralık 2024</>
+
 Lütfen bu Sözleşmeyi dikkatlice okuyun.  Bu Sözleşme, Yazılım üzerinden eriştiğiniz Hizmetler ve yaptığınız satın alma işlemleri dâhil olmak üzere Yazılımın tarafınızca kullanımıyla ilgili haklarınızı ve yükümlülüklerinizi açıklayan yasal bir belgedir. Yazılımı indirerek veya kullanarak ya da diğer yollarla işbu Sözleşmeyi kabul ettiğinizi belirterek işbu Sözleşmenin şartlarına tabi olmayı kabul etmiş oluyorsunuz. İşbu Sözleşmenin şartlarını kabul etmiyor veya edemiyorsanız lütfen bu Yazılımı indirmeyin ya da kullanmayın.  
 
 Uygulamalarımızı anlamak için lütfen, Hizmetlerin tarafınızca kullanımını da yöneten, https://www.epicgames.com/privacypolicy, adresinde bulunabilecek olan Epic’in Gizlilik Politikasını inceleyin. Ayrıca, Hizmetlerin tarafınızca kullanımı da Epic’in https://www.epicgames.com/tos adresinde bulunabilecek Hizmet Şartlarına tabidir. Yazılımı indirerek veya kullanarak Epic’in Hizmet Şartlarını da kabul etmiş ve Epic’in Gizlilik Politikasını okuduğunuzu onaylamış oluyorsunuz.

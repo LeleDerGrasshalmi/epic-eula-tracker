@@ -1,3 +1,5 @@
+<EULA.Highlight>Son güncelleme 17 Aralık 2024</>
+
 Lütfen bu Sözleşmeyi dikkatle okuyun. Bu belge, Yazılım aracılığıyla eriştiğiniz veya satın aldığınız tüm Hizmetler dâhil olmak üzere Epic Yazılımını kullanımınız ile ilgili haklarınızı ve yükümlülüklerinizi açıklayan yasal bir belgedir. Yazılımı indirerek veya kullanarak veya bu Anlaşmayı kabul ettiğinizi başka bir şekilde belirterek, bu Anlaşmanın şartlarıyla bağlı olmayı kabul etmiş olursunuz. Bu Anlaşmanın koşullarını kabul etmiyorsanız veya edemiyorsanız bu Yazılımı indiremez veya kullanamazsınız.
 
 Özellikle, bu Anlaşmadaki bazı önemli terimleri, politikaları ve prosedürleri vurgulamak istiyoruz. Bu Anlaşmayı kabul ederek:
