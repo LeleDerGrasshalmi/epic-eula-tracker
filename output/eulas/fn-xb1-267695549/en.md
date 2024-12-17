@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `673ba62e7d04a972f7583745` |
+| `id` | `6761db050e79d66554b7bb3b` |
 | `key` | `fn-xb1-267695549` |
-| `version` | `4` |
-| `revision` | `11` |
+| `version` | `5` |
+| `revision` | `1` |
 | `title` | `Fortnite® End User License Agreement` |
 | `locale` | `en` |
-| `createdTimestamp` | `2024-11-18T20:40:14.914Z` |
-| `lastModifiedTimestamp` | `2024-11-18T20:40:14.914Z` |
+| `createdTimestamp` | `2024-12-17T20:11:49.852Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:11:49.852Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/en/v4/r11/d925f6722c1ebe2664621d5d12bef72d.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/en/v5/r1/759bb42f211e8f8cbd221cc4701df013.pdf` |
 | `bodyFormat` | `HTML` |

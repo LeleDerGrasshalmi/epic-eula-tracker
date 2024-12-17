@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fc7881f6091060e4538713` |
+| `id` | `6761dcf59e754601bbd3e65b` |
 | `key` | `fn` |
-| `version` | `8` |
-| `revision` | `8` |
+| `version` | `9` |
+| `revision` | `1` |
 | `title` | `Fortnite® エンドユーザーライセンス契約` |
 | `locale` | `ja` |
-| `createdTimestamp` | `2024-10-01T22:32:33.727Z` |
-| `lastModifiedTimestamp` | `2024-10-01T22:32:33.727Z` |
+| `createdTimestamp` | `2024-12-17T20:20:05.412Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:20:05.412Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/ja/v8/r8/28fcdefc651f9590158911dd9c1cdcf3.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/ja/v9/r1/fd94a6a90a3cfe02c19cfc60d4a67333.pdf` |
 | `bodyFormat` | `HTML` |

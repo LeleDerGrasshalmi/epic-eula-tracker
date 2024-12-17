@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `6761da6cd2e51872c24ce4c7` |
+| `id` | `6761db050e79d66554b7bb37` |
 | `key` | `fn-xb1-267695549` |
-| `version` | `4` |
-| `revision` | `7` |
+| `version` | `5` |
+| `revision` | `1` |
 | `title` | `Acordo de Licença de Usuário Final Fortnite®` |
 | `locale` | `pt` |
-| `createdTimestamp` | `2024-12-17T20:09:16.633Z` |
-| `lastModifiedTimestamp` | `2024-12-17T20:09:16.633Z` |
+| `createdTimestamp` | `2024-12-17T20:11:49.920Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:11:49.920Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/pt/v4/r7/38462583cf6bad87eb14de37a5c749b8.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn-xb1-267695549/pt/v5/r1/cc28cee750916409efb8f0db4761ef66.pdf` |
 | `bodyFormat` | `HTML` |

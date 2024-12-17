@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66fc7862a8dcd66ae51820fb` |
+| `id` | `6761dcf59e754601bbd3e659` |
 | `key` | `fn` |
-| `version` | `8` |
-| `revision` | `8` |
+| `version` | `9` |
+| `revision` | `1` |
 | `title` | `Fortnite® एंड यूज़र लाइसेंस एग्रीमेंट` |
 | `locale` | `hi` |
-| `createdTimestamp` | `2024-10-01T22:32:02.606Z` |
-| `lastModifiedTimestamp` | `2024-10-01T22:32:02.606Z` |
+| `createdTimestamp` | `2024-12-17T20:20:05.383Z` |
+| `lastModifiedTimestamp` | `2024-12-17T20:20:05.383Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/hi/v8/r8/2e6c3c877d22cd3617c1cc31a28c6e8d.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/fn/hi/v9/r1/62dedf81d7a10c71be98641c7cc6945e.pdf` |
 | `bodyFormat` | `HTML` |
