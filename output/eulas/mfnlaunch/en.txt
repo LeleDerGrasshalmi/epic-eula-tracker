@@ -1,4 +1,4 @@
-<EULA.Highlight>Last Updated 8.17.2024</>
+<EULA.Highlight>Last Updated 12.17.2024</>
 
 Please read this Agreement carefully. It is a legal document that explains your rights and obligations related to your use of Epic’s Software, including any Services you access or purchases you make through the Software. By downloading or using the Software, or by otherwise indicating your acceptance of this Agreement, you are agreeing to be bound by the terms of this Agreement. If you do not or cannot agree to the terms of this Agreement, you may not download or use this Software.
 
