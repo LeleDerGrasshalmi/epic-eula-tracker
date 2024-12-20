@@ -163,7 +163,7 @@ https://www.epicgames.com/customer-service
 
 إذا كنت تقيم في الاتحاد الأوروبي ("الاتحاد الأوروبي")، يحق لك أيضا تقديم شكواك الى المفوضية الاوروبية عبر منصتها لحل النزاعات على الانترنت على الرابط التالي:
 
-https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=EN
+https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show
 
 وتسمح منصة حل النزاعات على الانترنت للمستهلكين في الاتحاد الأوروبي بحل النزاعات المتعلقة بعمليات شراء السلع والخدمات عبر الإنترنت دون اللجوء إلى المحاكم. 
 
