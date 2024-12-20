@@ -4,16 +4,16 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66986b49d7712f254c6c23db` |
+| `id` | `6764c1a7e2b7020453354649` |
 | `key` | `egstore` |
 | `version` | `5` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `<EULA.Header>EPIC GAMES MAĞAZASI SON KULLANICI LİSANS ANLAŞMASI</>` |
 | `locale` | `tr` |
-| `createdTimestamp` | `2024-07-18T01:09:29.252Z` |
-| `lastModifiedTimestamp` | `2024-07-18T01:09:29.252Z` |
+| `createdTimestamp` | `2024-12-20T01:00:23.689Z` |
+| `lastModifiedTimestamp` | `2024-12-20T01:00:23.689Z` |
 | `status` | `ACTIVE` |
 | `description` | `Store EULA` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/tr/v5/r1/47422fa9d6c1cb1fdeda6d248c4a9f2b.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/tr/v5/r2/0d179f20975e9fe08058120d9b6bad24.pdf` |
 | `bodyFormat` | `HTML` |

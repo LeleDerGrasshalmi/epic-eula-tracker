@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66986b49d7712f254c6c23dc` |
+| `id` | `6764c1b1e1dbe3521df7d57e` |
 | `key` | `egstore` |
 | `version` | `5` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `<EULA.Header>EPIC GAMES 商店最终用户许可协议</>` |
 | `locale` | `zh-CN` |
-| `createdTimestamp` | `2024-07-18T01:09:29.260Z` |
-| `lastModifiedTimestamp` | `2024-07-18T01:09:29.260Z` |
+| `createdTimestamp` | `2024-12-20T01:00:33.537Z` |
+| `lastModifiedTimestamp` | `2024-12-20T01:00:33.537Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/zh-CN/v5/r1/f6a3dcbda6905178e1b600c8dec34155.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/zh-CN/v5/r2/f053d947906ef4648cd14162421b88e5.pdf` |
 | `bodyFormat` | `HTML` |

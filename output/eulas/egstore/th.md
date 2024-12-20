@@ -2,15 +2,15 @@
 
 | Key | Value |
 | --- | ----- |
-| `id` | `66986b49d7712f254c6c23da` |
+| `id` | `6764c19da50ccb78558e8b02` |
 | `key` | `egstore` |
 | `version` | `5` |
-| `revision` | `1` |
+| `revision` | `2` |
 | `title` | `<EULA.Header>ข้อตกลงการใบอนุญาตผู้ใช้งานของ EPIC GAMES STORE</>` |
 | `locale` | `th` |
-| `createdTimestamp` | `2024-07-18T01:09:29.238Z` |
-| `lastModifiedTimestamp` | `2024-07-18T01:09:29.238Z` |
+| `createdTimestamp` | `2024-12-20T01:00:13.876Z` |
+| `lastModifiedTimestamp` | `2024-12-20T01:00:13.876Z` |
 | `status` | `ACTIVE` |
 | `custom` | `false` |
-| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/th/v5/r1/f3b4c4ba36e7cb5f1427ddce59a636ff.pdf` |
+| `url` | `https://cdn1.epicgames.com/eulatracking-download/egstore/th/v5/r2/7b54ccadb51de62d30a66f8a5e6cdd1b.pdf` |
 | `bodyFormat` | `HTML` |
