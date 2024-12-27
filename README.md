@@ -1,1 +1,1 @@
-Tracking epic games eulas.
+Moved to https://github.com/Trackerino/eula-tracker.
